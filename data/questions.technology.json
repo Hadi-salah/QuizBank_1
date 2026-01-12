@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1,
+    "type": "MCQ",
+    "question": "أي مكوّن مسؤول عن تنفيذ التعليمات في الحاسوب؟",
+    "options": [
+      "CPU",
+      "SSD",
+      "GPU",
+      "RAM"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "عتاد"
+  },
+  {
+    "id": 2,
+    "type": "MCQ",
+    "question": "أي نوع ذاكرة يفقد محتواه عند انقطاع الكهرباء؟",
+    "options": [
+      "HDD",
+      "RAM",
+      "ROM",
+      "SSD"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "عتاد"
+  },
+  {
+    "id": 3,
+    "type": "MCQ",
+    "question": "ما الأفضل عادةً لسرعة إقلاع النظام؟",
+    "options": [
+      "HDD",
+      "SSD",
+      "DVD",
+      "Tape"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "عتاد"
+  },
+  {
+    "id": 4,
+    "type": "MCQ",
+    "question": "أي قطعة مسؤولة أساسًا عن معالجة الرسوميات؟",
+    "options": [
+      "NIC",
+      "RAM",
+      "GPU",
+      "CPU"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "عتاد"
+  },
+  {
+    "id": 5,
+    "type": "MCQ",
+    "question": "ما وظيفة BIOS/UEFI بشكل أساسي؟",
+    "options": [
+      "بدء الإقلاع وتهيئة العتاد",
+      "تشفير القرص",
+      "ضغط الملفات",
+      "تسريع الإنترنت"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "نظم تشغيل"
+  },
+  {
+    "id": 6,
+    "type": "MCQ",
+    "question": "أي نظام ملفات شائع في أقراص ويندوز الحديثة؟",
+    "options": [
+      "EXT4",
+      "APFS",
+      "FAT12",
+      "NTFS"
+    ],
+    "correctIndex": 3,
+    "category": "تكنولوجيا",
+    "topic": "نظم تشغيل"
+  },
+  {
+    "id": 7,
+    "type": "MCQ",
+    "question": "أي نظام ملفات شائع في لينكس؟",
+    "options": [
+      "exFAT",
+      "EXT4",
+      "HFS+",
+      "NTFS"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "نظم تشغيل"
+  },
+  {
+    "id": 8,
+    "type": "MCQ",
+    "question": "ما المقصود بـ IP Address؟",
+    "options": [
+      "عنوان يعرّف جهازًا على الشبكة",
+      "اسم مستخدم",
+      "نوع كابل",
+      "لغة برمجة"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "شبكات"
+  },
+  {
+    "id": 9,
+    "type": "MCQ",
+    "question": "أي بروتوكول يترجم أسماء النطاقات إلى عناوين IP؟",
+    "options": [
+      "NTP",
+      "DHCP",
+      "DNS",
+      "SMTP"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "شبكات"
+  },
+  {
+    "id": 10,
+    "type": "MCQ",
+    "question": "أي خدمة توزع عناوين IP تلقائيًا داخل الشبكة؟",
+    "options": [
+      "DNS",
+      "DHCP",
+      "FTP",
+      "SSH"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "شبكات"
+  },
+  {
+    "id": 11,
+    "type": "MCQ",
+    "question": "أي بروتوكول يُستخدم لمزامنة الوقت عبر الشبكات؟",
+    "options": [
+      "SMTP",
+      "IMAP",
+      "NTP",
+      "POP3"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "شبكات"
+  },
+  {
+    "id": 12,
+    "type": "MCQ",
+    "question": "أي طبقة في نموذج OSI تتعامل مع التوجيه (Routing)؟",
+    "options": [
+      "طبقة النقل",
+      "طبقة العرض",
+      "طبقة الجلسة",
+      "طبقة الشبكة"
+    ],
+    "correctIndex": 3,
+    "category": "تكنولوجيا",
+    "topic": "شبكات"
+  },
+  {
+    "id": 13,
+    "type": "MCQ",
+    "question": "أي بروتوكول يضمن التسليم الموثوق وترتيب الحزم؟",
+    "options": [
+      "ICMP",
+      "UDP",
+      "TCP",
+      "ARP"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "شبكات"
+  },
+  {
+    "id": 14,
+    "type": "MCQ",
+    "question": "أي بروتوكول مناسب للبث الصوتي/الفيديو بزمن تأخير قليل؟",
+    "options": [
+      "FTP",
+      "UDP",
+      "TCP",
+      "SMB"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "شبكات"
+  },
+  {
+    "id": 15,
+    "type": "MCQ",
+    "question": "ما المنفذ الافتراضي لـ HTTPS؟",
+    "options": [
+      "53",
+      "443",
+      "22",
+      "80"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "ويب/شبكات"
+  },
+  {
+    "id": 16,
+    "type": "MCQ",
+    "question": "ما المنفذ الافتراضي لـ HTTP؟",
+    "options": [
+      "25",
+      "110",
+      "80",
+      "143"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "ويب/شبكات"
+  },
+  {
+    "id": 17,
+    "type": "MCQ",
+    "question": "أي بروتوكول يستخدم لتأمين الاتصال عبر الويب؟",
+    "options": [
+      "Telnet",
+      "RARP",
+      "TLS",
+      "ARP"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "أمن"
+  },
+  {
+    "id": 18,
+    "type": "MCQ",
+    "question": "ما الفرق الأساسي بين التشفير والهاش؟",
+    "options": [
+      "التشفير لا يمكن فكه",
+      "التشفير لا يحتاج مفتاحًا",
+      "الهاش يعيد النص الأصلي",
+      "الهاش أحادي الاتجاه عادةً"
+    ],
+    "correctIndex": 3,
+    "category": "تكنولوجيا",
+    "topic": "أمن"
+  },
+  {
+    "id": 19,
+    "type": "MCQ",
+    "question": "أي مما يلي مثال على تشفير متماثل؟",
+    "options": [
+      "ECC",
+      "RSA",
+      "AES",
+      "DSA"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "أمن"
+  },
+  {
+    "id": 20,
+    "type": "MCQ",
+    "question": "أي مما يلي مثال على تشفير غير متماثل؟",
+    "options": [
+      "RSA",
+      "ChaCha20",
+      "DES",
+      "AES"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "أمن"
+  },
+  {
+    "id": 21,
+    "type": "MCQ",
+    "question": "ما وظيفة جدار الحماية (Firewall)؟",
+    "options": [
+      "التحكم في حركة المرور حسب قواعد",
+      "تحويل PDF إلى Word",
+      "تسريع المعالج",
+      "زيادة سعة الرام"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "أمن"
+  },
+  {
+    "id": 22,
+    "type": "MCQ",
+    "question": "أي هجوم يعتمد على خداع المستخدم للحصول على بياناته؟",
+    "options": [
+      "Phishing",
+      "Buffer Overflow",
+      "DDoS",
+      "SQL Injection"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "أمن"
+  },
+  {
+    "id": 23,
+    "type": "MCQ",
+    "question": "ما المقصود بـ MFA؟",
+    "options": [
+      "نوع تشفير للملفات",
+      "مصادقة متعددة العوامل",
+      "تحديث تلقائي للويندوز",
+      "بروتوكول بريد"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "أمن"
+  },
+  {
+    "id": 24,
+    "type": "MCQ",
+    "question": "أي خوارزمية تُستخدم عادةً لتجزئة كلمات المرور (Hashing)؟",
+    "options": [
+      "FTP",
+      "HTTP",
+      "PNG",
+      "bcrypt"
+    ],
+    "correctIndex": 3,
+    "category": "تكنولوجيا",
+    "topic": "أمن"
+  },
+  {
+    "id": 25,
+    "type": "MCQ",
+    "question": "ما الهدف من الـ Salt عند تخزين كلمات المرور؟",
+    "options": [
+      "زيادة حجم قاعدة البيانات",
+      "تحويل الهاش إلى نص",
+      "تسريع الإنترنت",
+      "منع الجداول الجاهزة وتقليل التطابق"
+    ],
+    "correctIndex": 3,
+    "category": "تكنولوجيا",
+    "topic": "أمن"
+  },
+  {
+    "id": 26,
+    "type": "MCQ",
+    "question": "ما معنى CORS في الويب؟",
+    "options": [
+      "سياسة مشاركة الموارد عبر النطاقات",
+      "لغة تصميم",
+      "بروتوكول تشفير",
+      "نوع قاعدة بيانات"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "ويب"
+  },
+  {
+    "id": 27,
+    "type": "MCQ",
+    "question": "ما هي Cookie في الويب؟",
+    "options": [
+      "ملف فيديو",
+      "لغة برمجة",
+      "نوع RAM",
+      "بيانات صغيرة يخزنها المتصفح"
+    ],
+    "correctIndex": 3,
+    "category": "تكنولوجيا",
+    "topic": "ويب"
+  },
+  {
+    "id": 28,
+    "type": "MCQ",
+    "question": "أي تنسيق شائع لتبادل البيانات في APIs؟",
+    "options": [
+      "JSON",
+      "EXE",
+      "PSD",
+      "MP3"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "برمجة/ويب"
+  },
+  {
+    "id": 29,
+    "type": "MCQ",
+    "question": "YAML يُستخدم غالبًا في:",
+    "options": [
+      "تحرير الصور",
+      "ضغط الفيديو",
+      "ملفات الإعدادات",
+      "تشغيل الألعاب"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "DevOps"
+  },
+  {
+    "id": 30,
+    "type": "MCQ",
+    "question": "أي مفهوم يعني فصل الواجهة عن منطق التطبيق؟",
+    "options": [
+      "RAM",
+      "HTTP",
+      "MVC",
+      "FIFO"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "برمجة"
+  },
+  {
+    "id": 31,
+    "type": "MCQ",
+    "question": "ما هي REST API عادةً؟",
+    "options": [
+      "نظام تشغيل",
+      "واجهة تعتمد على HTTP وموارد",
+      "قاعدة بيانات علائقية",
+      "نوع كابل"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "ويب/برمجة"
+  },
+  {
+    "id": 32,
+    "type": "MCQ",
+    "question": "أي كلمة HTTP تعني إنشاء مورد جديد غالبًا؟",
+    "options": [
+      "GET",
+      "HEAD",
+      "DELETE",
+      "POST"
+    ],
+    "correctIndex": 3,
+    "category": "تكنولوجيا",
+    "topic": "ويب"
+  },
+  {
+    "id": 33,
+    "type": "MCQ",
+    "question": "أي كلمة HTTP تُستخدم لجلب البيانات بدون تعديل؟",
+    "options": [
+      "POST",
+      "PATCH",
+      "GET",
+      "PUT"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "ويب"
+  },
+  {
+    "id": 34,
+    "type": "MCQ",
+    "question": "أي كلمة HTTP تُستخدم لتحديث جزء من المورد؟",
+    "options": [
+      "PATCH",
+      "TRACE",
+      "GET",
+      "OPTIONS"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "ويب"
+  },
+  {
+    "id": 35,
+    "type": "MCQ",
+    "question": "Git يُستخدم لـ:",
+    "options": [
+      "حماية الشاشة",
+      "تشغيل نظام التشغيل",
+      "إدارة الإصدارات وتتبع التغييرات",
+      "تصميم واجهات"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "برمجة"
+  },
+  {
+    "id": 36,
+    "type": "MCQ",
+    "question": "أي أمر Git يجلب التحديثات من الريموت إلى الفرع الحالي؟",
+    "options": [
+      "git add",
+      "git status",
+      "git init",
+      "git pull"
+    ],
+    "correctIndex": 3,
+    "category": "تكنولوجيا",
+    "topic": "برمجة"
+  },
+  {
+    "id": 37,
+    "type": "MCQ",
+    "question": "أي أمر Git يعرض حالة الملفات؟",
+    "options": [
+      "git tag",
+      "git clone",
+      "git status",
+      "git stash"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "برمجة"
+  },
+  {
+    "id": 38,
+    "type": "MCQ",
+    "question": "Docker يستخدم أساسًا لـ:",
+    "options": [
+      "تسريع RAM",
+      "حذف الفيروسات",
+      "تحرير الفيديو",
+      "تشغيل تطبيقات داخل حاويات"
+    ],
+    "correctIndex": 3,
+    "category": "تكنولوجيا",
+    "topic": "DevOps"
+  },
+  {
+    "id": 39,
+    "type": "MCQ",
+    "question": "Kubernetes يُستخدم لـ:",
+    "options": [
+      "تصميم قواعد البيانات",
+      "تنظيف القرص",
+      "تشفير الرسائل",
+      "إدارة الحاويات وتنسيقها"
+    ],
+    "correctIndex": 3,
+    "category": "تكنولوجيا",
+    "topic": "DevOps"
+  },
+  {
+    "id": 40,
+    "type": "MCQ",
+    "question": "CI/CD يشير إلى:",
+    "options": [
+      "تشفير البريد",
+      "التكامل المستمر والتسليم/النشر المستمر",
+      "ضغط الصور",
+      "تثبيت كرت شاشة"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "DevOps"
+  },
+  {
+    "id": 41,
+    "type": "MCQ",
+    "question": "في قواعد البيانات، ACID تعني:",
+    "options": [
+      "نوع فهرسة",
+      "خصائص المعاملات",
+      "بروتوكول شبكة",
+      "لغة برمجة"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "قواعد بيانات"
+  },
+  {
+    "id": 42,
+    "type": "MCQ",
+    "question": "أي أمر SQL يُستخدم لاختيار بيانات؟",
+    "options": [
+      "SELECT",
+      "GRANT",
+      "DROP",
+      "INSERT"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "قواعد بيانات"
+  },
+  {
+    "id": 43,
+    "type": "MCQ",
+    "question": "JOIN في SQL يُستخدم لـ:",
+    "options": [
+      "ضغط الملفات",
+      "نسخ النظام",
+      "تشفير البيانات",
+      "دمج بيانات من جداول متعددة"
+    ],
+    "correctIndex": 3,
+    "category": "تكنولوجيا",
+    "topic": "قواعد بيانات"
+  },
+  {
+    "id": 44,
+    "type": "MCQ",
+    "question": "Index في قاعدة البيانات يفيد في:",
+    "options": [
+      "زيادة استهلاك RAM دائمًا",
+      "تشفير السجلات",
+      "تسريع البحث",
+      "منع النسخ الاحتياطي"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "قواعد بيانات"
+  },
+  {
+    "id": 45,
+    "type": "MCQ",
+    "question": "أي نوع قاعدة بيانات مناسب للبيانات غير المهيكلة غالبًا؟",
+    "options": [
+      "CSV",
+      "Relational فقط",
+      "NoSQL",
+      "FAT32"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "قواعد بيانات"
+  },
+  {
+    "id": 46,
+    "type": "MCQ",
+    "question": "الفرق بين Process و Thread هو أن الـ Thread:",
+    "options": [
+      "يشارك الذاكرة مع نفس العملية",
+      "لا يحتاج نظام تشغيل",
+      "يعمل بدون CPU",
+      "أبطأ دائمًا من Process"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "نظم تشغيل"
+  },
+  {
+    "id": 47,
+    "type": "MCQ",
+    "question": "Kernel هو:",
+    "options": [
+      "لغة ويب",
+      "نوع معالج",
+      "قلب نظام التشغيل",
+      "برنامج مضاد فيروسات"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "نظم تشغيل"
+  },
+  {
+    "id": 48,
+    "type": "MCQ",
+    "question": "في لينكس، الأمر لعرض محتويات المجلد هو:",
+    "options": [
+      "ping",
+      "ls",
+      "rm",
+      "cd"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "نظم تشغيل"
+  },
+  {
+    "id": 49,
+    "type": "MCQ",
+    "question": "في لينكس، الأمر لتغيير المجلد هو:",
+    "options": [
+      "ls",
+      "cd",
+      "cat",
+      "grep"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "نظم تشغيل"
+  },
+  {
+    "id": 50,
+    "type": "MCQ",
+    "question": "ما المقصود بـ Open Source؟",
+    "options": [
+      "برنامج يعمل بدون إنترنت",
+      "برنامج بدون أخطاء",
+      "برنامج مجاني دائمًا",
+      "كود متاح للاطلاع والتعديل وفق رخصة"
+    ],
+    "correctIndex": 3,
+    "category": "تكنولوجيا",
+    "topic": "مفاهيم"
+  },
+  {
+    "id": 51,
+    "type": "MCQ",
+    "question": "الترميز UTF-8 يُستخدم لـ:",
+    "options": [
+      "تمثيل النصوص والأحرف",
+      "تشغيل الصوتيات",
+      "تشفير الملفات فقط",
+      "تسريع الإنترنت"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "مفاهيم"
+  },
+  {
+    "id": 52,
+    "type": "MCQ",
+    "question": "Base64 يُستخدم غالبًا لـ:",
+    "options": [
+      "تمثيل بيانات ثنائية كنص",
+      "ضغط الملفات بنسبة كبيرة",
+      "منع النسخ",
+      "زيادة الأمان تلقائيًا"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "مفاهيم"
+  },
+  {
+    "id": 53,
+    "type": "MCQ",
+    "question": "ما المقصود بـ Bandwidth؟",
+    "options": [
+      "حجم الشاشة",
+      "نوع المعالج",
+      "سعة نقل البيانات",
+      "عدد الأجهزة"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "شبكات"
+  },
+  {
+    "id": 54,
+    "type": "MCQ",
+    "question": "Ping يستخدم بروتوكول:",
+    "options": [
+      "UDP",
+      "FTP",
+      "TCP",
+      "ICMP"
+    ],
+    "correctIndex": 3,
+    "category": "تكنولوجيا",
+    "topic": "شبكات"
+  },
+  {
+    "id": 55,
+    "type": "MCQ",
+    "question": "ARP يُستخدم لـ:",
+    "options": [
+      "نقل الملفات",
+      "تحديث النظام",
+      "ربط IP بعنوان MAC",
+      "تشفير البريد"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "شبكات"
+  },
+  {
+    "id": 56,
+    "type": "MCQ",
+    "question": "MAC Address هو:",
+    "options": [
+      "كلمة مرور",
+      "اسم نطاق",
+      "عنوان فيزيائي لبطاقة الشبكة",
+      "عنوان موقع"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "شبكات"
+  },
+  {
+    "id": 57,
+    "type": "MCQ",
+    "question": "NAT يُستخدم غالبًا لـ:",
+    "options": [
+      "ضغط الفيديو",
+      "زيادة سرعة المعالج",
+      "ترجمة عناوين خاصة لعامة",
+      "إدارة قواعد البيانات"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "شبكات"
+  },
+  {
+    "id": 58,
+    "type": "MCQ",
+    "question": "VPN يفيد في:",
+    "options": [
+      "إنشاء نفق اتصال آمن",
+      "تقليل حجم الصور",
+      "تسريع CPU",
+      "زيادة دقة الشاشة"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "أمن/شبكات"
+  },
+  {
+    "id": 59,
+    "type": "MCQ",
+    "question": "في التشفير، المفتاح العام يُستخدم عادةً لـ:",
+    "options": [
+      "زيادة سرعة الهاش",
+      "تشفير/تحقق دون كشف المفتاح الخاص",
+      "تخزين كلمات المرور كنص",
+      "فك تشفير كل الرسائل دائمًا"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "أمن"
+  },
+  {
+    "id": 60,
+    "type": "MCQ",
+    "question": "Hash collision تعني:",
+    "options": [
+      "انقطاع الإنترنت",
+      "زيادة حجم الملف",
+      "ناتجان متطابقان لمدخلات مختلفة",
+      "فك التشفير بنجاح"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "أمن"
+  },
+  {
+    "id": 61,
+    "type": "MCQ",
+    "question": "SQL Injection هو:",
+    "options": [
+      "ميزة في CSS",
+      "حقن أوامر SQL عبر المدخلات",
+      "بروتوكول بريد",
+      "نوع ضغط ملفات"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "أمن/ويب"
+  },
+  {
+    "id": 62,
+    "type": "MCQ",
+    "question": "XSS هو:",
+    "options": [
+      "نوع تشفير",
+      "اختراق Wi-Fi فقط",
+      "تسريع GPU",
+      "حقن سكربت داخل صفحة ويب"
+    ],
+    "correctIndex": 3,
+    "category": "تكنولوجيا",
+    "topic": "أمن/ويب"
+  },
+  {
+    "id": 63,
+    "type": "MCQ",
+    "question": "ما هي 'الافتراضية' Virtualization؟",
+    "options": [
+      "زيادة دقة الكاميرا",
+      "حذف الملفات نهائيًا",
+      "تشغيل أنظمة متعددة على عتاد واحد",
+      "تحويل صوت إلى نص"
+    ],
+    "correctIndex": 2,
+    "category": "تكنولوجيا",
+    "topic": "سحابة/نظم"
+  },
+  {
+    "id": 64,
+    "type": "MCQ",
+    "question": "IaaS يعني:",
+    "options": [
+      "تطبيق بدون خادم",
+      "بنية تحتية كخدمة",
+      "منصة كخدمة",
+      "برنامج كخدمة"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "سحابة"
+  },
+  {
+    "id": 65,
+    "type": "MCQ",
+    "question": "PaaS يعني:",
+    "options": [
+      "منصة كخدمة",
+      "بنية تحتية كخدمة",
+      "شبكة كخدمة",
+      "برنامج كخدمة"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "سحابة"
+  },
+  {
+    "id": 66,
+    "type": "MCQ",
+    "question": "SaaS يعني:",
+    "options": [
+      "بنية تحتية كخدمة",
+      "منصة كخدمة",
+      "تخزين كخدمة",
+      "برنامج كخدمة"
+    ],
+    "correctIndex": 3,
+    "category": "تكنولوجيا",
+    "topic": "سحابة"
+  },
+  {
+    "id": 67,
+    "type": "MCQ",
+    "question": "Serverless يُقصد به غالبًا:",
+    "options": [
+      "تشغيل كود دون إدارة خوادم مباشرة",
+      "بدون إنترنت",
+      "بدون قواعد بيانات",
+      "عدم وجود خوادم إطلاقًا"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "سحابة"
+  },
+  {
+    "id": 68,
+    "type": "MCQ",
+    "question": "Overfitting في تعلم الآلة يعني:",
+    "options": [
+      "نقص بيانات دائمًا",
+      "أداء ممتاز على التدريب وضعيف على الاختبار",
+      "زيادة سرعة الشبكة",
+      "ضغط النموذج"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "ذكاء اصطناعي"
+  },
+  {
+    "id": 69,
+    "type": "MCQ",
+    "question": "Inference في الذكاء الاصطناعي يعني:",
+    "options": [
+      "حذف الأوزان",
+      "تجميع بيانات فقط",
+      "تشفير النموذج",
+      "استخدام نموذج مدرب لإنتاج تنبؤ"
+    ],
+    "correctIndex": 3,
+    "category": "تكنولوجيا",
+    "topic": "ذكاء اصطناعي"
+  },
+  {
+    "id": 70,
+    "type": "MCQ",
+    "question": "ما هو المقصود بـ API؟",
+    "options": [
+      "برنامج مكافحة فيروسات",
+      "واجهة للتواصل بين التطبيقات",
+      "نوع معالج",
+      "نظام ملفات"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "برمجة"
+  },
+  {
+    "id": 71,
+    "type": "MCQ",
+    "question": "SemVer يشير إلى:",
+    "options": [
+      "قاعدة بيانات",
+      "نوع كابل",
+      "صيغة صور",
+      "إصدار دلالي (Major.Minor.Patch)"
+    ],
+    "correctIndex": 3,
+    "category": "تكنولوجيا",
+    "topic": "برمجة"
+  },
+  {
+    "id": 72,
+    "type": "MCQ",
+    "question": "ماذا تعني OSS في سياق البرمجيات؟",
+    "options": [
+      "Online Storage System",
+      "Open Source Software",
+      "Optical Sensor Suite",
+      "Operating System Service"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "مفاهيم"
+  },
+  {
+    "id": 73,
+    "type": "MCQ",
+    "question": "ما وظيفة CDN؟",
+    "options": [
+      "توزيع المحتوى لتقليل زمن الوصول",
+      "تشفير البريد",
+      "إدارة العمليات",
+      "زيادة RAM"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "ويب/سحابة"
+  },
+  {
+    "id": 74,
+    "type": "MCQ",
+    "question": "OAuth يُستخدم غالبًا لـ:",
+    "options": [
+      "ضغط الصور",
+      "تغيير عنوان IP",
+      "تعديل BIOS",
+      "تفويض الوصول دون مشاركة كلمة المرور"
+    ],
+    "correctIndex": 3,
+    "category": "تكنولوجيا",
+    "topic": "أمن/ويب"
+  },
+  {
+    "id": 75,
+    "type": "MCQ",
+    "question": "JWT هو:",
+    "options": [
+      "نوع هارد دسك",
+      "رمز مدمج للتوثيق/الترخيص",
+      "بروتوكول واي فاي",
+      "محرك بحث"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "ويب/أمن"
+  },
+  {
+    "id": 76,
+    "type": "TF",
+    "question": "IPv6 يوفر عدد عناوين أكبر بكثير من IPv4.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "شبكات"
+  },
+  {
+    "id": 77,
+    "type": "TF",
+    "question": "UDP يضمن ترتيب الحزم والتسليم الموثوق دائمًا.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "شبكات"
+  },
+  {
+    "id": 78,
+    "type": "TF",
+    "question": "HTTPS هو HTTP مع طبقة تشفير TLS عادةً.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "ويب/أمن"
+  },
+  {
+    "id": 79,
+    "type": "TF",
+    "question": "DNS وظيفته الأساسية توزيع عناوين IP تلقائيًا.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "شبكات"
+  },
+  {
+    "id": 80,
+    "type": "TF",
+    "question": "Git نظام لإدارة الإصدارات الموزعة.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "برمجة"
+  },
+  {
+    "id": 81,
+    "type": "TF",
+    "question": "الهاش (Hash) قابل للعكس مثل التشفير دائمًا.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "أمن"
+  },
+  {
+    "id": 82,
+    "type": "TF",
+    "question": "التشفير المتماثل يستخدم نفس المفتاح للتشفير وفك التشفير.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "أمن"
+  },
+  {
+    "id": 83,
+    "type": "TF",
+    "question": "RSA يُعد مثالًا على التشفير غير المتماثل.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "أمن"
+  },
+  {
+    "id": 84,
+    "type": "TF",
+    "question": "CORS سياسة أمان تتحكم بطلبات المتصفح بين النطاقات.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "ويب"
+  },
+  {
+    "id": 85,
+    "type": "TF",
+    "question": "Cookie يمكن استخدامها لحفظ جلسة المستخدم.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "ويب"
+  },
+  {
+    "id": 86,
+    "type": "TF",
+    "question": "Docker يشغّل تطبيقات داخل حاويات معزولة.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "DevOps"
+  },
+  {
+    "id": 87,
+    "type": "TF",
+    "question": "Kubernetes يُستخدم لإدارة قواعد بيانات SQL.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "DevOps"
+  },
+  {
+    "id": 88,
+    "type": "TF",
+    "question": "SQL تُستخدم للاستعلام عن البيانات في قواعد علائقية.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "قواعد بيانات"
+  },
+  {
+    "id": 89,
+    "type": "TF",
+    "question": "Index في قاعدة البيانات يمكن أن يحسن أداء الاستعلامات.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "قواعد بيانات"
+  },
+  {
+    "id": 90,
+    "type": "TF",
+    "question": "Kernel هو الجزء المسؤول عن إدارة الموارد الأساسية في نظام التشغيل.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "نظم تشغيل"
+  },
+  {
+    "id": 91,
+    "type": "TF",
+    "question": "Process يمكن أن يحتوي على عدة Threads.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "نظم تشغيل"
+  },
+  {
+    "id": 92,
+    "type": "TF",
+    "question": "NAT يساعد في مشاركة عنوان IP عام لعدة أجهزة داخلية.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "شبكات"
+  },
+  {
+    "id": 93,
+    "type": "TF",
+    "question": "VPN يمكن أن يضيف طبقة حماية عند استخدام شبكات عامة.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "أمن/شبكات"
+  },
+  {
+    "id": 94,
+    "type": "TF",
+    "question": "XSS يستهدف غالبًا متصفح المستخدم عبر حقن سكربت.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "أمن/ويب"
+  },
+  {
+    "id": 95,
+    "type": "TF",
+    "question": "SQL Injection يحدث فقط عند استخدام NoSQL.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "أمن/ويب"
+  },
+  {
+    "id": 96,
+    "type": "TF",
+    "question": "Base64 هو تشفير قوي لحماية البيانات.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "مفاهيم"
+  },
+  {
+    "id": 97,
+    "type": "TF",
+    "question": "UTF-8 ترميز شائع يدعم أحرفًا متعددة اللغات.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "مفاهيم"
+  },
+  {
+    "id": 98,
+    "type": "TF",
+    "question": "IaaS يقدّم بنية تحتية افتراضية مثل السيرفرات والشبكات.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "تكنولوجيا",
+    "topic": "سحابة"
+  },
+  {
+    "id": 99,
+    "type": "TF",
+    "question": "SaaS يعني أنك تدير النظام التشغيلي على الخادم بنفسك.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "سحابة"
+  },
+  {
+    "id": 100,
+    "type": "TF",
+    "question": "Overfitting يعني أن النموذج يعمم جيدًا على بيانات جديدة.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "category": "تكنولوجيا",
+    "topic": "ذكاء اصطناعي"
+  }
+]

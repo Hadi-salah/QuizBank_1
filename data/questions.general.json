@@ -1,0 +1,1642 @@
+[
+  {
+    "id": 1,
+    "type": "MCQ",
+    "question": "ما هي عاصمة بوتان؟",
+    "options": [
+      "فيينتيان",
+      "كاتماندو",
+      "تيمفو",
+      "داكا"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.22,
+    "discriminationIndex": 0.52
+  },
+  {
+    "id": 2,
+    "type": "MCQ",
+    "question": "ما هو اسم المضيق الذي يربط البحر الأحمر بخليج عدن؟",
+    "options": [
+      "مضيق البوسفور",
+      "مضيق ملقا",
+      "مضيق هرمز",
+      "باب المندب"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.27,
+    "discriminationIndex": 0.56
+  },
+  {
+    "id": 3,
+    "type": "MCQ",
+    "question": "ما هي أعلى قمة في قارة أفريقيا؟",
+    "options": [
+      "مون بلان",
+      "أكونكاغوا",
+      "إيفرست",
+      "كليمنجارو"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.13,
+    "discriminationIndex": 0.53
+  },
+  {
+    "id": 4,
+    "type": "MCQ",
+    "question": "ما هي عاصمة كازاخستان الحالية؟",
+    "options": [
+      "ألماتي",
+      "طشقند",
+      "أستانا",
+      "باكو"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.27,
+    "discriminationIndex": 0.69
+  },
+  {
+    "id": 5,
+    "type": "MCQ",
+    "question": "أي دولة تُعد صاحبة أكبر عدد من الجزر في العالم؟",
+    "options": [
+      "اليابان",
+      "إندونيسيا",
+      "الفلبين",
+      "السويد"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.13,
+    "discriminationIndex": 0.57
+  },
+  {
+    "id": 6,
+    "type": "MCQ",
+    "question": "أي نهر يُعد الأطول في شبه الجزيرة العربية؟",
+    "options": [
+      "وادي الرمة",
+      "نهر الأردن",
+      "نهر الفرات",
+      "نهر النيل"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.14,
+    "discriminationIndex": 0.54
+  },
+  {
+    "id": 7,
+    "type": "MCQ",
+    "question": "ما الاسم القديم لمدينة إسطنبول؟",
+    "options": [
+      "قرطاجة",
+      "القسطنطينية",
+      "أنطاكية",
+      "الإسكندرية"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ/جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.14,
+    "discriminationIndex": 0.67
+  },
+  {
+    "id": 8,
+    "type": "MCQ",
+    "question": "ما هي عاصمة ميانمار الإدارية؟",
+    "options": [
+      "هانوي",
+      "نايبيداو",
+      "بنوم بنه",
+      "يانغون"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.21,
+    "discriminationIndex": 0.52
+  },
+  {
+    "id": 9,
+    "type": "MCQ",
+    "question": "ما هو أعلى شلال في العالم؟",
+    "options": [
+      "شلالات نياغرا",
+      "شلالات إجوازو",
+      "شلالات فيكتوريا",
+      "شلالات آنجل"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.2,
+    "discriminationIndex": 0.66
+  },
+  {
+    "id": 10,
+    "type": "MCQ",
+    "question": "أي بحر يُعد الأعلى ملوحةً بين البحار الكبيرة؟",
+    "options": [
+      "البحر الأحمر",
+      "بحر البلطيق",
+      "البحر المتوسط",
+      "البحر الأسود"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.18,
+    "discriminationIndex": 0.57
+  },
+  {
+    "id": 11,
+    "type": "MCQ",
+    "question": "ما هي عاصمة بنين؟",
+    "options": [
+      "أبيدجان",
+      "بورتو نوفو",
+      "لومي",
+      "كوتونو"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.13,
+    "discriminationIndex": 0.59
+  },
+  {
+    "id": 12,
+    "type": "MCQ",
+    "question": "ما هي عاصمة جزر القمر؟",
+    "options": [
+      "موروني",
+      "أناناريفو",
+      "فيكتوريا",
+      "سانت دينيس"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.17,
+    "discriminationIndex": 0.79
+  },
+  {
+    "id": 13,
+    "type": "MCQ",
+    "question": "ما هي العملة الرسمية في منغوليا؟",
+    "options": [
+      "الرينغيت",
+      "الين",
+      "الوون",
+      "التوغروغ"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "اقتصاد",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.15,
+    "discriminationIndex": 0.6
+  },
+  {
+    "id": 14,
+    "type": "MCQ",
+    "question": "أي عنصر كيميائي رمزه W؟",
+    "options": [
+      "القصدير",
+      "التنغستن",
+      "الزنك",
+      "التيتانيوم"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.27,
+    "discriminationIndex": 0.52
+  },
+  {
+    "id": 15,
+    "type": "MCQ",
+    "question": "ما العدد الذري لعنصر الكربون؟",
+    "options": [
+      "6",
+      "14",
+      "8",
+      "12"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.22,
+    "discriminationIndex": 0.67
+  },
+  {
+    "id": 16,
+    "type": "MCQ",
+    "question": "أي من التالي يُعد من الغازات النبيلة؟",
+    "options": [
+      "الأكسجين",
+      "النيتروجين",
+      "الزينون",
+      "الهيدروجين"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.27,
+    "discriminationIndex": 0.64
+  },
+  {
+    "id": 17,
+    "type": "MCQ",
+    "question": "ما هو اسم العملية التي يتحول فيها الصلب مباشرةً إلى غاز؟",
+    "options": [
+      "الانصهار",
+      "التكاثف",
+      "التجمد",
+      "التسامي"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.22,
+    "discriminationIndex": 0.8
+  },
+  {
+    "id": 18,
+    "type": "MCQ",
+    "question": "أي كوكب يملك أطول يوم (دوران حول محوره) في المجموعة الشمسية؟",
+    "options": [
+      "الزهرة",
+      "الأرض",
+      "المشتري",
+      "عطارد"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "علوم/فضاء",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.26,
+    "discriminationIndex": 0.6
+  },
+  {
+    "id": 19,
+    "type": "MCQ",
+    "question": "ما هي وحدة قياس شدة الإضاءة في النظام الدولي؟",
+    "options": [
+      "واط",
+      "كانديلا",
+      "لوكس",
+      "نيوتن"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.22,
+    "discriminationIndex": 0.65
+  },
+  {
+    "id": 20,
+    "type": "MCQ",
+    "question": "ما هو اسم أقرب نجم إلى الأرض بعد الشمس؟",
+    "options": [
+      "سهيل",
+      "بروكسيما قنطورس",
+      "منكب الجوزاء",
+      "الشِّعرى اليمانية"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "علوم/فضاء",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.24,
+    "discriminationIndex": 0.62
+  },
+  {
+    "id": 21,
+    "type": "MCQ",
+    "question": "أي قانون يربط بين الضغط والحجم عند ثبوت درجة الحرارة؟",
+    "options": [
+      "قانون شارل",
+      "قانون أوم",
+      "قانون بويل",
+      "قانون نيوتن الثاني"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.19,
+    "discriminationIndex": 0.66
+  },
+  {
+    "id": 22,
+    "type": "MCQ",
+    "question": "من هو واضع مفهوم 'عدد أفوغادرو'؟",
+    "options": [
+      "أميديو أفوغادرو",
+      "جيمس وات",
+      "نيكولا تسلا",
+      "مايكل فاراداي"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.23,
+    "discriminationIndex": 0.8
+  },
+  {
+    "id": 23,
+    "type": "MCQ",
+    "question": "كم يساوي تقريبًا عدد أفوغادرو؟",
+    "options": [
+      "3.14",
+      "9.81",
+      "6.022×10^23",
+      "1.602×10^-19"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.13,
+    "discriminationIndex": 0.55
+  },
+  {
+    "id": 24,
+    "type": "MCQ",
+    "question": "أي مما يلي يُعد وحدة أساسية في النظام الدولي؟",
+    "options": [
+      "النيوتن",
+      "الباسكال",
+      "الكلفن",
+      "الجول"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.25,
+    "discriminationIndex": 0.55
+  },
+  {
+    "id": 25,
+    "type": "MCQ",
+    "question": "ما اسم أقدم جامعة ما زالت تعمل في العالم وفقًا لليونسكو؟",
+    "options": [
+      "جامعة الأزهر",
+      "جامعة أوكسفورد",
+      "جامعة القرويين",
+      "جامعة بولونيا"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "ثقافة/تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.19,
+    "discriminationIndex": 0.61
+  },
+  {
+    "id": 26,
+    "type": "MCQ",
+    "question": "أي كتاب يُنسب لأبي العلاء المعري؟",
+    "options": [
+      "نهج البلاغة",
+      "الأغاني",
+      "رسالة الغفران",
+      "كليلة ودمنة"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "ثقافة/أدب",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.19,
+    "discriminationIndex": 0.76
+  },
+  {
+    "id": 27,
+    "type": "MCQ",
+    "question": "من مؤلف رواية 'مئة عام من العزلة'؟",
+    "options": [
+      "غابرييل غارسيا ماركيز",
+      "إرنست هيمنغواي",
+      "خورخي لويس بورخيس",
+      "فرانز كافكا"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "ثقافة/أدب",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.18,
+    "discriminationIndex": 0.64
+  },
+  {
+    "id": 28,
+    "type": "MCQ",
+    "question": "من مؤلف 'الكوميديا الإلهية'؟",
+    "options": [
+      "هوميروس",
+      "سرفانتس",
+      "دانتي أليغييري",
+      "غوته"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "ثقافة/أدب",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.13,
+    "discriminationIndex": 0.56
+  },
+  {
+    "id": 29,
+    "type": "MCQ",
+    "question": "من هو مؤلف رواية 'المسخ' (The Metamorphosis)؟",
+    "options": [
+      "ألبير كامو",
+      "تولستوي",
+      "فرانز كافكا",
+      "فيكتور هوغو"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "ثقافة/أدب",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.22,
+    "discriminationIndex": 0.53
+  },
+  {
+    "id": 30,
+    "type": "MCQ",
+    "question": "ما اسم أقدم ملحمة أدبية معروفة؟",
+    "options": [
+      "الشاهنامة",
+      "ملحمة جلجامش",
+      "الأوديسة",
+      "الإلياذة"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "ثقافة/تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.27,
+    "discriminationIndex": 0.68
+  },
+  {
+    "id": 31,
+    "type": "MCQ",
+    "question": "من هو مؤلف كتاب 'الأمير'؟",
+    "options": [
+      "جون لوك",
+      "ديكارت",
+      "أفلاطون",
+      "نيكولو ميكافيلي"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "ثقافة/فلسفة",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.14,
+    "discriminationIndex": 0.58
+  },
+  {
+    "id": 32,
+    "type": "MCQ",
+    "question": "في أي سنة وُقّعت معاهدة فرساي؟",
+    "options": [
+      "1919",
+      "1914",
+      "1945",
+      "1939"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.2,
+    "discriminationIndex": 0.53
+  },
+  {
+    "id": 33,
+    "type": "MCQ",
+    "question": "ما هو اسم الوثيقة الإنجليزية الشهيرة الصادرة عام 1215؟",
+    "options": [
+      "الماجنا كارتا",
+      "بيان الشيوعية",
+      "إعلان الاستقلال",
+      "صك الغفران"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.2,
+    "discriminationIndex": 0.53
+  },
+  {
+    "id": 34,
+    "type": "MCQ",
+    "question": "من هو القائد القرطاجي الذي قاد حملة بالأفيال عبر الألب؟",
+    "options": [
+      "نابليون",
+      "قيصر",
+      "الإسكندر الأكبر",
+      "هانيبال"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.24,
+    "discriminationIndex": 0.64
+  },
+  {
+    "id": 35,
+    "type": "MCQ",
+    "question": "أي حضارة اشتهرت بمدينة 'تيكال'؟",
+    "options": [
+      "الرومان",
+      "المايا",
+      "الآزتك",
+      "الإنكا"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.15,
+    "discriminationIndex": 0.79
+  },
+  {
+    "id": 36,
+    "type": "MCQ",
+    "question": "ما اسم الإمبراطورية التي اتخذت القسطنطينية عاصمة لها؟",
+    "options": [
+      "الرومانية الغربية",
+      "المغولية",
+      "البيزنطية",
+      "الساسانية"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.24,
+    "discriminationIndex": 0.59
+  },
+  {
+    "id": 37,
+    "type": "MCQ",
+    "question": "في أي عام سقطت القسطنطينية؟",
+    "options": [
+      "1517",
+      "1258",
+      "1492",
+      "1453"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.2,
+    "discriminationIndex": 0.77
+  },
+  {
+    "id": 38,
+    "type": "MCQ",
+    "question": "أي دولة كانت تُعرف قديمًا باسم 'بلاد فارس'؟",
+    "options": [
+      "أفغانستان",
+      "العراق",
+      "إيران",
+      "تركيا"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "تاريخ/جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.22,
+    "discriminationIndex": 0.68
+  },
+  {
+    "id": 39,
+    "type": "MCQ",
+    "question": "ما هو الاسم العلمي لفيتامين C؟",
+    "options": [
+      "الريتينول",
+      "الثيامين",
+      "حمض الأسكوربيك",
+      "حمض الفوليك"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "علوم/صحة",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.24,
+    "discriminationIndex": 0.57
+  },
+  {
+    "id": 40,
+    "type": "MCQ",
+    "question": "أي من التالي يُعد كوكبًا قزمًا؟",
+    "options": [
+      "المريخ",
+      "إيريس",
+      "نبتون",
+      "عطارد"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "علوم/فضاء",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.28,
+    "discriminationIndex": 0.74
+  },
+  {
+    "id": 41,
+    "type": "MCQ",
+    "question": "ما اسم الجهاز المستخدم لقياس الزلازل؟",
+    "options": [
+      "الترمومتر",
+      "السيزموجراف",
+      "البارومتر",
+      "الأميتر"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.23,
+    "discriminationIndex": 0.79
+  },
+  {
+    "id": 42,
+    "type": "MCQ",
+    "question": "أي من التالي يُعد أكبر قمر لكوكب زحل؟",
+    "options": [
+      "تيتان",
+      "أوروبا",
+      "غانيميد",
+      "فوبوس"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "علوم/فضاء",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.27,
+    "discriminationIndex": 0.61
+  },
+  {
+    "id": 43,
+    "type": "MCQ",
+    "question": "ما هو أصل كلمة 'ألغوريتم' (Algorithm) تاريخيًا؟",
+    "options": [
+      "الرازي",
+      "ابن الهيثم",
+      "الخوارزمي",
+      "ابن سينا"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "ثقافة/تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.2,
+    "discriminationIndex": 0.6
+  },
+  {
+    "id": 44,
+    "type": "MCQ",
+    "question": "في المنطق، ما اسم المغالطة التي تُهاجم الشخص بدل الحجة؟",
+    "options": [
+      "Strawman",
+      "Ad Hominem",
+      "False Dilemma",
+      "Post hoc"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "منطق",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.2,
+    "discriminationIndex": 0.7
+  },
+  {
+    "id": 45,
+    "type": "MCQ",
+    "question": "أي مدينة تُعد العاصمة التشريعية لجنوب أفريقيا؟",
+    "options": [
+      "بريتوريا",
+      "جوهانسبرغ",
+      "بلومفونتين",
+      "كيب تاون"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.27,
+    "discriminationIndex": 0.73
+  },
+  {
+    "id": 46,
+    "type": "MCQ",
+    "question": "ما هو اسم أصغر دولة في العالم من حيث المساحة؟",
+    "options": [
+      "سان مارينو",
+      "الفاتيكان",
+      "مالطا",
+      "موناكو"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.19,
+    "discriminationIndex": 0.69
+  },
+  {
+    "id": 47,
+    "type": "MCQ",
+    "question": "أي من التالي يُعد أطول نهر في أوروبا؟",
+    "options": [
+      "السين",
+      "الدانوب",
+      "الراين",
+      "الفولغا"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.19,
+    "discriminationIndex": 0.72
+  },
+  {
+    "id": 48,
+    "type": "MCQ",
+    "question": "ما هو اسم أعمق نقطة معروفة في محيطات العالم؟",
+    "options": [
+      "خندق بيرو-تشيلي",
+      "خندق اليابان",
+      "خندق سوندا",
+      "خندق ماريانا"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "جغرافيا/علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.15,
+    "discriminationIndex": 0.54
+  },
+  {
+    "id": 49,
+    "type": "MCQ",
+    "question": "أي دولة تُعد موطن مدينة 'تمبكتو' التاريخية؟",
+    "options": [
+      "مالي",
+      "موريتانيا",
+      "تشاد",
+      "النيجر"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "تاريخ/جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.25,
+    "discriminationIndex": 0.54
+  },
+  {
+    "id": 50,
+    "type": "MCQ",
+    "question": "ما هي عاصمة سورينام؟",
+    "options": [
+      "باراماريبو",
+      "كاراكاس",
+      "كيتو",
+      "ليما"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.14,
+    "discriminationIndex": 0.66
+  },
+  {
+    "id": 51,
+    "type": "MCQ",
+    "question": "ما هي عاصمة سلوفينيا؟",
+    "options": [
+      "براتيسلافا",
+      "تالين",
+      "ريغا",
+      "ليوبليانا"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.2,
+    "discriminationIndex": 0.78
+  },
+  {
+    "id": 52,
+    "type": "MCQ",
+    "question": "ما هي عاصمة لاتفيا؟",
+    "options": [
+      "فيلنيوس",
+      "تالين",
+      "ريغا",
+      "هلسنكي"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.12,
+    "discriminationIndex": 0.56
+  },
+  {
+    "id": 53,
+    "type": "MCQ",
+    "question": "أي لغة تُعد رسمية في سويسرا وليست من اللغات الرومانسية؟",
+    "options": [
+      "الألمانية",
+      "الرومانش",
+      "الفرنسية",
+      "الإيطالية"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "ثقافة/لغات",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.16,
+    "discriminationIndex": 0.63
+  },
+  {
+    "id": 54,
+    "type": "MCQ",
+    "question": "أي كتاب فلسفي قديم يُنسب لأفلاطون ويتناول 'المدينة الفاضلة'؟",
+    "options": [
+      "الأخلاق النيقوماخية",
+      "الميتافيزيقا",
+      "الجمهورية",
+      "الأورغانون"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "فلسفة",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.26,
+    "discriminationIndex": 0.7
+  },
+  {
+    "id": 55,
+    "type": "MCQ",
+    "question": "في الاقتصاد، ماذا يُسمى ارتفاع الأسعار العام والمستمر؟",
+    "options": [
+      "الركود",
+      "التضخم",
+      "الانكماش",
+      "الاحتكار"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "اقتصاد",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.21,
+    "discriminationIndex": 0.66
+  },
+  {
+    "id": 56,
+    "type": "MCQ",
+    "question": "ما اسم المنطقة الزمنية التي يعتمد عليها التوقيت العالمي؟",
+    "options": [
+      "طوكيو",
+      "باريس",
+      "أوسلو",
+      "غرينتش"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "جغرافيا/مفاهيم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.22,
+    "discriminationIndex": 0.73
+  },
+  {
+    "id": 57,
+    "type": "MCQ",
+    "question": "أي من التالي يُعد من السبع عجائب الجديدة (2007)؟",
+    "options": [
+      "برج بيزا",
+      "برج إيفل",
+      "تاج محل",
+      "ساعة بيغ بن"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "ثقافة/تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.2,
+    "discriminationIndex": 0.72
+  },
+  {
+    "id": 58,
+    "type": "MCQ",
+    "question": "ما اسم القارة التي تضم أكبر عدد من الدول؟",
+    "options": [
+      "أمريكا الشمالية",
+      "آسيا",
+      "أوروبا",
+      "أفريقيا"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.25,
+    "discriminationIndex": 0.53
+  },
+  {
+    "id": 59,
+    "type": "MCQ",
+    "question": "ما هو اسم أكبر صحراء حارة في العالم؟",
+    "options": [
+      "صحراء جوبي",
+      "صحراء أتاكاما",
+      "صحراء كالاهاري",
+      "الصحراء الكبرى"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.16,
+    "discriminationIndex": 0.73
+  },
+  {
+    "id": 60,
+    "type": "MCQ",
+    "question": "أي دولة عاصمتها 'دوشنبه'؟",
+    "options": [
+      "أوزبكستان",
+      "طاجيكستان",
+      "تركمانستان",
+      "قيرغيزستان"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.24,
+    "discriminationIndex": 0.77
+  },
+  {
+    "id": 61,
+    "type": "MCQ",
+    "question": "أي دولة عاصمتها 'بورت مورسبي'؟",
+    "options": [
+      "فيجي",
+      "بابوا غينيا الجديدة",
+      "نيوزيلندا",
+      "ساموا"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.23,
+    "discriminationIndex": 0.64
+  },
+  {
+    "id": 62,
+    "type": "MCQ",
+    "question": "ما اسم أطول سلسلة جبلية في العالم؟",
+    "options": [
+      "الهيمالايا",
+      "جبال الأنديز",
+      "الألب",
+      "جبال الأطلس"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.23,
+    "discriminationIndex": 0.76
+  },
+  {
+    "id": 63,
+    "type": "MCQ",
+    "question": "أي كتاب تاريخي ضخم يُنسب للمؤرخ الطبري؟",
+    "options": [
+      "المقدمة",
+      "تاريخ الرسل والملوك",
+      "العقد الفريد",
+      "الأغاني"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "ثقافة/تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.25,
+    "discriminationIndex": 0.54
+  },
+  {
+    "id": 64,
+    "type": "MCQ",
+    "question": "من صاحب كتاب 'القانون في الطب'؟",
+    "options": [
+      "الرازي",
+      "ابن بطوطة",
+      "الخوارزمي",
+      "ابن سينا"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "ثقافة/تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.17,
+    "discriminationIndex": 0.7
+  },
+  {
+    "id": 65,
+    "type": "MCQ",
+    "question": "ما اسم أقدم نظام عدّ معروف في الحضارات السومرية؟",
+    "options": [
+      "العشري",
+      "الثنائي",
+      "الستيني",
+      "الثماني"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "ثقافة/تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.23,
+    "discriminationIndex": 0.74
+  },
+  {
+    "id": 66,
+    "type": "MCQ",
+    "question": "ما اسم العنصر الذي رمزه الكيميائي Sb؟",
+    "options": [
+      "الأنتيمون",
+      "السيليكون",
+      "السترونشيوم",
+      "الساماريوم"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.14,
+    "discriminationIndex": 0.76
+  },
+  {
+    "id": 67,
+    "type": "MCQ",
+    "question": "أي مركب هو المكوّن الأساسي للصدأ؟",
+    "options": [
+      "كربونات الكالسيوم",
+      "كلوريد الصوديوم",
+      "أكسيد الحديد",
+      "ثاني أكسيد السيليكون"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.18,
+    "discriminationIndex": 0.65
+  },
+  {
+    "id": 68,
+    "type": "MCQ",
+    "question": "في الفيزياء، ما اسم الظاهرة التي تفسر انحناء الضوء قرب الأجسام الضخمة؟",
+    "options": [
+      "الاستقطاب",
+      "الانتشار",
+      "عدسة الجاذبية",
+      "الانكسار فقط"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "علوم/فضاء",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.28,
+    "discriminationIndex": 0.62
+  },
+  {
+    "id": 69,
+    "type": "MCQ",
+    "question": "ما هي العاصمة الإدارية لسريلانكا؟",
+    "options": [
+      "كاندي",
+      "كولومبو",
+      "سري جاياواردنابورا كوتّي",
+      "جافنا"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.17,
+    "discriminationIndex": 0.72
+  },
+  {
+    "id": 70,
+    "type": "MCQ",
+    "question": "ما هي عاصمة بليز؟",
+    "options": [
+      "سان خوسيه",
+      "ماناغوا",
+      "بليز سيتي",
+      "بلموبان"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.19,
+    "discriminationIndex": 0.51
+  },
+  {
+    "id": 71,
+    "type": "TF",
+    "question": "العاصمة التشريعية لجنوب أفريقيا هي كيب تاون.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.17,
+    "discriminationIndex": 0.69
+  },
+  {
+    "id": 72,
+    "type": "TF",
+    "question": "عدد أفوغادرو يساوي تقريبًا 6.022×10^23.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.2,
+    "discriminationIndex": 0.52
+  },
+  {
+    "id": 73,
+    "type": "TF",
+    "question": "التسامي هو تحول المادة من سائل إلى غاز مباشرةً.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.28,
+    "discriminationIndex": 0.74
+  },
+  {
+    "id": 74,
+    "type": "TF",
+    "question": "الزهرة تدور حول محورها باتجاه معاكس لمعظم الكواكب.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "علوم/فضاء",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.28,
+    "discriminationIndex": 0.53
+  },
+  {
+    "id": 75,
+    "type": "TF",
+    "question": "الكتابة المسمارية ظهرت أولًا في بلاد الرافدين.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.16,
+    "discriminationIndex": 0.51
+  },
+  {
+    "id": 76,
+    "type": "TF",
+    "question": "معاهدة فرساي وُقّعت في عام 1945.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.24,
+    "discriminationIndex": 0.58
+  },
+  {
+    "id": 77,
+    "type": "TF",
+    "question": "اللغة الرومانش هي إحدى اللغات الرسمية في سويسرا.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "لغات",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.14,
+    "discriminationIndex": 0.63
+  },
+  {
+    "id": 78,
+    "type": "TF",
+    "question": "مضيق هرمز يربط البحر الأحمر بخليج عدن.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.27,
+    "discriminationIndex": 0.75
+  },
+  {
+    "id": 79,
+    "type": "TF",
+    "question": "الفولغا يُعد أطول نهر في أوروبا.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.16,
+    "discriminationIndex": 0.54
+  },
+  {
+    "id": 80,
+    "type": "TF",
+    "question": "تيتان هو أكبر أقمار كوكب المريخ.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "علوم/فضاء",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.27,
+    "discriminationIndex": 0.67
+  },
+  {
+    "id": 81,
+    "type": "TF",
+    "question": "خندق ماريانا هو أعمق نقطة معروفة في المحيطات.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "علوم/جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.23,
+    "discriminationIndex": 0.53
+  },
+  {
+    "id": 82,
+    "type": "TF",
+    "question": "حمض الأسكوربيك هو الاسم العلمي لفيتامين D.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "علوم/صحة",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.13,
+    "discriminationIndex": 0.71
+  },
+  {
+    "id": 83,
+    "type": "TF",
+    "question": "الفاتيكان هي أصغر دولة في العالم من حيث المساحة.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.19,
+    "discriminationIndex": 0.52
+  },
+  {
+    "id": 84,
+    "type": "TF",
+    "question": "مغالطة Ad Hominem تعني مهاجمة الشخص بدل الحجة.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "منطق",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.27,
+    "discriminationIndex": 0.69
+  },
+  {
+    "id": 85,
+    "type": "TF",
+    "question": "جامعة القرويين تقع في مدينة فاس.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "ثقافة/تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.25,
+    "discriminationIndex": 0.53
+  },
+  {
+    "id": 86,
+    "type": "TF",
+    "question": "مئة عام من العزلة من تأليف ألبير كامو.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "ثقافة/أدب",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.26,
+    "discriminationIndex": 0.52
+  },
+  {
+    "id": 87,
+    "type": "TF",
+    "question": "القسطنطينية هي الاسم التاريخي لمدينة إسطنبول.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.26,
+    "discriminationIndex": 0.64
+  },
+  {
+    "id": 88,
+    "type": "TF",
+    "question": "التقويم الهجري تقويم قمري بالأساس.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "ثقافة/تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.17,
+    "discriminationIndex": 0.67
+  },
+  {
+    "id": 89,
+    "type": "TF",
+    "question": "العدد الذري للكربون هو 12.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.27,
+    "discriminationIndex": 0.58
+  },
+  {
+    "id": 90,
+    "type": "TF",
+    "question": "عنصر التنغستن رمزه الكيميائي W.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.14,
+    "discriminationIndex": 0.66
+  },
+  {
+    "id": 91,
+    "type": "TF",
+    "question": "الزينون من الغازات النبيلة.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.16,
+    "discriminationIndex": 0.53
+  },
+  {
+    "id": 92,
+    "type": "TF",
+    "question": "قانون بويل يربط بين الضغط والحجم عند ثبوت درجة الحرارة.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.15,
+    "discriminationIndex": 0.52
+  },
+  {
+    "id": 93,
+    "type": "TF",
+    "question": "بروكسيما قنطورس هو أقرب نجم للأرض بعد الشمس.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "علوم/فضاء",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.15,
+    "discriminationIndex": 0.59
+  },
+  {
+    "id": 94,
+    "type": "TF",
+    "question": "الكانديلا هي وحدة قياس شدة الإضاءة في النظام الدولي.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.17,
+    "discriminationIndex": 0.73
+  },
+  {
+    "id": 95,
+    "type": "TF",
+    "question": "باب المندب يقع بين اليمن وشرق أفريقيا.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.17,
+    "discriminationIndex": 0.65
+  },
+  {
+    "id": 96,
+    "type": "TF",
+    "question": "المحيط الهادئ هو أصغر محيط على الأرض.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.15,
+    "discriminationIndex": 0.6
+  },
+  {
+    "id": 97,
+    "type": "TF",
+    "question": "ملحمة جلجامش من أقدم النصوص الأدبية المعروفة.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "ثقافة/تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.12,
+    "discriminationIndex": 0.58
+  },
+  {
+    "id": 98,
+    "type": "TF",
+    "question": "الماجنا كارتا صدرت في عام 1215.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.12,
+    "discriminationIndex": 0.72
+  },
+  {
+    "id": 99,
+    "type": "TF",
+    "question": "الألمانية ليست لغة رسمية في سويسرا.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "لغات",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.21,
+    "discriminationIndex": 0.56
+  },
+  {
+    "id": 100,
+    "type": "TF",
+    "question": "التضخم يعني انخفاضًا عامًا ومستمرًا في الأسعار.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "اقتصاد",
+    "difficultyLevel": "صعب جدًا",
+    "difficultyIndex": 0.2,
+    "discriminationIndex": 0.78
+  }
+]

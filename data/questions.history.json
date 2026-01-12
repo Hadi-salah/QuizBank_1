@@ -1,0 +1,4 @@
+[
+  { "id": 1, "type": "MCQ", "question": "في أي قارة تقع مصر؟", "options": ["آسيا", "أوروبا", "أفريقيا", "أمريكا الجنوبية"], "correctIndex": 2 },
+  { "id": 2, "type": "TF",  "question": "الحضارة السومرية من أقدم حضارات العالم.", "options": ["True", "False"], "correctIndex": 0 }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "id": 1,
+    "type": "MCQ",
+    "question": "ما هي الوحدة الأساسية للتركيب والوظيفة في الكائنات الحية؟",
+    "options": [
+      "النسيج",
+      "العضو",
+      "الخلية",
+      "الجهاز"
+    ],
+    "correctIndex": 2,
+    "category": "Biology"
+  },
+  {
+    "id": 2,
+    "type": "MCQ",
+    "question": "أي عضية مسؤولة بشكل أساسي عن إنتاج الطاقة (ATP) في الخلايا حقيقية النواة؟",
+    "options": [
+      "الريبوسوم",
+      "الميتوكوندريا",
+      "جهاز جولجي",
+      "الليسوسوم"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 3,
+    "type": "TF",
+    "question": "الـDNA يوجد غالبًا داخل النواة في الخلايا حقيقية النواة.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "Biology"
+  },
+  {
+    "id": 4,
+    "type": "MCQ",
+    "question": "أي جزيء يحمل الشفرة الوراثية لمعظم الكائنات الحية؟",
+    "options": [
+      "DNA",
+      "ATP",
+      "Glucose",
+      "Lipid"
+    ],
+    "correctIndex": 0,
+    "category": "Biology"
+  },
+  {
+    "id": 5,
+    "type": "MCQ",
+    "question": "أي مما يلي يُعد مثالًا على نقل مادة عبر الغشاء دون استهلاك طاقة؟",
+    "options": [
+      "النقل النشط",
+      "الانتشار البسيط",
+      "البلعمة",
+      "الإخراج الخلوي"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 6,
+    "type": "TF",
+    "question": "الأسموزية هي حركة الماء عبر غشاء شبه منفذ من تركيز ماء أعلى إلى تركيز ماء أقل.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "Biology"
+  },
+  {
+    "id": 7,
+    "type": "MCQ",
+    "question": "أي مرحلة من الانقسام المتساوي (Mitosis) تصطف فيها الكروموسومات في منتصف الخلية؟",
+    "options": [
+      "الطور التمهيدي",
+      "الطور الاستوائي",
+      "الطور الانفصالي",
+      "الطور النهائي"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 8,
+    "type": "MCQ",
+    "question": "أي نوع من الانقسام ينتج خلايا جنسية (Gametes) بنصف عدد الكروموسومات؟",
+    "options": [
+      "الانقسام المتساوي",
+      "الانقسام المنصف",
+      "الانشطار الثنائي",
+      "الانقسام الخيطي"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 9,
+    "type": "TF",
+    "question": "في الانقسام المنصف، يحدث العبور الوراثي (Crossing over) غالبًا في الطور التمهيدي الأول.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "Biology"
+  },
+  {
+    "id": 10,
+    "type": "MCQ",
+    "question": "أي قاعدة نيتروجينية ترتبط مع الأدينين (A) في الـDNA؟",
+    "options": [
+      "سيتوسين",
+      "جوانين",
+      "ثايمين",
+      "يوراسيل"
+    ],
+    "correctIndex": 2,
+    "category": "Biology"
+  },
+  {
+    "id": 11,
+    "type": "MCQ",
+    "question": "أي من التالي هو موقع حدوث عملية التمثيل الضوئي في النبات؟",
+    "options": [
+      "الميتوكوندريا",
+      "البلاستيدة الخضراء",
+      "النواة",
+      "الشبكة الإندوبلازمية"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 12,
+    "type": "TF",
+    "question": "الكلوروفيل هو الصبغة الأساسية التي تمتص الضوء في عملية البناء الضوئي.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "Biology"
+  },
+  {
+    "id": 13,
+    "type": "MCQ",
+    "question": "ما ناتج تفاعل دورة كالفن (Calvin Cycle) بشكل رئيسي؟",
+    "options": [
+      "الأكسجين",
+      "الجلوكوز/مركبات سكرية",
+      "ATP فقط",
+      "ثاني أكسيد الكربون"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 14,
+    "type": "MCQ",
+    "question": "أين يحدث التحلل السكري (Glycolysis) في الخلية؟",
+    "options": [
+      "النواة",
+      "السيتوبلازم",
+      "الميتوكوندريا",
+      "جهاز جولجي"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 15,
+    "type": "TF",
+    "question": "التنفس الخلوي الهوائي ينتج ATP أكثر من التنفس اللاهوائي.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "Biology"
+  },
+  {
+    "id": 16,
+    "type": "MCQ",
+    "question": "ما الجزء الذي يربط العظمة بالعضلة؟",
+    "options": [
+      "الغضروف",
+      "الوتر",
+      "الرباط",
+      "نخاع العظم"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 17,
+    "type": "MCQ",
+    "question": "أي من التالي يُعد من مكونات جهاز المناعة غير النوعي (الفطري)؟",
+    "options": [
+      "الأجسام المضادة",
+      "الخلايا التائية",
+      "الجلد",
+      "خلايا الذاكرة"
+    ],
+    "correctIndex": 2,
+    "category": "Biology"
+  },
+  {
+    "id": 18,
+    "type": "TF",
+    "question": "الالتهاب (Inflammation) يُعد استجابة دفاعية أولية ضمن المناعة الفطرية.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "Biology"
+  },
+  {
+    "id": 19,
+    "type": "MCQ",
+    "question": "أي من التالي يصف بدقة وظيفة الإنزيمات؟",
+    "options": [
+      "تزيد طاقة التنشيط",
+      "تقلل طاقة التنشيط",
+      "تُستهلك أثناء التفاعل",
+      "تمنع حدوث التفاعل"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 20,
+    "type": "MCQ",
+    "question": "ما العامل الذي يؤثر عادةً على نشاط الإنزيمات بشكل كبير؟",
+    "options": [
+      "الضغط الجوي فقط",
+      "درجة الحرارة ودرجة الحموضة (pH)",
+      "لون المحلول",
+      "شكل الوعاء"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 21,
+    "type": "TF",
+    "question": "قد يؤدي تغير شديد في pH إلى تمسخ (Denaturation) بعض البروتينات.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "Biology"
+  },
+  {
+    "id": 22,
+    "type": "MCQ",
+    "question": "أي من التالي يُعد سكرًا أحاديًا (Monosaccharide)؟",
+    "options": [
+      "السكروز",
+      "اللاكتوز",
+      "الجلوكوز",
+      "النشا"
+    ],
+    "correctIndex": 2,
+    "category": "Biology"
+  },
+  {
+    "id": 23,
+    "type": "MCQ",
+    "question": "أي من التالي يُعد مثالًا على سكر مُعقّد (Polysaccharide) في النباتات؟",
+    "options": [
+      "الجليكوجين",
+      "السليلوز",
+      "الفركتوز",
+      "المالتوز"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 24,
+    "type": "TF",
+    "question": "الجليكوجين هو شكل تخزين الجلوكوز في الحيوانات.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "Biology"
+  },
+  {
+    "id": 25,
+    "type": "MCQ",
+    "question": "أي من التالي يُعد مثالًا على الحمض الأميني؟",
+    "options": [
+      "الدهون الثلاثية",
+      "الألانين",
+      "السكروز",
+      "الكوليسترول"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 26,
+    "type": "MCQ",
+    "question": "ما الجزيء الذي يُعد 'عملة الطاقة' في الخلية؟",
+    "options": [
+      "DNA",
+      "ATP",
+      "RNA",
+      "Protein"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 27,
+    "type": "TF",
+    "question": "الريبوسومات هي الموقع الأساسي لتخليق البروتين (Protein synthesis).",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "Biology"
+  },
+  {
+    "id": 28,
+    "type": "MCQ",
+    "question": "أي نوع من الـRNA ينقل الأحماض الأمينية إلى الريبوسوم أثناء الترجمة؟",
+    "options": [
+      "mRNA",
+      "tRNA",
+      "rRNA",
+      "snRNA"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 29,
+    "type": "MCQ",
+    "question": "أين تتم عملية نسخ الـDNA إلى mRNA (Transcription) في الخلايا حقيقية النواة؟",
+    "options": [
+      "السيتوبلازم",
+      "الميتوكوندريا",
+      "النواة",
+      "الريبوسوم"
+    ],
+    "correctIndex": 2,
+    "category": "Biology"
+  },
+  {
+    "id": 30,
+    "type": "TF",
+    "question": "الكودون (Codon) يتكون من ثلاث قواعد نيتروجينية على mRNA.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "Biology"
+  },
+  {
+    "id": 31,
+    "type": "MCQ",
+    "question": "من هو العالم الذي اقترح قوانين الوراثة الأساسية عبر تجاربه على نبات البازلاء؟",
+    "options": [
+      "داروين",
+      "مندل",
+      "واتسون",
+      "باستور"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 32,
+    "type": "MCQ",
+    "question": "إذا كان الفرد يحمل أليلين مختلفين لصفة ما، فإنه يُوصف بأنه:",
+    "options": [
+      "متماثل الزيجوت",
+      "غير متماثل الزيجوت",
+      "متنحٍ نقي",
+      "سائد نقي"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 33,
+    "type": "TF",
+    "question": "الصفة المتنحية تظهر في النمط الظاهري فقط عند غياب الأليل السائد.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "Biology"
+  },
+  {
+    "id": 34,
+    "type": "MCQ",
+    "question": "ما المقصود بالطفرات (Mutations)؟",
+    "options": [
+      "تغيرات دائمة في تسلسل الـDNA",
+      "زيادة فورية في ATP",
+      "انقسام الخلية",
+      "هضم البروتين"
+    ],
+    "correctIndex": 0,
+    "category": "Biology"
+  },
+  {
+    "id": 35,
+    "type": "MCQ",
+    "question": "أي من التالي يُعد مثالًا على الانتخاب الطبيعي؟",
+    "options": [
+      "اختيار المزارع لأكبر الثمار",
+      "بقاء الأفراد الأكثر تكيفًا وتكاثرهم",
+      "تزاوج الأقارب دائمًا",
+      "تغير الطقس اليومي"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 36,
+    "type": "TF",
+    "question": "التنوع الوراثي داخل الجماعة الحيوية يزيد فرصة التكيف مع التغيرات البيئية.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "Biology"
+  },
+  {
+    "id": 37,
+    "type": "MCQ",
+    "question": "أي مستوى من التنظيم الحيوي يأتي مباشرة بعد الخلية؟",
+    "options": [
+      "العضو",
+      "النسيج",
+      "الجهاز",
+      "الكائن الحي"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 38,
+    "type": "MCQ",
+    "question": "أي من التالي يُعد ناقلًا رئيسيًا للأكسجين في دم الإنسان؟",
+    "options": [
+      "الهيموغلوبين",
+      "الأنسولين",
+      "الكيراتين",
+      "الألبومين"
+    ],
+    "correctIndex": 0,
+    "category": "Biology"
+  },
+  {
+    "id": 39,
+    "type": "TF",
+    "question": "خلايا الدم الحمراء في الإنسان لا تحتوي على نواة عند النضج.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "Biology"
+  },
+  {
+    "id": 40,
+    "type": "MCQ",
+    "question": "أي عضو يُعد الموقع الأساسي لتبادل الغازات في الجهاز التنفسي؟",
+    "options": [
+      "القصبة الهوائية",
+      "الحويصلات الهوائية",
+      "الحنجرة",
+      "الحجاب الحاجز"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 41,
+    "type": "MCQ",
+    "question": "أي جزء من الكلية يحدث فيه الترشيح الأولي للدم؟",
+    "options": [
+      "الأنبوب الجامع",
+      "محفظة بومان",
+      "عروة هنلي",
+      "الحالب"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 42,
+    "type": "TF",
+    "question": "النيفرون هو الوحدة الوظيفية الأساسية في الكلية.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "Biology"
+  },
+  {
+    "id": 43,
+    "type": "MCQ",
+    "question": "أي هرمون ينظم مستوى السكر في الدم بشكل أساسي عن طريق خفضه؟",
+    "options": [
+      "الأدرينالين",
+      "الإنسولين",
+      "الجلوكاجون",
+      "الثيروكسين"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 44,
+    "type": "MCQ",
+    "question": "أي من التالي يُعد من مكونات الجهاز العصبي المركزي؟",
+    "options": [
+      "الأعصاب الطرفية",
+      "الدماغ والحبل الشوكي",
+      "العقد العصبية فقط",
+      "الأوتار"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 45,
+    "type": "TF",
+    "question": "المشبك العصبي (Synapse) هو منطقة اتصال بين عصبونين أو بين عصبون وعضلة.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "Biology"
+  },
+  {
+    "id": 46,
+    "type": "MCQ",
+    "question": "في السلاسل الغذائية، الكائنات المنتِجة (Producers) غالبًا تكون:",
+    "options": [
+      "حيوانات لاحمة",
+      "نباتات/طحالب تقوم بالبناء الضوئي",
+      "فطريات محللة فقط",
+      "مفترسات عليا"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 47,
+    "type": "MCQ",
+    "question": "أي مما يلي يُعد مثالًا على علاقة تكافل (Mutualism)؟",
+    "options": [
+      "القراد مع الكلب",
+      "الفطريات مع جذور النباتات (الميكورايزا)",
+      "الأسد مع الغزال",
+      "دودة شريطية مع الإنسان"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 48,
+    "type": "TF",
+    "question": "المحللات (Decomposers) تساهم في إعادة تدوير العناصر الغذائية في النظام البيئي.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "Biology"
+  },
+  {
+    "id": 49,
+    "type": "MCQ",
+    "question": "أي من التالي يُعد مثالًا على عامل حيوي (Biotic factor) في البيئة؟",
+    "options": [
+      "درجة الحرارة",
+      "الضوء",
+      "البكتيريا",
+      "الرطوبة"
+    ],
+    "correctIndex": 2,
+    "category": "Biology"
+  },
+  {
+    "id": 50,
+    "type": "MCQ",
+    "question": "ما المقصود بالتنوع الحيوي (Biodiversity)؟",
+    "options": [
+      "عدد المعادن في التربة",
+      "تنوع الكائنات الحية والأنظمة البيئية",
+      "تغير الفصول فقط",
+      "زيادة ثاني أكسيد الكربون فقط"
+    ],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "id": 51,
+    "type": "MCQ",
+    "question": "كائن حقيقي النواة",
+    "options": [
+      "فايروس",
+      "الديدان",
+      "بكتريا",
+      "لا احد"
+    ],
+    "correctIndex": 2
+  }
+]
