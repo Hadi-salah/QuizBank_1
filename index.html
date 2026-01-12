@@ -1,0 +1,325 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="لعبة بنك المعلومات - أسئلة اختيار من متعدد وصح/خطأ" />
+  <title>لعبة بنك المعلومات</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<!-- أضف هذا الكود قبل </body> -->
+<div class="floating-shapes" aria-hidden="true">
+  <div class="shape">؟</div>
+  <div class="shape">★</div>
+  <div class="shape">📚</div>
+  <div class="shape">✓</div>
+  <div class="shape">◆</div>
+  <div class="shape">؟</div>
+</div>
+<body>
+  <a class="skip-link" href="#main">تخطي إلى المحتوى</a>
+
+  <!-- Header -->
+  <header class="app-header">
+    <div class="container header-grid">
+      <div class="brand">
+        <div class="brand-icon" aria-hidden="true">🧠</div>
+        <div class="brand-text">
+          <h1 class="app-title">لعبة بنك المعلومات</h1>
+          <p class="app-subtitle">MCQ + True/False • فريقين • 30 ثانية</p>
+        </div>
+      </div>
+
+      <div class="header-actions" role="group" aria-label="إعدادات سريعة">
+        <button id="btnAddQuestion" class="btn btn-primary" type="button">➕ إضافة سؤال</button>
+
+        <button id="btnSettings" class="btn btn-ghost" type="button" aria-haspopup="dialog" aria-controls="settingsDialog">
+          الإعدادات
+        </button>
+        <button id="btnReset" class="btn btn-danger" type="button">
+          إعادة ضبط
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main -->
+  <main id="main" class="container main-layout">
+    <!-- Sidebar: Teams -->
+    <aside class="panel teams-panel" aria-label="لوحة الفرق">
+      <section class="card team-card" aria-label="الفريق A">
+        <header class="card-header">
+          <h2 class="card-title">الفريق A</h2>
+          <span id="badgeTurnA" class="badge" hidden>الدور الآن</span>
+        </header>
+
+        <div class="score-wrap">
+          <div class="score-label">النقاط</div>
+          <div id="scoreA" class="score" aria-live="polite">0</div>
+        </div>
+
+        <div class="team-actions">
+          <button id="incA" class="btn btn-primary" type="button" title="زيادة نقطة للفريق A">+ نقطة</button>
+          <button id="decA" class="btn btn-ghost" type="button" title="إنقاص نقطة للفريق A">− نقطة</button>
+        </div>
+      </section>
+
+      <section class="card team-card" aria-label="الفريق B">
+        <header class="card-header">
+          <h2 class="card-title">الفريق B</h2>
+          <span id="badgeTurnB" class="badge" hidden>الدور الآن</span>
+        </header>
+
+        <div class="score-wrap">
+          <div class="score-label">النقاط</div>
+          <div id="scoreB" class="score" aria-live="polite">0</div>
+        </div>
+
+        <div class="team-actions">
+          <button id="incB" class="btn btn-primary" type="button" title="زيادة نقطة للفريق B">+ نقطة</button>
+          <button id="decB" class="btn btn-ghost" type="button" title="إنقاص نقطة للفريق B">− نقطة</button>
+        </div>
+      </section>
+
+      <section class="card meta-card" aria-label="معلومات الجولة">
+        <div class="meta-row">
+          <span class="meta-key">رقم السؤال</span>
+          <span id="questionNumber" class="meta-val">—</span>
+        </div>
+        <div class="meta-row">
+          <span class="meta-key">المتبقي</span>
+          <span id="timerText" class="meta-val">30s</span>
+        </div>
+        <div class="progress" aria-label="شريط الوقت المتبقي">
+          <div id="timerBar" class="progress-bar" style="width: 100%"></div>
+        </div>
+
+        <div class="meta-row">
+          <span class="meta-key">نوع السؤال</span>
+          <span id="questionType" class="meta-val">—</span>
+        </div>
+        <div class="meta-row">
+          <span class="meta-key">الفئة</span>
+          <span id="questionCategory" class="meta-val">—</span>
+        </div>
+      </section>
+    </aside>
+
+    <!-- Center: Quiz -->
+    <section class="panel quiz-panel" aria-label="منطقة السؤال">
+      <section class="card quiz-card">
+        <header class="card-header">
+          <h2 class="card-title">السؤال</h2>
+          <div class="chip-row" aria-label="حالة السؤال">
+            <span id="statusChip" class="chip chip-idle">جاهز</span>
+          </div>
+        </header>
+
+        <article class="question-box" aria-live="polite" aria-atomic="true">
+          <p id="questionText" class="question-text">
+            اضغط “ابدأ” لبدء اللعبة وتحميل الأسئلة.
+          </p>
+        </article>
+
+        <form id="optionsForm" class="options" aria-label="اختيارات الإجابة">
+          <div class="hint">
+            * في أسئلة True/False ستظهر خياران فقط.
+          </div>
+        </form>
+
+        <div class="controls" role="group" aria-label="أزرار التحكم">
+          <button id="btnStart" class="btn btn-primary" type="button">ابدأ</button>
+          <button id="btnNext" class="btn btn-ghost" type="button" disabled>السؤال التالي</button>
+
+          <div class="spacer"></div>
+
+          <button id="btnReveal" class="btn btn-ghost" type="button" disabled>إظهار الإجابة</button>
+          <button id="btnCorrect" class="btn btn-success" type="button" disabled>إجابة صحيحة ✅</button>
+          <button id="btnWrong" class="btn btn-warning" type="button" disabled>إجابة خاطئة ❌</button>
+        </div>
+
+        <div id="feedback" class="feedback" aria-live="polite" hidden></div>
+      </section>
+
+      <p class="mini-note">
+        ملاحظة: عند تفعيل “الحساب التلقائي”، اختيار الإجابة يحسب الدرجة مباشرة.
+      </p>
+    </section>
+  </main>
+
+  <!-- Settings Dialog -->
+  <dialog id="settingsDialog" class="dialog" aria-label="إعدادات اللعبة">
+    <form method="dialog" class="dialog-content">
+      <header class="dialog-header">
+        <h3 class="dialog-title">إعدادات اللعبة</h3>
+        <button class="btn btn-ghost" value="cancel" type="submit" aria-label="إغلاق">✕</button>
+      </header>
+
+      <div class="dialog-body">
+        <div class="field">
+          <label for="questionsPerGame">عدد الأسئلة في المباراة</label>
+          <input id="questionsPerGame" name="questionsPerGame" type="number" min="5" max="100" value="20" />
+          <small class="help">مثال: 20 سؤال لكل مباراة.</small>
+        </div>
+
+        <div class="field">
+          <label for="secondsPerQuestion">الوقت لكل سؤال (ثانية)</label>
+          <input id="secondsPerQuestion" name="secondsPerQuestion" type="number" min="5" max="120" value="30" />
+          <small class="help">الافتراضي 30 ثانية.</small>
+        </div>
+
+        <div class="field">
+          <label for="pointsCorrect">نقاط الإجابة الصحيحة</label>
+          <input id="pointsCorrect" name="pointsCorrect" type="number" min="1" max="50" value="1" />
+        </div>
+
+        <div class="field">
+          <label for="pointsWrong">خصم عند الإجابة الخاطئة</label>
+          <input id="pointsWrong" name="pointsWrong" type="number" min="0" max="50" value="0" />
+          <small class="help">ضع 0 إذا لا تريد خصم.</small>
+        </div>
+
+        <div class="field">
+          <label for="gameCategory">فئة الأسئلة</label>
+          <select id="gameCategory">
+            <option value="general">عامة</option>
+            <option value="sports">رياضة</option>
+            <option value="technology">تكنولوجيا</option>
+            <option value="history">تاريخ</option>
+            <option value="medical">طبية</option>
+          </select>
+        </div>
+
+        <fieldset class="field">
+          <legend>أنواع الأسئلة</legend>
+          <label class="check">
+            <input id="enableMCQ" type="checkbox" checked />
+            <span>MCQ (اختيار من متعدد)</span>
+          </label>
+          <label class="check">
+            <input id="enableTF" type="checkbox" checked />
+            <span>True/False (صح/خطأ)</span>
+          </label>
+        </fieldset>
+      </div>
+
+      <footer class="dialog-footer">
+        <button id="btnSaveSettings" class="btn btn-primary" value="default" type="submit">حفظ</button>
+        <button class="btn btn-ghost" value="cancel" type="submit">إلغاء</button>
+      </footer>
+    </form>
+  </dialog>
+
+  <!-- Add Question Dialog -->
+  <dialog id="addQuestionDialog" class="dialog" aria-label="إضافة سؤال جديد">
+    <form id="addQuestionForm" class="dialog-content">
+      <header class="dialog-header">
+        <h3 class="dialog-title">إضافة سؤال جديد</h3>
+        <button class="btn btn-ghost" type="button" id="btnCloseAddDialog" aria-label="إغلاق">✕</button>
+      </header>
+
+      <div class="dialog-body">
+        <div class="field">
+          <label for="aqType">نوع السؤال</label>
+          <select id="aqType">
+            <option value="MCQ" selected>MCQ - اختيار من متعدد</option>
+            <option value="TF">TF - صح/خطأ</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label for="aqCategorySelect">الفئة</label>
+          <select id="aqCategorySelect">
+            <option value="general">عامة</option>
+            <option value="sports">رياضة</option>
+            <option value="technology">تكنولوجيا</option>
+            <option value="history">تاريخ</option>
+            <option value="medical">طبية</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label for="aqQuestion">نص السؤال</label>
+          <textarea id="aqQuestion" rows="3" placeholder="اكتب السؤال هنا..."></textarea>
+        </div>
+
+        <!-- MCQ Fields -->
+        <div id="mcqFields">
+          <div class="field">
+            <label>الخيارات (4)</label>
+            <input id="aqOpt1" type="text" placeholder="الخيار 1" />
+            <input id="aqOpt2" type="text" placeholder="الخيار 2" />
+            <input id="aqOpt3" type="text" placeholder="الخيار 3" />
+            <input id="aqOpt4" type="text" placeholder="الخيار 4" />
+          </div>
+
+          <div class="field">
+            <label for="aqCorrectMcq">الإجابة الصحيحة</label>
+            <select id="aqCorrectMcq">
+              <option value="0">الخيار 1</option>
+              <option value="1">الخيار 2</option>
+              <option value="2">الخيار 3</option>
+              <option value="3">الخيار 4</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- TF Fields -->
+        <div id="tfFields" hidden>
+          <div class="field">
+            <label for="aqCorrectTf">الإجابة الصحيحة</label>
+            <select id="aqCorrectTf">
+              <option value="0">True</option>
+              <option value="1">False</option>
+            </select>
+            <small class="help">في TF الخيارات ثابتة: True / False</small>
+          </div>
+        </div>
+      </div>
+
+      <footer class="dialog-footer">
+        <button id="btnSaveQuestion" class="btn btn-primary" type="submit">حفظ السؤال</button>
+        <button class="btn btn-ghost" type="button" id="btnCancelAddDialog">إلغاء</button>
+      </footer>
+    </form>
+  </dialog>
+
+  <!-- End Game Dialog -->
+  <dialog id="endDialog" class="dialog" aria-label="نهاية اللعبة">
+    <form method="dialog" class="dialog-content">
+      <header class="dialog-header">
+        <h3 class="dialog-title">انتهت المباراة</h3>
+        <button class="btn btn-ghost" value="cancel" type="submit" aria-label="إغلاق">✕</button>
+      </header>
+
+      <div class="dialog-body">
+        <p id="winnerText" class="winner-text">—</p>
+
+        <div class="end-scores">
+          <div class="end-score">
+            <span>الفريق A</span>
+            <strong id="endScoreA">0</strong>
+          </div>
+          <div class="end-score">
+            <span>الفريق B</span>
+            <strong id="endScoreB">0</strong>
+          </div>
+        </div>
+      </div>
+
+      <footer class="dialog-footer">
+        <button id="btnPlayAgain" class="btn btn-primary" value="default" type="submit">العب مرة أخرى</button>
+        <button class="btn btn-ghost" value="cancel" type="submit">إغلاق</button>
+      </footer>
+    </form>
+  </dialog>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
