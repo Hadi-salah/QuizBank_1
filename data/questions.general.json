@@ -2,1641 +2,4225 @@
   {
     "id": 1,
     "type": "MCQ",
-    "question": "ما هي عاصمة بوتان؟",
+    "question": "ما هي عاصمة فرنسا؟",
     "options": [
-      "فيينتيان",
-      "كاتماندو",
-      "تيمفو",
-      "داكا"
+      "روما",
+      "باريس",
+      "مدريد",
+      "برلين"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "category": "عام",
     "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.22,
-    "discriminationIndex": 0.52
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 2,
     "type": "MCQ",
-    "question": "ما هو اسم المضيق الذي يربط البحر الأحمر بخليج عدن؟",
+    "question": "ما هي عاصمة إيطاليا؟",
     "options": [
-      "مضيق البوسفور",
-      "مضيق ملقا",
-      "مضيق هرمز",
-      "باب المندب"
+      "روما",
+      "أثينا",
+      "باريس",
+      "فيينا"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "category": "عام",
     "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.27,
-    "discriminationIndex": 0.56
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 3,
     "type": "MCQ",
-    "question": "ما هي أعلى قمة في قارة أفريقيا؟",
+    "question": "ما هي عاصمة اليابان؟",
     "options": [
-      "مون بلان",
-      "أكونكاغوا",
-      "إيفرست",
-      "كليمنجارو"
+      "سيول",
+      "بكين",
+      "طوكيو",
+      "بانكوك"
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "category": "عام",
     "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.13,
-    "discriminationIndex": 0.53
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 4,
     "type": "MCQ",
-    "question": "ما هي عاصمة كازاخستان الحالية؟",
+    "question": "ما هي عاصمة الصين؟",
     "options": [
-      "ألماتي",
-      "طشقند",
-      "أستانا",
-      "باكو"
+      "شنغهاي",
+      "بكين",
+      "هونغ كونغ",
+      "تايبيه"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "category": "عام",
     "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.27,
-    "discriminationIndex": 0.69
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 5,
     "type": "MCQ",
-    "question": "أي دولة تُعد صاحبة أكبر عدد من الجزر في العالم؟",
+    "question": "ما هي عاصمة كندا؟",
     "options": [
-      "اليابان",
-      "إندونيسيا",
-      "الفلبين",
-      "السويد"
+      "تورونتو",
+      "أوتاوا",
+      "فانكوفر",
+      "مونتريال"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "category": "عام",
     "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.13,
-    "discriminationIndex": 0.57
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 6,
     "type": "MCQ",
-    "question": "أي نهر يُعد الأطول في شبه الجزيرة العربية؟",
+    "question": "ما هي عاصمة أستراليا؟",
     "options": [
-      "وادي الرمة",
-      "نهر الأردن",
-      "نهر الفرات",
-      "نهر النيل"
+      "سيدني",
+      "ملبورن",
+      "كانبرا",
+      "بيرث"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "category": "عام",
     "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.14,
-    "discriminationIndex": 0.54
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 7,
     "type": "MCQ",
-    "question": "ما الاسم القديم لمدينة إسطنبول؟",
+    "question": "ما هي عاصمة البرازيل؟",
     "options": [
-      "قرطاجة",
-      "القسطنطينية",
-      "أنطاكية",
-      "الإسكندرية"
+      "ريو دي جانيرو",
+      "برازيليا",
+      "ساو باولو",
+      "سلفادور"
     ],
     "correctIndex": 1,
     "category": "عام",
-    "topic": "تاريخ/جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.14,
-    "discriminationIndex": 0.67
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 8,
     "type": "MCQ",
-    "question": "ما هي عاصمة ميانمار الإدارية؟",
+    "question": "ما هي عاصمة الأرجنتين؟",
     "options": [
-      "هانوي",
-      "نايبيداو",
-      "بنوم بنه",
-      "يانغون"
+      "بوينس آيرس",
+      "سانتياغو",
+      "ليما",
+      "كاراكاس"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "category": "عام",
     "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.21,
-    "discriminationIndex": 0.52
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 9,
     "type": "MCQ",
-    "question": "ما هو أعلى شلال في العالم؟",
+    "question": "ما هي عاصمة المكسيك؟",
     "options": [
-      "شلالات نياغرا",
-      "شلالات إجوازو",
-      "شلالات فيكتوريا",
-      "شلالات آنجل"
+      "غوادالاخارا",
+      "مونتيري",
+      "مكسيكو سيتي",
+      "تيخوانا"
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "category": "عام",
     "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.2,
-    "discriminationIndex": 0.66
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 10,
     "type": "MCQ",
-    "question": "أي بحر يُعد الأعلى ملوحةً بين البحار الكبيرة؟",
+    "question": "ما هي عاصمة إسبانيا؟",
     "options": [
-      "البحر الأحمر",
-      "بحر البلطيق",
-      "البحر المتوسط",
-      "البحر الأسود"
+      "برشلونة",
+      "مدريد",
+      "إشبيلية",
+      "فالنسيا"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "category": "عام",
     "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.18,
-    "discriminationIndex": 0.57
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 11,
     "type": "MCQ",
-    "question": "ما هي عاصمة بنين؟",
+    "question": "ما هي عاصمة ألمانيا؟",
     "options": [
-      "أبيدجان",
-      "بورتو نوفو",
-      "لومي",
-      "كوتونو"
+      "ميونخ",
+      "هامبورغ",
+      "برلين",
+      "فرانكفورت"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "category": "عام",
     "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.13,
-    "discriminationIndex": 0.59
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 12,
     "type": "MCQ",
-    "question": "ما هي عاصمة جزر القمر؟",
+    "question": "ما هي عاصمة تركيا؟",
     "options": [
-      "موروني",
-      "أناناريفو",
-      "فيكتوريا",
-      "سانت دينيس"
+      "إسطنبول",
+      "أنقرة",
+      "إزمير",
+      "بورصة"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "category": "عام",
     "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.17,
-    "discriminationIndex": 0.79
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 13,
     "type": "MCQ",
-    "question": "ما هي العملة الرسمية في منغوليا؟",
+    "question": "ما هي عاصمة مصر؟",
     "options": [
-      "الرينغيت",
-      "الين",
-      "الوون",
-      "التوغروغ"
+      "الإسكندرية",
+      "القاهرة",
+      "أسوان",
+      "الأقصر"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "اقتصاد",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.15,
-    "discriminationIndex": 0.6
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 14,
     "type": "MCQ",
-    "question": "أي عنصر كيميائي رمزه W؟",
+    "question": "ما هي عاصمة السعودية؟",
     "options": [
-      "القصدير",
-      "التنغستن",
-      "الزنك",
-      "التيتانيوم"
+      "جدة",
+      "الرياض",
+      "الدمام",
+      "المدينة"
     ],
     "correctIndex": 1,
     "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.27,
-    "discriminationIndex": 0.52
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 15,
     "type": "MCQ",
-    "question": "ما العدد الذري لعنصر الكربون؟",
+    "question": "ما هي عاصمة الإمارات؟",
     "options": [
-      "6",
-      "14",
-      "8",
-      "12"
+      "دبي",
+      "أبو ظبي",
+      "الشارقة",
+      "العين"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.22,
-    "discriminationIndex": 0.67
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 16,
     "type": "MCQ",
-    "question": "أي من التالي يُعد من الغازات النبيلة؟",
+    "question": "ما هي عاصمة العراق؟",
     "options": [
-      "الأكسجين",
-      "النيتروجين",
-      "الزينون",
-      "الهيدروجين"
+      "أربيل",
+      "بغداد",
+      "البصرة",
+      "الموصل"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.27,
-    "discriminationIndex": 0.64
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 17,
     "type": "MCQ",
-    "question": "ما هو اسم العملية التي يتحول فيها الصلب مباشرةً إلى غاز؟",
+    "question": "ما هي عاصمة إيران؟",
     "options": [
-      "الانصهار",
-      "التكاثف",
-      "التجمد",
-      "التسامي"
+      "طهران",
+      "تبريز",
+      "مشهد",
+      "أصفهان"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.22,
-    "discriminationIndex": 0.8
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 18,
     "type": "MCQ",
-    "question": "أي كوكب يملك أطول يوم (دوران حول محوره) في المجموعة الشمسية؟",
+    "question": "ما هي عاصمة الهند؟",
     "options": [
-      "الزهرة",
-      "الأرض",
-      "المشتري",
-      "عطارد"
+      "مومباي",
+      "نيودلهي",
+      "كلكتا",
+      "تشيناي"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "علوم/فضاء",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.26,
-    "discriminationIndex": 0.6
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 19,
     "type": "MCQ",
-    "question": "ما هي وحدة قياس شدة الإضاءة في النظام الدولي؟",
+    "question": "ما هي عاصمة إندونيسيا؟",
     "options": [
-      "واط",
-      "كانديلا",
-      "لوكس",
-      "نيوتن"
+      "جاكرتا",
+      "بالي",
+      "سورابايا",
+      "باندونغ"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.22,
-    "discriminationIndex": 0.65
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 20,
     "type": "MCQ",
-    "question": "ما هو اسم أقرب نجم إلى الأرض بعد الشمس؟",
+    "question": "ما هي عاصمة تايلاند؟",
     "options": [
-      "سهيل",
-      "بروكسيما قنطورس",
-      "منكب الجوزاء",
-      "الشِّعرى اليمانية"
+      "هانوي",
+      "بانكوك",
+      "بنوم بنه",
+      "كوالالمبور"
     ],
     "correctIndex": 1,
     "category": "عام",
-    "topic": "علوم/فضاء",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.24,
-    "discriminationIndex": 0.62
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 21,
     "type": "MCQ",
-    "question": "أي قانون يربط بين الضغط والحجم عند ثبوت درجة الحرارة؟",
+    "question": "ما هي عاصمة اليونان؟",
     "options": [
-      "قانون شارل",
-      "قانون أوم",
-      "قانون بويل",
-      "قانون نيوتن الثاني"
+      "أثينا",
+      "سالونيك",
+      "نيقوسيا",
+      "صوفيا"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.19,
-    "discriminationIndex": 0.66
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 22,
     "type": "MCQ",
-    "question": "من هو واضع مفهوم 'عدد أفوغادرو'؟",
+    "question": "أي قارة هي الأكبر مساحة؟",
     "options": [
-      "أميديو أفوغادرو",
-      "جيمس وات",
-      "نيكولا تسلا",
-      "مايكل فاراداي"
+      "أفريقيا",
+      "أوروبا",
+      "آسيا",
+      "أمريكا الجنوبية"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.23,
-    "discriminationIndex": 0.8
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 23,
     "type": "MCQ",
-    "question": "كم يساوي تقريبًا عدد أفوغادرو؟",
+    "question": "كم عدد القارات في العالم؟",
     "options": [
-      "3.14",
-      "9.81",
-      "6.022×10^23",
-      "1.602×10^-19"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
     "correctIndex": 2,
     "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.13,
-    "discriminationIndex": 0.55
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 24,
     "type": "MCQ",
-    "question": "أي مما يلي يُعد وحدة أساسية في النظام الدولي؟",
+    "question": "ما هو أكبر محيط على الأرض؟",
     "options": [
-      "النيوتن",
-      "الباسكال",
-      "الكلفن",
-      "الجول"
+      "الأطلسي",
+      "الهادئ",
+      "الهندي",
+      "المتجمد الشمالي"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.25,
-    "discriminationIndex": 0.55
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 25,
     "type": "MCQ",
-    "question": "ما اسم أقدم جامعة ما زالت تعمل في العالم وفقًا لليونسكو؟",
+    "question": "ما هو أعلى جبل في العالم؟",
     "options": [
-      "جامعة الأزهر",
-      "جامعة أوكسفورد",
-      "جامعة القرويين",
-      "جامعة بولونيا"
+      "كيليمنجارو",
+      "إيفرست",
+      "الألب",
+      "البيّنة"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "ثقافة/تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.19,
-    "discriminationIndex": 0.61
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 26,
     "type": "MCQ",
-    "question": "أي كتاب يُنسب لأبي العلاء المعري؟",
+    "question": "أي بلد يمر به نهر النيل؟",
     "options": [
-      "نهج البلاغة",
-      "الأغاني",
-      "رسالة الغفران",
-      "كليلة ودمنة"
+      "إسبانيا",
+      "مصر",
+      "أستراليا",
+      "اليابان"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "ثقافة/أدب",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.19,
-    "discriminationIndex": 0.76
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 27,
     "type": "MCQ",
-    "question": "من مؤلف رواية 'مئة عام من العزلة'؟",
+    "question": "ما هو المضيق الذي يربط البحر الأحمر بخليج عدن؟",
     "options": [
-      "غابرييل غارسيا ماركيز",
-      "إرنست هيمنغواي",
-      "خورخي لويس بورخيس",
-      "فرانز كافكا"
+      "مضيق هرمز",
+      "مضيق البوسفور",
+      "باب المندب",
+      "مضيق جبل طارق"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "category": "عام",
-    "topic": "ثقافة/أدب",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.18,
-    "discriminationIndex": 0.64
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 28,
-    "type": "MCQ",
-    "question": "من مؤلف 'الكوميديا الإلهية'؟",
+    "type": "TF",
+    "question": "المحيط الهندي يقع بين أفريقيا وآسيا وأستراليا.",
     "options": [
-      "هوميروس",
-      "سرفانتس",
-      "دانتي أليغييري",
-      "غوته"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "category": "عام",
-    "topic": "ثقافة/أدب",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.13,
-    "discriminationIndex": 0.56
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 29,
-    "type": "MCQ",
-    "question": "من هو مؤلف رواية 'المسخ' (The Metamorphosis)؟",
+    "type": "TF",
+    "question": "قارة أوروبا أكبر مساحة من قارة آسيا.",
     "options": [
-      "ألبير كامو",
-      "تولستوي",
-      "فرانز كافكا",
-      "فيكتور هوغو"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "ثقافة/أدب",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.22,
-    "discriminationIndex": 0.53
-  },
-  {
-    "id": 30,
-    "type": "MCQ",
-    "question": "ما اسم أقدم ملحمة أدبية معروفة؟",
-    "options": [
-      "الشاهنامة",
-      "ملحمة جلجامش",
-      "الأوديسة",
-      "الإلياذة"
+      "True",
+      "False"
     ],
     "correctIndex": 1,
     "category": "عام",
-    "topic": "ثقافة/تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.27,
-    "discriminationIndex": 0.68
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 30,
+    "type": "TF",
+    "question": "العاصمة الرسمية للولايات المتحدة هي واشنطن العاصمة.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 31,
     "type": "MCQ",
-    "question": "من هو مؤلف كتاب 'الأمير'؟",
+    "question": "ما هو الرمز الكيميائي للماء؟",
     "options": [
-      "جون لوك",
-      "ديكارت",
-      "أفلاطون",
-      "نيكولو ميكافيلي"
+      "H2O",
+      "CO2",
+      "O2",
+      "NaCl"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "category": "عام",
-    "topic": "ثقافة/فلسفة",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.14,
-    "discriminationIndex": 0.58
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 32,
     "type": "MCQ",
-    "question": "في أي سنة وُقّعت معاهدة فرساي؟",
+    "question": "ما هو الرمز الكيميائي للذهب؟",
     "options": [
-      "1919",
-      "1914",
-      "1945",
-      "1939"
+      "Ag",
+      "Au",
+      "Fe",
+      "Pb"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.2,
-    "discriminationIndex": 0.53
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 33,
     "type": "MCQ",
-    "question": "ما هو اسم الوثيقة الإنجليزية الشهيرة الصادرة عام 1215؟",
+    "question": "كم عدد حجرات قلب الإنسان؟",
     "options": [
-      "الماجنا كارتا",
-      "بيان الشيوعية",
-      "إعلان الاستقلال",
-      "صك الغفران"
+      "2",
+      "3",
+      "4",
+      "5"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.2,
-    "discriminationIndex": 0.53
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 34,
     "type": "MCQ",
-    "question": "من هو القائد القرطاجي الذي قاد حملة بالأفيال عبر الألب؟",
+    "question": "ما هو أكبر عضو في جسم الإنسان؟",
     "options": [
-      "نابليون",
-      "قيصر",
-      "الإسكندر الأكبر",
-      "هانيبال"
+      "الكبد",
+      "الرئة",
+      "الجلد",
+      "القلب"
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.24,
-    "discriminationIndex": 0.64
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 35,
     "type": "MCQ",
-    "question": "أي حضارة اشتهرت بمدينة 'تيكال'؟",
+    "question": "أي كوكب هو الأقرب إلى الشمس؟",
     "options": [
-      "الرومان",
-      "المايا",
-      "الآزتك",
-      "الإنكا"
+      "الزهرة",
+      "عطارد",
+      "الأرض",
+      "المريخ"
     ],
     "correctIndex": 1,
     "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.15,
-    "discriminationIndex": 0.79
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 36,
     "type": "MCQ",
-    "question": "ما اسم الإمبراطورية التي اتخذت القسطنطينية عاصمة لها؟",
+    "question": "كم عدد كواكب المجموعة الشمسية؟",
     "options": [
-      "الرومانية الغربية",
-      "المغولية",
-      "البيزنطية",
-      "الساسانية"
+      "7",
+      "8",
+      "9",
+      "10"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.24,
-    "discriminationIndex": 0.59
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 37,
     "type": "MCQ",
-    "question": "في أي عام سقطت القسطنطينية؟",
+    "question": "في أي جزء من النبات تتم عملية البناء الضوئي غالبًا؟",
     "options": [
-      "1517",
-      "1258",
-      "1492",
-      "1453"
+      "الجذور",
+      "الأوراق",
+      "الساق",
+      "البذور"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.2,
-    "discriminationIndex": 0.77
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 38,
     "type": "MCQ",
-    "question": "أي دولة كانت تُعرف قديمًا باسم 'بلاد فارس'؟",
+    "question": "ما هي وحدة قياس شدة التيار الكهربائي؟",
     "options": [
-      "أفغانستان",
-      "العراق",
-      "إيران",
-      "تركيا"
+      "فولت",
+      "أوم",
+      "أمبير",
+      "واط"
     ],
     "correctIndex": 2,
     "category": "عام",
-    "topic": "تاريخ/جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.22,
-    "discriminationIndex": 0.68
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 39,
     "type": "MCQ",
-    "question": "ما هو الاسم العلمي لفيتامين C؟",
+    "question": "ما هي وحدة قياس القوة؟",
     "options": [
-      "الريتينول",
-      "الثيامين",
-      "حمض الأسكوربيك",
-      "حمض الفوليك"
+      "نيوتن",
+      "جول",
+      "واط",
+      "باسكال"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "category": "عام",
-    "topic": "علوم/صحة",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.24,
-    "discriminationIndex": 0.57
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 40,
     "type": "MCQ",
-    "question": "أي من التالي يُعد كوكبًا قزمًا؟",
+    "question": "عند مستوى سطح البحر، ما درجة غليان الماء تقريبًا؟",
     "options": [
-      "المريخ",
-      "إيريس",
-      "نبتون",
-      "عطارد"
+      "80°C",
+      "90°C",
+      "100°C",
+      "120°C"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "category": "عام",
-    "topic": "علوم/فضاء",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.28,
-    "discriminationIndex": 0.74
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 41,
     "type": "MCQ",
-    "question": "ما اسم الجهاز المستخدم لقياس الزلازل؟",
+    "question": "ما الغاز الأكثر وجودًا في الغلاف الجوي للأرض؟",
     "options": [
-      "الترمومتر",
-      "السيزموجراف",
-      "البارومتر",
-      "الأميتر"
+      "الأكسجين",
+      "النيتروجين",
+      "ثاني أكسيد الكربون",
+      "الهيليوم"
     ],
     "correctIndex": 1,
     "category": "عام",
     "topic": "علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.23,
-    "discriminationIndex": 0.79
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 42,
-    "type": "MCQ",
-    "question": "أي من التالي يُعد أكبر قمر لكوكب زحل؟",
+    "type": "TF",
+    "question": "الحمضية تُقاس غالبًا بمقياس pH.",
     "options": [
-      "تيتان",
-      "أوروبا",
-      "غانيميد",
-      "فوبوس"
+      "True",
+      "False"
     ],
     "correctIndex": 0,
     "category": "عام",
-    "topic": "علوم/فضاء",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.27,
-    "discriminationIndex": 0.61
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 43,
-    "type": "MCQ",
-    "question": "ما هو أصل كلمة 'ألغوريتم' (Algorithm) تاريخيًا؟",
+    "type": "TF",
+    "question": "الضوء ينتقل أسرع من الصوت.",
     "options": [
-      "الرازي",
-      "ابن الهيثم",
-      "الخوارزمي",
-      "ابن سينا"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "category": "عام",
-    "topic": "ثقافة/تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.2,
-    "discriminationIndex": 0.6
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 44,
-    "type": "MCQ",
-    "question": "في المنطق، ما اسم المغالطة التي تُهاجم الشخص بدل الحجة؟",
+    "type": "TF",
+    "question": "الحمض والقاعدة عند خلطهما قد ينتجان ملحًا وماءً.",
     "options": [
-      "Strawman",
-      "Ad Hominem",
-      "False Dilemma",
-      "Post hoc"
+      "True",
+      "False"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "category": "عام",
-    "topic": "منطق",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.2,
-    "discriminationIndex": 0.7
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 45,
-    "type": "MCQ",
-    "question": "أي مدينة تُعد العاصمة التشريعية لجنوب أفريقيا؟",
+    "type": "TF",
+    "question": "الأرض لها قمران طبيعيان.",
     "options": [
-      "بريتوريا",
-      "جوهانسبرغ",
-      "بلومفونتين",
-      "كيب تاون"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.27,
-    "discriminationIndex": 0.73
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 46,
     "type": "MCQ",
-    "question": "ما هو اسم أصغر دولة في العالم من حيث المساحة؟",
+    "question": "في أي عام انتهت الحرب العالمية الثانية؟",
     "options": [
-      "سان مارينو",
-      "الفاتيكان",
-      "مالطا",
-      "موناكو"
+      "1918",
+      "1939",
+      "1945",
+      "1963"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.19,
-    "discriminationIndex": 0.69
+    "topic": "تاريخ",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 47,
     "type": "MCQ",
-    "question": "أي من التالي يُعد أطول نهر في أوروبا؟",
+    "question": "من أول إنسان مشى على سطح القمر؟",
     "options": [
-      "السين",
-      "الدانوب",
-      "الراين",
-      "الفولغا"
+      "يوري غاغارين",
+      "نيل آرمسترونغ",
+      "باز ألدرين",
+      "مايكل كولينز"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.19,
-    "discriminationIndex": 0.72
+    "topic": "تاريخ",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 48,
     "type": "MCQ",
-    "question": "ما هو اسم أعمق نقطة معروفة في محيطات العالم؟",
+    "question": "في أي عام سقط جدار برلين؟",
     "options": [
-      "خندق بيرو-تشيلي",
-      "خندق اليابان",
-      "خندق سوندا",
-      "خندق ماريانا"
+      "1979",
+      "1989",
+      "1999",
+      "2009"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "جغرافيا/علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.15,
-    "discriminationIndex": 0.54
+    "topic": "تاريخ",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 49,
     "type": "MCQ",
-    "question": "أي دولة تُعد موطن مدينة 'تمبكتو' التاريخية؟",
+    "question": "من اخترع المطبعة الحديثة في أوروبا؟",
     "options": [
-      "مالي",
-      "موريتانيا",
-      "تشاد",
-      "النيجر"
+      "إسحاق نيوتن",
+      "غوتنبرغ",
+      "أينشتاين",
+      "غاليلو"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "تاريخ/جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.25,
-    "discriminationIndex": 0.54
+    "topic": "تاريخ",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 50,
     "type": "MCQ",
-    "question": "ما هي عاصمة سورينام؟",
+    "question": "ما هي اللغة الرسمية في البرازيل؟",
     "options": [
-      "باراماريبو",
-      "كاراكاس",
-      "كيتو",
-      "ليما"
+      "الإسبانية",
+      "البرتغالية",
+      "الفرنسية",
+      "الإنجليزية"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.14,
-    "discriminationIndex": 0.66
+    "topic": "ثقافة عامة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 51,
     "type": "MCQ",
-    "question": "ما هي عاصمة سلوفينيا؟",
+    "question": "كم عدد حروف اللغة العربية؟",
     "options": [
-      "براتيسلافا",
-      "تالين",
-      "ريغا",
-      "ليوبليانا"
+      "26",
+      "28",
+      "29",
+      "30"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.2,
-    "discriminationIndex": 0.78
+    "topic": "ثقافة عامة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 52,
     "type": "MCQ",
-    "question": "ما هي عاصمة لاتفيا؟",
+    "question": "أي مدينة تُعرف بأنها عاصمة النور؟",
     "options": [
-      "فيلنيوس",
-      "تالين",
-      "ريغا",
-      "هلسنكي"
+      "لندن",
+      "باريس",
+      "روما",
+      "براغ"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.12,
-    "discriminationIndex": 0.56
+    "topic": "ثقافة عامة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 53,
     "type": "MCQ",
-    "question": "أي لغة تُعد رسمية في سويسرا وليست من اللغات الرومانسية؟",
+    "question": "أي من التالي يُعد من عجائب الدنيا السبع القديمة؟",
     "options": [
-      "الألمانية",
-      "الرومانش",
-      "الفرنسية",
-      "الإيطالية"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "ثقافة/لغات",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.16,
-    "discriminationIndex": 0.63
-  },
-  {
-    "id": 54,
-    "type": "MCQ",
-    "question": "أي كتاب فلسفي قديم يُنسب لأفلاطون ويتناول 'المدينة الفاضلة'؟",
-    "options": [
-      "الأخلاق النيقوماخية",
-      "الميتافيزيقا",
-      "الجمهورية",
-      "الأورغانون"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "فلسفة",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.26,
-    "discriminationIndex": 0.7
-  },
-  {
-    "id": 55,
-    "type": "MCQ",
-    "question": "في الاقتصاد، ماذا يُسمى ارتفاع الأسعار العام والمستمر؟",
-    "options": [
-      "الركود",
-      "التضخم",
-      "الانكماش",
-      "الاحتكار"
+      "برج إيفل",
+      "هرم خوفو",
+      "سور الصين",
+      "تايمز سكوير"
     ],
     "correctIndex": 1,
     "category": "عام",
-    "topic": "اقتصاد",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.21,
-    "discriminationIndex": 0.66
+    "topic": "تاريخ",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 54,
+    "type": "TF",
+    "question": "الكتابة المسمارية من أقدم أنظمة الكتابة.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 55,
+    "type": "TF",
+    "question": "اللغة الإسبانية تُكتب عادةً بالحروف اللاتينية.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "ثقافة عامة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 56,
     "type": "MCQ",
-    "question": "ما اسم المنطقة الزمنية التي يعتمد عليها التوقيت العالمي؟",
+    "question": "ما معنى CPU؟",
     "options": [
-      "طوكيو",
-      "باريس",
-      "أوسلو",
-      "غرينتش"
+      "وحدة معالجة مركزية",
+      "ذاكرة وصول عشوائي",
+      "قرص صلب",
+      "بطاقة رسومية"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "category": "عام",
-    "topic": "جغرافيا/مفاهيم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.22,
-    "discriminationIndex": 0.73
+    "topic": "تقنية",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 57,
     "type": "MCQ",
-    "question": "أي من التالي يُعد من السبع عجائب الجديدة (2007)؟",
+    "question": "ما معنى RAM؟",
     "options": [
-      "برج بيزا",
-      "برج إيفل",
-      "تاج محل",
-      "ساعة بيغ بن"
+      "ذاكرة وصول عشوائي",
+      "وحدة معالجة مركزية",
+      "مزود طاقة",
+      "لوحة أم"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "category": "عام",
-    "topic": "ثقافة/تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.2,
-    "discriminationIndex": 0.72
+    "topic": "تقنية",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 58,
     "type": "MCQ",
-    "question": "ما اسم القارة التي تضم أكبر عدد من الدول؟",
+    "question": "أي لغة تُستخدم غالبًا لبناء صفحات الويب (هيكل الصفحة)؟",
     "options": [
-      "أمريكا الشمالية",
-      "آسيا",
-      "أوروبا",
-      "أفريقيا"
+      "HTML",
+      "SQL",
+      "C++",
+      "Python"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.25,
-    "discriminationIndex": 0.53
+    "topic": "تقنية",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 59,
     "type": "MCQ",
-    "question": "ما هو اسم أكبر صحراء حارة في العالم؟",
+    "question": "أي نظام عدّ يُستخدم في الحاسوب بشكل أساسي؟",
     "options": [
-      "صحراء جوبي",
-      "صحراء أتاكاما",
-      "صحراء كالاهاري",
-      "الصحراء الكبرى"
+      "عشري",
+      "ثنائي",
+      "ثماني",
+      "ست عشري"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.16,
-    "discriminationIndex": 0.73
+    "topic": "تقنية",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 60,
     "type": "MCQ",
-    "question": "أي دولة عاصمتها 'دوشنبه'؟",
+    "question": "ما بروتوكول الويب الآمن؟",
     "options": [
-      "أوزبكستان",
-      "طاجيكستان",
-      "تركمانستان",
-      "قيرغيزستان"
+      "HTTP",
+      "HTTPS",
+      "FTP",
+      "SMTP"
     ],
     "correctIndex": 1,
     "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.24,
-    "discriminationIndex": 0.77
+    "topic": "تقنية",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 61,
-    "type": "MCQ",
-    "question": "أي دولة عاصمتها 'بورت مورسبي'؟",
+    "type": "TF",
+    "question": "ذاكرة RAM تُعد ذاكرة متطايرة (تفقد البيانات عند انقطاع الكهرباء).",
     "options": [
-      "فيجي",
-      "بابوا غينيا الجديدة",
-      "نيوزيلندا",
-      "ساموا"
+      "True",
+      "False"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.23,
-    "discriminationIndex": 0.64
+    "topic": "تقنية",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 62,
-    "type": "MCQ",
-    "question": "ما اسم أطول سلسلة جبلية في العالم؟",
+    "type": "TF",
+    "question": "ملف PDF عادةً قابل للتنفيذ مثل .exe.",
     "options": [
-      "الهيمالايا",
-      "جبال الأنديز",
-      "الألب",
-      "جبال الأطلس"
+      "True",
+      "False"
     ],
     "correctIndex": 1,
     "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.23,
-    "discriminationIndex": 0.76
+    "topic": "تقنية",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 63,
     "type": "MCQ",
-    "question": "أي كتاب تاريخي ضخم يُنسب للمؤرخ الطبري؟",
+    "question": "كم عدد لاعبي كرة القدم داخل الملعب لكل فريق؟",
     "options": [
-      "المقدمة",
-      "تاريخ الرسل والملوك",
-      "العقد الفريد",
-      "الأغاني"
+      "9",
+      "10",
+      "11",
+      "12"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "category": "عام",
-    "topic": "ثقافة/تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.25,
-    "discriminationIndex": 0.54
+    "topic": "رياضة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 64,
     "type": "MCQ",
-    "question": "من صاحب كتاب 'القانون في الطب'؟",
+    "question": "كم نقطة تُحسب للتسديدة الثلاثية في كرة السلة؟",
     "options": [
-      "الرازي",
-      "ابن بطوطة",
-      "الخوارزمي",
-      "ابن سينا"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "category": "عام",
-    "topic": "ثقافة/تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.17,
-    "discriminationIndex": 0.7
+    "topic": "رياضة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 65,
     "type": "MCQ",
-    "question": "ما اسم أقدم نظام عدّ معروف في الحضارات السومرية؟",
+    "question": "كم مدة الشوط الواحد في كرة القدم (دون الوقت بدل الضائع)؟",
     "options": [
-      "العشري",
-      "الثنائي",
-      "الستيني",
-      "الثماني"
+      "30 دقيقة",
+      "35 دقيقة",
+      "45 دقيقة",
+      "60 دقيقة"
     ],
     "correctIndex": 2,
     "category": "عام",
-    "topic": "ثقافة/تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.23,
-    "discriminationIndex": 0.74
+    "topic": "رياضة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 66,
-    "type": "MCQ",
-    "question": "ما اسم العنصر الذي رمزه الكيميائي Sb؟",
+    "type": "TF",
+    "question": "الألعاب الأولمبية الصيفية تُقام عادةً كل أربع سنوات.",
     "options": [
-      "الأنتيمون",
-      "السيليكون",
-      "السترونشيوم",
-      "الساماريوم"
+      "True",
+      "False"
     ],
     "correctIndex": 0,
     "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.14,
-    "discriminationIndex": 0.76
+    "topic": "رياضة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 67,
     "type": "MCQ",
-    "question": "أي مركب هو المكوّن الأساسي للصدأ؟",
+    "question": "أي مما يلي يُعد مرادفًا لكلمة 'سريع'؟",
     "options": [
-      "كربونات الكالسيوم",
-      "كلوريد الصوديوم",
-      "أكسيد الحديد",
-      "ثاني أكسيد السيليكون"
+      "بطيء",
+      "عاجل",
+      "ثقيل",
+      "ضعيف"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.18,
-    "discriminationIndex": 0.65
+    "topic": "لغة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 68,
     "type": "MCQ",
-    "question": "في الفيزياء، ما اسم الظاهرة التي تفسر انحناء الضوء قرب الأجسام الضخمة؟",
+    "question": "أي مما يلي علامة استفهام صحيحة بالعربية؟",
     "options": [
-      "الاستقطاب",
-      "الانتشار",
-      "عدسة الجاذبية",
-      "الانكسار فقط"
+      "!",
+      "؟",
+      "؛",
+      ":"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "علوم/فضاء",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.28,
-    "discriminationIndex": 0.62
+    "topic": "لغة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 69,
-    "type": "MCQ",
-    "question": "ما هي العاصمة الإدارية لسريلانكا؟",
+    "type": "TF",
+    "question": "الجملة العربية قد تبدأ بفعل أو باسم.",
     "options": [
-      "كاندي",
-      "كولومبو",
-      "سري جاياواردنابورا كوتّي",
-      "جافنا"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.17,
-    "discriminationIndex": 0.72
+    "topic": "لغة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 70,
     "type": "MCQ",
-    "question": "ما هي عاصمة بليز؟",
+    "question": "ما ناتج 45 − 33؟",
     "options": [
-      "سان خوسيه",
-      "ماناغوا",
-      "بليز سيتي",
-      "بلموبان"
+      "11",
+      "10",
+      "12",
+      "9"
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.19,
-    "discriminationIndex": 0.51
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 71,
-    "type": "TF",
-    "question": "العاصمة التشريعية لجنوب أفريقيا هي كيب تاون.",
+    "type": "MCQ",
+    "question": "ما ناتج 116 − 79؟",
     "options": [
-      "True",
-      "False"
+      "36",
+      "34",
+      "35",
+      "37"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.17,
-    "discriminationIndex": 0.69
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 72,
-    "type": "TF",
-    "question": "عدد أفوغادرو يساوي تقريبًا 6.022×10^23.",
+    "type": "MCQ",
+    "question": "ما ناتج 15 + 23؟",
     "options": [
-      "True",
-      "False"
+      "37",
+      "36",
+      "38",
+      "35"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.2,
-    "discriminationIndex": 0.52
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 73,
-    "type": "TF",
-    "question": "التسامي هو تحول المادة من سائل إلى غاز مباشرةً.",
+    "type": "MCQ",
+    "question": "ما متوسط الأعداد: 16, 32, 30؟",
     "options": [
-      "True",
-      "False"
+      "27.5",
+      "24.0",
+      "26.0",
+      "29.0"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.28,
-    "discriminationIndex": 0.74
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 74,
-    "type": "TF",
-    "question": "الزهرة تدور حول محورها باتجاه معاكس لمعظم الكواكب.",
+    "type": "MCQ",
+    "question": "ما العدد التالي في المتتالية: 10, 12, 14, 16, ؟",
     "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "علوم/فضاء",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.28,
-    "discriminationIndex": 0.53
-  },
-  {
-    "id": 75,
-    "type": "TF",
-    "question": "الكتابة المسمارية ظهرت أولًا في بلاد الرافدين.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.16,
-    "discriminationIndex": 0.51
-  },
-  {
-    "id": 76,
-    "type": "TF",
-    "question": "معاهدة فرساي وُقّعت في عام 1945.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.24,
-    "discriminationIndex": 0.58
-  },
-  {
-    "id": 77,
-    "type": "TF",
-    "question": "اللغة الرومانش هي إحدى اللغات الرسمية في سويسرا.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "لغات",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.14,
-    "discriminationIndex": 0.63
-  },
-  {
-    "id": 78,
-    "type": "TF",
-    "question": "مضيق هرمز يربط البحر الأحمر بخليج عدن.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.27,
-    "discriminationIndex": 0.75
-  },
-  {
-    "id": 79,
-    "type": "TF",
-    "question": "الفولغا يُعد أطول نهر في أوروبا.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.16,
-    "discriminationIndex": 0.54
-  },
-  {
-    "id": 80,
-    "type": "TF",
-    "question": "تيتان هو أكبر أقمار كوكب المريخ.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "علوم/فضاء",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.27,
-    "discriminationIndex": 0.67
-  },
-  {
-    "id": 81,
-    "type": "TF",
-    "question": "خندق ماريانا هو أعمق نقطة معروفة في المحيطات.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "علوم/جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.23,
-    "discriminationIndex": 0.53
-  },
-  {
-    "id": 82,
-    "type": "TF",
-    "question": "حمض الأسكوربيك هو الاسم العلمي لفيتامين D.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "علوم/صحة",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.13,
-    "discriminationIndex": 0.71
-  },
-  {
-    "id": 83,
-    "type": "TF",
-    "question": "الفاتيكان هي أصغر دولة في العالم من حيث المساحة.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.19,
-    "discriminationIndex": 0.52
-  },
-  {
-    "id": 84,
-    "type": "TF",
-    "question": "مغالطة Ad Hominem تعني مهاجمة الشخص بدل الحجة.",
-    "options": [
-      "True",
-      "False"
+      "18",
+      "15",
+      "17",
+      "16"
     ],
     "correctIndex": 0,
     "category": "عام",
     "topic": "منطق",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.27,
-    "discriminationIndex": 0.69
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 75,
+    "type": "MCQ",
+    "question": "مستطيل طوله 14 سم وعرضه 8 سم. ما مساحته؟",
+    "options": [
+      "110 سم²",
+      "112 سم²",
+      "111 سم²",
+      "109 سم²"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 76,
+    "type": "MCQ",
+    "question": "ما ناتج 78 − 22؟",
+    "options": [
+      "56",
+      "55",
+      "53",
+      "54"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 77,
+    "type": "MCQ",
+    "question": "ما ناتج 70 + 80؟",
+    "options": [
+      "148",
+      "149",
+      "147",
+      "150"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 78,
+    "type": "MCQ",
+    "question": "ما متوسط الأعداد: 19, 36, 30؟",
+    "options": [
+      "26.3",
+      "28.3",
+      "31.3",
+      "29.8"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 79,
+    "type": "MCQ",
+    "question": "ما ناتج 94 − 35؟",
+    "options": [
+      "57",
+      "59",
+      "58",
+      "56"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 80,
+    "type": "MCQ",
+    "question": "ما ناتج 64 ÷ 4؟",
+    "options": [
+      "16",
+      "15",
+      "13",
+      "14"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 81,
+    "type": "MCQ",
+    "question": "ما ناتج 11 × 11؟",
+    "options": [
+      "121",
+      "119",
+      "118",
+      "120"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 82,
+    "type": "MCQ",
+    "question": "ما ناتج 107 − 91؟",
+    "options": [
+      "15",
+      "16",
+      "14",
+      "13"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 83,
+    "type": "MCQ",
+    "question": "ما ناتج 13 × 12؟",
+    "options": [
+      "153",
+      "156",
+      "155",
+      "154"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 84,
+    "type": "MCQ",
+    "question": "مستطيل طوله 30 سم وعرضه 5 سم. ما مساحته؟",
+    "options": [
+      "148 سم²",
+      "149 سم²",
+      "150 سم²",
+      "147 سم²"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 85,
-    "type": "TF",
-    "question": "جامعة القرويين تقع في مدينة فاس.",
+    "type": "MCQ",
+    "question": "مستطيل طوله 14 سم وعرضه 6 سم. ما محيطه؟",
     "options": [
-      "True",
-      "False"
+      "40 سم",
+      "39 سم",
+      "38 سم",
+      "37 سم"
     ],
     "correctIndex": 0,
     "category": "عام",
-    "topic": "ثقافة/تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.25,
-    "discriminationIndex": 0.53
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 86,
-    "type": "TF",
-    "question": "مئة عام من العزلة من تأليف ألبير كامو.",
+    "type": "MCQ",
+    "question": "ما ناتج 160 ÷ 10؟",
     "options": [
-      "True",
-      "False"
+      "14",
+      "13",
+      "16",
+      "15"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "category": "عام",
-    "topic": "ثقافة/أدب",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.26,
-    "discriminationIndex": 0.52
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 87,
-    "type": "TF",
-    "question": "القسطنطينية هي الاسم التاريخي لمدينة إسطنبول.",
+    "type": "MCQ",
+    "question": "ما ناتج 9 × 17؟",
     "options": [
-      "True",
-      "False"
+      "153",
+      "152",
+      "151",
+      "150"
     ],
     "correctIndex": 0,
     "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.26,
-    "discriminationIndex": 0.64
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 88,
-    "type": "TF",
-    "question": "التقويم الهجري تقويم قمري بالأساس.",
+    "type": "MCQ",
+    "question": "ما العدد التالي في المتتالية: 14, 21, 28, 35, ؟",
     "options": [
-      "True",
-      "False"
+      "41",
+      "39",
+      "42",
+      "40"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "category": "عام",
-    "topic": "ثقافة/تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.17,
-    "discriminationIndex": 0.67
+    "topic": "منطق",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 89,
-    "type": "TF",
-    "question": "العدد الذري للكربون هو 12.",
+    "type": "MCQ",
+    "question": "ما ناتج 126 − 16؟",
     "options": [
-      "True",
-      "False"
+      "107",
+      "108",
+      "109",
+      "110"
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.27,
-    "discriminationIndex": 0.58
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 90,
-    "type": "TF",
-    "question": "عنصر التنغستن رمزه الكيميائي W.",
+    "type": "MCQ",
+    "question": "مستطيل طوله 25 سم وعرضه 6 سم. ما محيطه؟",
     "options": [
-      "True",
-      "False"
+      "62 سم",
+      "60 سم",
+      "59 سم",
+      "61 سم"
     ],
     "correctIndex": 0,
     "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.14,
-    "discriminationIndex": 0.66
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 91,
-    "type": "TF",
-    "question": "الزينون من الغازات النبيلة.",
+    "type": "MCQ",
+    "question": "ما متوسط الأعداد: 18, 27, 37؟",
     "options": [
-      "True",
-      "False"
+      "25.3",
+      "30.3",
+      "28.8",
+      "27.3"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.16,
-    "discriminationIndex": 0.53
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 92,
-    "type": "TF",
-    "question": "قانون بويل يربط بين الضغط والحجم عند ثبوت درجة الحرارة.",
+    "type": "MCQ",
+    "question": "ما متوسط الأعداد: 34, 18, 34؟",
     "options": [
-      "True",
-      "False"
+      "31.7",
+      "26.7",
+      "28.7",
+      "30.2"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.15,
-    "discriminationIndex": 0.52
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 93,
-    "type": "TF",
-    "question": "بروكسيما قنطورس هو أقرب نجم للأرض بعد الشمس.",
+    "type": "MCQ",
+    "question": "مستطيل طوله 11 سم وعرضه 18 سم. ما محيطه؟",
     "options": [
-      "True",
-      "False"
+      "55 سم",
+      "56 سم",
+      "57 سم",
+      "58 سم"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "category": "عام",
-    "topic": "علوم/فضاء",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.15,
-    "discriminationIndex": 0.59
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 94,
-    "type": "TF",
-    "question": "الكانديلا هي وحدة قياس شدة الإضاءة في النظام الدولي.",
+    "type": "MCQ",
+    "question": "ما متوسط الأعداد: 34, 15, 26؟",
     "options": [
-      "True",
-      "False"
+      "28.0",
+      "23.0",
+      "26.5",
+      "25.0"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.17,
-    "discriminationIndex": 0.73
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 95,
-    "type": "TF",
-    "question": "باب المندب يقع بين اليمن وشرق أفريقيا.",
+    "type": "MCQ",
+    "question": "ما متوسط الأعداد: 29, 16, 14؟",
     "options": [
-      "True",
-      "False"
+      "17.7",
+      "22.7",
+      "19.7",
+      "21.2"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.17,
-    "discriminationIndex": 0.65
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 96,
-    "type": "TF",
-    "question": "المحيط الهادئ هو أصغر محيط على الأرض.",
+    "type": "MCQ",
+    "question": "ما العدد التالي في المتتالية: 12, 21, 30, 39, ؟",
     "options": [
-      "True",
-      "False"
+      "46",
+      "45",
+      "47",
+      "48"
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.15,
-    "discriminationIndex": 0.6
+    "topic": "منطق",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 97,
-    "type": "TF",
-    "question": "ملحمة جلجامش من أقدم النصوص الأدبية المعروفة.",
+    "type": "MCQ",
+    "question": "كم يساوي 10% من 100؟",
     "options": [
-      "True",
-      "False"
+      "7",
+      "10",
+      "9",
+      "8"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "ثقافة/تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.12,
-    "discriminationIndex": 0.58
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 98,
-    "type": "TF",
-    "question": "الماجنا كارتا صدرت في عام 1215.",
+    "type": "MCQ",
+    "question": "ما ناتج 123 − 72؟",
     "options": [
-      "True",
-      "False"
+      "48",
+      "50",
+      "49",
+      "51"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.12,
-    "discriminationIndex": 0.72
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 99,
-    "type": "TF",
-    "question": "الألمانية ليست لغة رسمية في سويسرا.",
+    "type": "MCQ",
+    "question": "ما ناتج 16 × 13؟",
     "options": [
-      "True",
-      "False"
+      "208",
+      "206",
+      "207",
+      "205"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "category": "عام",
-    "topic": "لغات",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.21,
-    "discriminationIndex": 0.56
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   },
   {
     "id": 100,
-    "type": "TF",
-    "question": "التضخم يعني انخفاضًا عامًا ومستمرًا في الأسعار.",
+    "type": "MCQ",
+    "question": "ما ناتج 110 ÷ 11؟",
     "options": [
-      "True",
-      "False"
+      "10",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 101,
+    "type": "MCQ",
+    "question": "ما قيمة 9^2؟",
+    "options": [
+      "79",
+      "78",
+      "81",
+      "80"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 102,
+    "type": "MCQ",
+    "question": "مستطيل طوله 6 سم وعرضه 22 سم. ما مساحته؟",
+    "options": [
+      "131 سم²",
+      "132 سم²",
+      "130 سم²",
+      "129 سم²"
     ],
     "correctIndex": 1,
     "category": "عام",
-    "topic": "اقتصاد",
-    "difficultyLevel": "صعب جدًا",
-    "difficultyIndex": 0.2,
-    "discriminationIndex": 0.78
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 103,
+    "type": "MCQ",
+    "question": "ما ناتج 21 + 92؟",
+    "options": [
+      "112",
+      "110",
+      "111",
+      "113"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 104,
+    "type": "MCQ",
+    "question": "ما ناتج 54 + 21؟",
+    "options": [
+      "75",
+      "73",
+      "74",
+      "72"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 105,
+    "type": "MCQ",
+    "question": "ما ناتج 88 ÷ 11؟",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 106,
+    "type": "MCQ",
+    "question": "مستطيل طوله 12 سم وعرضه 7 سم. ما محيطه؟",
+    "options": [
+      "37 سم",
+      "35 سم",
+      "36 سم",
+      "38 سم"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 107,
+    "type": "MCQ",
+    "question": "مستطيل طوله 19 سم وعرضه 17 سم. ما مساحته؟",
+    "options": [
+      "320 سم²",
+      "323 سم²",
+      "321 سم²",
+      "322 سم²"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 108,
+    "type": "MCQ",
+    "question": "ما ناتج 61 − 37؟",
+    "options": [
+      "21",
+      "23",
+      "24",
+      "22"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 109,
+    "type": "MCQ",
+    "question": "ما ناتج 108 ÷ 6؟",
+    "options": [
+      "17",
+      "18",
+      "15",
+      "16"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 110,
+    "type": "MCQ",
+    "question": "كم يساوي 15% من 150؟",
+    "options": [
+      "20",
+      "21",
+      "19",
+      "22"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 111,
+    "type": "MCQ",
+    "question": "ما ناتج 95 + 81؟",
+    "options": [
+      "173",
+      "174",
+      "175",
+      "176"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 112,
+    "type": "MCQ",
+    "question": "ما ناتج 12 × 13؟",
+    "options": [
+      "154",
+      "153",
+      "156",
+      "155"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 113,
+    "type": "MCQ",
+    "question": "ما ناتج 33 + 60؟",
+    "options": [
+      "92",
+      "91",
+      "90",
+      "93"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 114,
+    "type": "MCQ",
+    "question": "ما قيمة 6^3؟",
+    "options": [
+      "213",
+      "214",
+      "216",
+      "215"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 115,
+    "type": "MCQ",
+    "question": "ما ناتج 18 + 86؟",
+    "options": [
+      "101",
+      "104",
+      "102",
+      "103"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 116,
+    "type": "MCQ",
+    "question": "ما ناتج 77 + 22؟",
+    "options": [
+      "98",
+      "97",
+      "99",
+      "96"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 117,
+    "type": "MCQ",
+    "question": "ما ناتج 63 ÷ 9؟",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "4"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 118,
+    "type": "MCQ",
+    "question": "ما العدد التالي في المتتالية: 4, 12, 20, 28, ؟",
+    "options": [
+      "35",
+      "36",
+      "33",
+      "34"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "منطق",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 119,
+    "type": "MCQ",
+    "question": "مستطيل طوله 13 سم وعرضه 12 سم. ما مساحته؟",
+    "options": [
+      "154 سم²",
+      "153 سم²",
+      "156 سم²",
+      "155 سم²"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 120,
+    "type": "MCQ",
+    "question": "ما قيمة 7^2؟",
+    "options": [
+      "46",
+      "47",
+      "48",
+      "49"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 121,
+    "type": "MCQ",
+    "question": "ما ناتج 98 − 37؟",
+    "options": [
+      "60",
+      "58",
+      "61",
+      "59"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 122,
+    "type": "MCQ",
+    "question": "ما ناتج 142 − 41؟",
+    "options": [
+      "100",
+      "101",
+      "98",
+      "99"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 123,
+    "type": "MCQ",
+    "question": "ما قيمة 6^2؟",
+    "options": [
+      "33",
+      "36",
+      "35",
+      "34"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 124,
+    "type": "MCQ",
+    "question": "ما ناتج 10 × 7؟",
+    "options": [
+      "67",
+      "69",
+      "68",
+      "70"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 125,
+    "type": "MCQ",
+    "question": "كم يساوي 30% من 120؟",
+    "options": [
+      "36",
+      "35",
+      "34",
+      "33"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 126,
+    "type": "MCQ",
+    "question": "ما ناتج 140 ÷ 7؟",
+    "options": [
+      "18",
+      "20",
+      "17",
+      "19"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 127,
+    "type": "MCQ",
+    "question": "ما ناتج 111 − 64؟",
+    "options": [
+      "44",
+      "46",
+      "47",
+      "45"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 128,
+    "type": "MCQ",
+    "question": "مستطيل طوله 30 سم وعرضه 8 سم. ما مساحته؟",
+    "options": [
+      "239 سم²",
+      "237 سم²",
+      "240 سم²",
+      "238 سم²"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 129,
+    "type": "MCQ",
+    "question": "ما متوسط الأعداد: 32, 23, 27؟",
+    "options": [
+      "25.3",
+      "28.8",
+      "30.3",
+      "27.3"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 130,
+    "type": "MCQ",
+    "question": "ما ناتج 14 × 6؟",
+    "options": [
+      "81",
+      "84",
+      "83",
+      "82"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 131,
+    "type": "MCQ",
+    "question": "مستطيل طوله 10 سم وعرضه 5 سم. ما محيطه؟",
+    "options": [
+      "29 سم",
+      "30 سم",
+      "27 سم",
+      "28 سم"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 132,
+    "type": "MCQ",
+    "question": "مستطيل طوله 12 سم وعرضه 25 سم. ما مساحته؟",
+    "options": [
+      "299 سم²",
+      "300 سم²",
+      "298 سم²",
+      "297 سم²"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 133,
+    "type": "MCQ",
+    "question": "مستطيل طوله 30 سم وعرضه 21 سم. ما مساحته؟",
+    "options": [
+      "627 سم²",
+      "630 سم²",
+      "628 سم²",
+      "629 سم²"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 134,
+    "type": "MCQ",
+    "question": "ما ناتج 45 ÷ 5؟",
+    "options": [
+      "8",
+      "6",
+      "9",
+      "7"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 135,
+    "type": "MCQ",
+    "question": "مستطيل طوله 19 سم وعرضه 25 سم. ما مساحته؟",
+    "options": [
+      "473 سم²",
+      "475 سم²",
+      "474 سم²",
+      "472 سم²"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 136,
+    "type": "MCQ",
+    "question": "ما ناتج 78 − 14؟",
+    "options": [
+      "61",
+      "62",
+      "64",
+      "63"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 137,
+    "type": "MCQ",
+    "question": "ما قيمة 7^3؟",
+    "options": [
+      "342",
+      "341",
+      "343",
+      "340"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 138,
+    "type": "MCQ",
+    "question": "ما ناتج 126 ÷ 9؟",
+    "options": [
+      "13",
+      "11",
+      "14",
+      "12"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 139,
+    "type": "MCQ",
+    "question": "مستطيل طوله 26 سم وعرضه 20 سم. ما مساحته؟",
+    "options": [
+      "520 سم²",
+      "517 سم²",
+      "518 سم²",
+      "519 سم²"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 140,
+    "type": "MCQ",
+    "question": "ما ناتج 26 + 45؟",
+    "options": [
+      "71",
+      "70",
+      "69",
+      "68"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 141,
+    "type": "MCQ",
+    "question": "ما ناتج 25 + 88؟",
+    "options": [
+      "113",
+      "110",
+      "112",
+      "111"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 142,
+    "type": "MCQ",
+    "question": "مستطيل طوله 25 سم وعرضه 20 سم. ما محيطه؟",
+    "options": [
+      "89 سم",
+      "87 سم",
+      "88 سم",
+      "90 سم"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 143,
+    "type": "MCQ",
+    "question": "كم يساوي 40% من 80؟",
+    "options": [
+      "29",
+      "30",
+      "32",
+      "31"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 144,
+    "type": "MCQ",
+    "question": "مستطيل طوله 19 سم وعرضه 6 سم. ما مساحته؟",
+    "options": [
+      "114 سم²",
+      "112 سم²",
+      "111 سم²",
+      "113 سم²"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 145,
+    "type": "MCQ",
+    "question": "ما ناتج 122 − 48؟",
+    "options": [
+      "74",
+      "72",
+      "71",
+      "73"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 146,
+    "type": "MCQ",
+    "question": "مستطيل طوله 18 سم وعرضه 13 سم. ما مساحته؟",
+    "options": [
+      "233 سم²",
+      "231 سم²",
+      "234 سم²",
+      "232 سم²"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 147,
+    "type": "MCQ",
+    "question": "مستطيل طوله 27 سم وعرضه 9 سم. ما محيطه؟",
+    "options": [
+      "71 سم",
+      "72 سم",
+      "69 سم",
+      "70 سم"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 148,
+    "type": "MCQ",
+    "question": "كم يساوي 15% من 120؟",
+    "options": [
+      "18",
+      "16",
+      "17",
+      "15"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 149,
+    "type": "MCQ",
+    "question": "ما قيمة 9^3؟",
+    "options": [
+      "729",
+      "727",
+      "726",
+      "728"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 150,
+    "type": "MCQ",
+    "question": "ما ناتج 16 × 7؟",
+    "options": [
+      "112",
+      "109",
+      "111",
+      "110"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 151,
+    "type": "MCQ",
+    "question": "ما ناتج 134 − 40؟",
+    "options": [
+      "91",
+      "93",
+      "94",
+      "92"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 152,
+    "type": "MCQ",
+    "question": "ما ناتج 6 × 6؟",
+    "options": [
+      "34",
+      "36",
+      "35",
+      "33"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 153,
+    "type": "MCQ",
+    "question": "ما قيمة 8^2؟",
+    "options": [
+      "64",
+      "62",
+      "61",
+      "63"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 154,
+    "type": "MCQ",
+    "question": "ما ناتج 20 ÷ 5؟",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 155,
+    "type": "MCQ",
+    "question": "ما ناتج 18 × 17؟",
+    "options": [
+      "304",
+      "305",
+      "306",
+      "303"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 156,
+    "type": "MCQ",
+    "question": "ما ناتج 88 − 27؟",
+    "options": [
+      "61",
+      "58",
+      "59",
+      "60"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 157,
+    "type": "MCQ",
+    "question": "ما قيمة 8^3؟",
+    "options": [
+      "512",
+      "511",
+      "510",
+      "509"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 158,
+    "type": "MCQ",
+    "question": "ما ناتج 126 ÷ 7؟",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 159,
+    "type": "MCQ",
+    "question": "ما ناتج 98 ÷ 7؟",
+    "options": [
+      "11",
+      "14",
+      "13",
+      "12"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 160,
+    "type": "MCQ",
+    "question": "ما ناتج 8 × 9؟",
+    "options": [
+      "69",
+      "72",
+      "70",
+      "71"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 161,
+    "type": "MCQ",
+    "question": "ما ناتج 68 ÷ 4؟",
+    "options": [
+      "17",
+      "14",
+      "16",
+      "15"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 162,
+    "type": "MCQ",
+    "question": "مستطيل طوله 7 سم وعرضه 10 سم. ما محيطه؟",
+    "options": [
+      "33 سم",
+      "34 سم",
+      "32 سم",
+      "31 سم"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 163,
+    "type": "MCQ",
+    "question": "ما العدد التالي في المتتالية: 14, 23, 32, 41, ؟",
+    "options": [
+      "47",
+      "49",
+      "48",
+      "50"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "منطق",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 164,
+    "type": "MCQ",
+    "question": "مستطيل طوله 19 سم وعرضه 21 سم. ما محيطه؟",
+    "options": [
+      "78 سم",
+      "80 سم",
+      "79 سم",
+      "77 سم"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 165,
+    "type": "MCQ",
+    "question": "كم يساوي 25% من 150؟",
+    "options": [
+      "36",
+      "35",
+      "34",
+      "37"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 166,
+    "type": "MCQ",
+    "question": "مستطيل طوله 29 سم وعرضه 9 سم. ما محيطه؟",
+    "options": [
+      "73 سم",
+      "74 سم",
+      "76 سم",
+      "75 سم"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 167,
+    "type": "MCQ",
+    "question": "مستطيل طوله 24 سم وعرضه 22 سم. ما محيطه؟",
+    "options": [
+      "90 سم",
+      "89 سم",
+      "91 سم",
+      "92 سم"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 168,
+    "type": "MCQ",
+    "question": "ما ناتج 19 × 13؟",
+    "options": [
+      "245",
+      "246",
+      "247",
+      "244"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 169,
+    "type": "MCQ",
+    "question": "مستطيل طوله 16 سم وعرضه 10 سم. ما محيطه؟",
+    "options": [
+      "52 سم",
+      "50 سم",
+      "49 سم",
+      "51 سم"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 170,
+    "type": "MCQ",
+    "question": "مستطيل طوله 14 سم وعرضه 17 سم. ما محيطه؟",
+    "options": [
+      "61 سم",
+      "59 سم",
+      "62 سم",
+      "60 سم"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 171,
+    "type": "MCQ",
+    "question": "ما ناتج 81 + 18؟",
+    "options": [
+      "96",
+      "98",
+      "99",
+      "97"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 172,
+    "type": "MCQ",
+    "question": "ما ناتج 15 + 43؟",
+    "options": [
+      "55",
+      "57",
+      "58",
+      "56"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 173,
+    "type": "MCQ",
+    "question": "ما ناتج 95 ÷ 5؟",
+    "options": [
+      "16",
+      "18",
+      "17",
+      "19"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 174,
+    "type": "MCQ",
+    "question": "مستطيل طوله 28 سم وعرضه 10 سم. ما محيطه؟",
+    "options": [
+      "73 سم",
+      "75 سم",
+      "74 سم",
+      "76 سم"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 175,
+    "type": "MCQ",
+    "question": "ما ناتج 119 − 48؟",
+    "options": [
+      "68",
+      "70",
+      "69",
+      "71"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 176,
+    "type": "MCQ",
+    "question": "مستطيل طوله 23 سم وعرضه 17 سم. ما مساحته؟",
+    "options": [
+      "390 سم²",
+      "388 سم²",
+      "391 سم²",
+      "389 سم²"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 177,
+    "type": "MCQ",
+    "question": "ما ناتج 65 + 74؟",
+    "options": [
+      "138",
+      "137",
+      "136",
+      "139"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 178,
+    "type": "MCQ",
+    "question": "ما قيمة 4^3؟",
+    "options": [
+      "64",
+      "63",
+      "62",
+      "61"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 179,
+    "type": "MCQ",
+    "question": "ما العدد التالي في المتتالية: 19, 28, 37, 46, ؟",
+    "options": [
+      "55",
+      "53",
+      "52",
+      "54"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "منطق",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 180,
+    "type": "MCQ",
+    "question": "مستطيل طوله 13 سم وعرضه 6 سم. ما مساحته؟",
+    "options": [
+      "77 سم²",
+      "78 سم²",
+      "75 سم²",
+      "76 سم²"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 181,
+    "type": "MCQ",
+    "question": "ما ناتج 13 × 9؟",
+    "options": [
+      "117",
+      "116",
+      "114",
+      "115"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 182,
+    "type": "MCQ",
+    "question": "كم يساوي 40% من 200؟",
+    "options": [
+      "77",
+      "80",
+      "79",
+      "78"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 183,
+    "type": "MCQ",
+    "question": "ما متوسط الأعداد: 40, 16, 12؟",
+    "options": [
+      "22.7",
+      "25.7",
+      "24.2",
+      "20.7"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 184,
+    "type": "MCQ",
+    "question": "ما قيمة 5^3؟",
+    "options": [
+      "123",
+      "125",
+      "122",
+      "124"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 185,
+    "type": "MCQ",
+    "question": "ما ناتج 67 − 38؟",
+    "options": [
+      "26",
+      "29",
+      "27",
+      "28"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 186,
+    "type": "MCQ",
+    "question": "كم يساوي 30% من 250؟",
+    "options": [
+      "75",
+      "74",
+      "72",
+      "73"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 187,
+    "type": "MCQ",
+    "question": "مستطيل طوله 29 سم وعرضه 21 سم. ما محيطه؟",
+    "options": [
+      "100 سم",
+      "99 سم",
+      "97 سم",
+      "98 سم"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 188,
+    "type": "MCQ",
+    "question": "كم يساوي 20% من 120؟",
+    "options": [
+      "23",
+      "22",
+      "24",
+      "21"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 189,
+    "type": "MCQ",
+    "question": "مستطيل طوله 9 سم وعرضه 21 سم. ما مساحته؟",
+    "options": [
+      "188 سم²",
+      "187 سم²",
+      "189 سم²",
+      "186 سم²"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 190,
+    "type": "MCQ",
+    "question": "ما ناتج 72 ÷ 8؟",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 191,
+    "type": "MCQ",
+    "question": "كم يساوي 10% من 80؟",
+    "options": [
+      "5",
+      "8",
+      "7",
+      "6"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 192,
+    "type": "MCQ",
+    "question": "ما قيمة 3^2؟",
+    "options": [
+      "9",
+      "7",
+      "8",
+      "6"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 193,
+    "type": "MCQ",
+    "question": "ما ناتج 135 − 18؟",
+    "options": [
+      "115",
+      "117",
+      "114",
+      "116"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 194,
+    "type": "MCQ",
+    "question": "ما العدد التالي في المتتالية: 3, 7, 11, 15, ؟",
+    "options": [
+      "19",
+      "18",
+      "17",
+      "16"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "منطق",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 195,
+    "type": "MCQ",
+    "question": "ما ناتج 61 − 25؟",
+    "options": [
+      "33",
+      "36",
+      "34",
+      "35"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 196,
+    "type": "MCQ",
+    "question": "ما متوسط الأعداد: 22, 24, 39؟",
+    "options": [
+      "28.3",
+      "29.8",
+      "26.3",
+      "31.3"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 197,
+    "type": "MCQ",
+    "question": "كم يساوي 30% من 200؟",
+    "options": [
+      "57",
+      "59",
+      "58",
+      "60"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 198,
+    "type": "MCQ",
+    "question": "ما ناتج 72 ÷ 6؟",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 199,
+    "type": "MCQ",
+    "question": "ما ناتج 14 × 7؟",
+    "options": [
+      "97",
+      "95",
+      "98",
+      "96"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 200,
+    "type": "MCQ",
+    "question": "كم يساوي 50% من 250؟",
+    "options": [
+      "122",
+      "123",
+      "125",
+      "124"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 201,
+    "type": "MCQ",
+    "question": "كم يساوي 50% من 300؟",
+    "options": [
+      "148",
+      "150",
+      "149",
+      "147"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 202,
+    "type": "MCQ",
+    "question": "ما متوسط الأعداد: 17, 30, 14؟",
+    "options": [
+      "18.3",
+      "23.3",
+      "20.3",
+      "21.8"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 203,
+    "type": "MCQ",
+    "question": "ما ناتج 33 + 51؟",
+    "options": [
+      "83",
+      "84",
+      "81",
+      "82"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 204,
+    "type": "MCQ",
+    "question": "كم يساوي 10% من 200؟",
+    "options": [
+      "20",
+      "18",
+      "19",
+      "17"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 205,
+    "type": "MCQ",
+    "question": "كم يساوي 30% من 100؟",
+    "options": [
+      "30",
+      "27",
+      "28",
+      "29"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 206,
+    "type": "MCQ",
+    "question": "ما ناتج 90 − 54؟",
+    "options": [
+      "36",
+      "34",
+      "33",
+      "35"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 207,
+    "type": "MCQ",
+    "question": "ما ناتج 139 − 30؟",
+    "options": [
+      "109",
+      "108",
+      "106",
+      "107"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 208,
+    "type": "MCQ",
+    "question": "كم يساوي 25% من 250؟",
+    "options": [
+      "60",
+      "61",
+      "59",
+      "62"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 209,
+    "type": "MCQ",
+    "question": "مستطيل طوله 14 سم وعرضه 14 سم. ما مساحته؟",
+    "options": [
+      "194 سم²",
+      "195 سم²",
+      "193 سم²",
+      "196 سم²"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 210,
+    "type": "MCQ",
+    "question": "ما متوسط الأعداد: 24, 23, 11؟",
+    "options": [
+      "19.3",
+      "22.3",
+      "20.8",
+      "17.3"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 211,
+    "type": "MCQ",
+    "question": "ما العدد التالي في المتتالية: 17, 26, 35, 44, ؟",
+    "options": [
+      "51",
+      "50",
+      "52",
+      "53"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "منطق",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 212,
+    "type": "MCQ",
+    "question": "ما متوسط الأعداد: 14, 39, 19؟",
+    "options": [
+      "24.0",
+      "22.0",
+      "25.5",
+      "27.0"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 213,
+    "type": "MCQ",
+    "question": "ما ناتج 90 − 33؟",
+    "options": [
+      "55",
+      "57",
+      "54",
+      "56"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 214,
+    "type": "MCQ",
+    "question": "ما ناتج 89 − 25؟",
+    "options": [
+      "64",
+      "62",
+      "63",
+      "61"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 215,
+    "type": "MCQ",
+    "question": "ما متوسط الأعداد: 32, 18, 23؟",
+    "options": [
+      "25.8",
+      "24.3",
+      "22.3",
+      "27.3"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 216,
+    "type": "MCQ",
+    "question": "ما ناتج 65 − 63؟",
+    "options": [
+      "2",
+      "0",
+      "-1",
+      "1"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 217,
+    "type": "MCQ",
+    "question": "ما ناتج 48 + 50؟",
+    "options": [
+      "97",
+      "96",
+      "98",
+      "95"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 218,
+    "type": "MCQ",
+    "question": "ما متوسط الأعداد: 25, 21, 20؟",
+    "options": [
+      "22.0",
+      "23.5",
+      "20.0",
+      "25.0"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 219,
+    "type": "MCQ",
+    "question": "ما ناتج 96 ÷ 6؟",
+    "options": [
+      "14",
+      "16",
+      "15",
+      "13"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 220,
+    "type": "MCQ",
+    "question": "مستطيل طوله 29 سم وعرضه 19 سم. ما مساحته؟",
+    "options": [
+      "549 سم²",
+      "551 سم²",
+      "548 سم²",
+      "550 سم²"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 221,
+    "type": "MCQ",
+    "question": "ما قيمة 2^2؟",
+    "options": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 222,
+    "type": "MCQ",
+    "question": "ما ناتج 97 − 68؟",
+    "options": [
+      "26",
+      "28",
+      "27",
+      "29"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 223,
+    "type": "MCQ",
+    "question": "مستطيل طوله 26 سم وعرضه 8 سم. ما محيطه؟",
+    "options": [
+      "67 سم",
+      "66 سم",
+      "65 سم",
+      "68 سم"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 224,
+    "type": "MCQ",
+    "question": "مستطيل طوله 25 سم وعرضه 16 سم. ما مساحته؟",
+    "options": [
+      "399 سم²",
+      "398 سم²",
+      "397 سم²",
+      "400 سم²"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 225,
+    "type": "MCQ",
+    "question": "مستطيل طوله 26 سم وعرضه 19 سم. ما مساحته؟",
+    "options": [
+      "491 سم²",
+      "493 سم²",
+      "492 سم²",
+      "494 سم²"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 226,
+    "type": "MCQ",
+    "question": "ما ناتج 77 ÷ 7؟",
+    "options": [
+      "9",
+      "10",
+      "8",
+      "11"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 227,
+    "type": "MCQ",
+    "question": "ما ناتج 86 − 31؟",
+    "options": [
+      "52",
+      "54",
+      "55",
+      "53"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 228,
+    "type": "MCQ",
+    "question": "مستطيل طوله 7 سم وعرضه 13 سم. ما مساحته؟",
+    "options": [
+      "91 سم²",
+      "90 سم²",
+      "88 سم²",
+      "89 سم²"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 229,
+    "type": "MCQ",
+    "question": "ما ناتج 9 × 14؟",
+    "options": [
+      "123",
+      "126",
+      "124",
+      "125"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 230,
+    "type": "MCQ",
+    "question": "ما ناتج 8 × 7؟",
+    "options": [
+      "53",
+      "56",
+      "54",
+      "55"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 231,
+    "type": "MCQ",
+    "question": "ما قيمة 4^2؟",
+    "options": [
+      "16",
+      "13",
+      "14",
+      "15"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 232,
+    "type": "MCQ",
+    "question": "ما ناتج 86 − 54؟",
+    "options": [
+      "32",
+      "29",
+      "31",
+      "30"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 233,
+    "type": "MCQ",
+    "question": "كم يساوي 50% من 150؟",
+    "options": [
+      "74",
+      "72",
+      "75",
+      "73"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 234,
+    "type": "MCQ",
+    "question": "ما العدد التالي في المتتالية: 11, 17, 23, 29, ؟",
+    "options": [
+      "34",
+      "32",
+      "33",
+      "35"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "منطق",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 235,
+    "type": "MCQ",
+    "question": "كم يساوي 30% من 80؟",
+    "options": [
+      "23",
+      "21",
+      "22",
+      "24"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 236,
+    "type": "MCQ",
+    "question": "ما ناتج 51 + 68؟",
+    "options": [
+      "118",
+      "116",
+      "117",
+      "119"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 237,
+    "type": "MCQ",
+    "question": "ما ناتج 7 × 10؟",
+    "options": [
+      "70",
+      "67",
+      "69",
+      "68"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 238,
+    "type": "MCQ",
+    "question": "ما ناتج 9 × 8؟",
+    "options": [
+      "72",
+      "69",
+      "71",
+      "70"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 239,
+    "type": "MCQ",
+    "question": "ما ناتج 10 × 19؟",
+    "options": [
+      "190",
+      "188",
+      "187",
+      "189"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 240,
+    "type": "MCQ",
+    "question": "ما ناتج 89 − 19؟",
+    "options": [
+      "68",
+      "69",
+      "70",
+      "67"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 241,
+    "type": "MCQ",
+    "question": "ما متوسط الأعداد: 21, 12, 35؟",
+    "options": [
+      "24.2",
+      "20.7",
+      "22.7",
+      "25.7"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 242,
+    "type": "MCQ",
+    "question": "ما متوسط الأعداد: 13, 24, 21؟",
+    "options": [
+      "19.3",
+      "17.3",
+      "22.3",
+      "20.8"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 243,
+    "type": "MCQ",
+    "question": "مستطيل طوله 9 سم وعرضه 25 سم. ما مساحته؟",
+    "options": [
+      "222 سم²",
+      "225 سم²",
+      "223 سم²",
+      "224 سم²"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "هندسة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 244,
+    "type": "MCQ",
+    "question": "ما العدد التالي في المتتالية: 19, 26, 33, 40, ؟",
+    "options": [
+      "46",
+      "47",
+      "45",
+      "44"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "منطق",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 245,
+    "type": "MCQ",
+    "question": "ما ناتج 50 + 75؟",
+    "options": [
+      "122",
+      "123",
+      "124",
+      "125"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 246,
+    "type": "MCQ",
+    "question": "ما متوسط الأعداد: 14, 22, 24؟",
+    "options": [
+      "20.0",
+      "18.0",
+      "23.0",
+      "21.5"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 247,
+    "type": "MCQ",
+    "question": "ما العدد التالي في المتتالية: 6, 14, 22, 30, ؟",
+    "options": [
+      "37",
+      "36",
+      "35",
+      "38"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "منطق",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 248,
+    "type": "MCQ",
+    "question": "ما متوسط الأعداد: 38, 30, 21؟",
+    "options": [
+      "32.7",
+      "31.2",
+      "27.7",
+      "29.7"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 249,
+    "type": "MCQ",
+    "question": "ما ناتج 72 ÷ 4؟",
+    "options": [
+      "16",
+      "15",
+      "17",
+      "18"
+    ],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
+  },
+  {
+    "id": 250,
+    "type": "MCQ",
+    "question": "ما العدد التالي في المتتالية: 2, 4, 6, 8, ؟",
+    "options": [
+      "8",
+      "7",
+      "10",
+      "9"
+    ],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "منطق",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4
   }
 ]
