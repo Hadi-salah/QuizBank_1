@@ -1,1352 +1,1442 @@
 [
   {
-    "id": 1,
     "type": "MCQ",
-    "question": "أي مكوّن مسؤول عن تنفيذ التعليمات في الحاسوب؟",
-    "options": [
-      "CPU",
-      "SSD",
-      "GPU",
-      "RAM"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "عتاد"
-  },
-  {
-    "id": 2,
-    "type": "MCQ",
-    "question": "أي نوع ذاكرة يفقد محتواه عند انقطاع الكهرباء؟",
-    "options": [
-      "HDD",
-      "RAM",
-      "ROM",
-      "SSD"
-    ],
+    "question": "ما هو أكبر كوكب في المجموعة الشمسية؟",
+    "options": ["زحل", "المشتري", "أورانوس", "نبتون"],
     "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "عتاد"
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 1
   },
   {
-    "id": 3,
     "type": "MCQ",
-    "question": "ما الأفضل عادةً لسرعة إقلاع النظام؟",
-    "options": [
-      "HDD",
-      "SSD",
-      "DVD",
-      "Tape"
-    ],
-    "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "عتاد"
-  },
-  {
-    "id": 4,
-    "type": "MCQ",
-    "question": "أي قطعة مسؤولة أساسًا عن معالجة الرسوميات؟",
-    "options": [
-      "NIC",
-      "RAM",
-      "GPU",
-      "CPU"
-    ],
+    "question": "ما هي عاصمة أستراليا؟",
+    "options": ["سيدني", "ملبورن", "كانبرا", "بريزبن"],
     "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "عتاد"
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 2
   },
   {
-    "id": 5,
     "type": "MCQ",
-    "question": "ما وظيفة BIOS/UEFI بشكل أساسي؟",
-    "options": [
-      "بدء الإقلاع وتهيئة العتاد",
-      "تشفير القرص",
-      "ضغط الملفات",
-      "تسريع الإنترنت"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "نظم تشغيل"
+    "question": "من هو مخترع المصباح الكهربائي؟",
+    "options": ["نيكولا تسلا", "توماس إديسون", "ألكسندر غراهام بيل", "بنجامين فرانكلين"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "اختراعات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 3
   },
   {
-    "id": 6,
     "type": "MCQ",
-    "question": "أي نظام ملفات شائع في أقراص ويندوز الحديثة؟",
-    "options": [
-      "EXT4",
-      "APFS",
-      "FAT12",
-      "NTFS"
-    ],
+    "question": "ما هو العنصر الكيميائي الأكثر وفرة في القشرة الأرضية؟",
+    "options": ["الحديد", "الألومنيوم", "الأكسجين", "السيليكون"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 4
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي عام انتهت الحرب العالمية الثانية؟",
+    "options": ["1943", "1944", "1945", "1946"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 5
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي اللغة الأكثر انتشاراً في العالم من حيث عدد الناطقين الأصليين؟",
+    "options": ["الإنجليزية", "الإسبانية", "الماندرين الصينية", "الهندية"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "لغات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 6
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أطول نهر في العالم؟",
+    "options": ["الأمازون", "النيل", "المسيسيبي", "اليانغتسي"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 7
+  },
+  {
+    "type": "MCQ",
+    "question": "من كتب رواية 'الجريمة والعقاب'؟",
+    "options": ["ليو تولستوي", "فيودور دوستويفسكي", "أنطون تشيخوف", "إيفان تورغينيف"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أدب",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 8
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الغاز الذي يشكل النسبة الأكبر من الغلاف الجوي للأرض؟",
+    "options": ["الأكسجين", "ثاني أكسيد الكربون", "النيتروجين", "الأرغون"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 9
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أكبر قارة في العالم من حيث المساحة؟",
+    "options": ["أفريقيا", "أمريكا الشمالية", "آسيا", "أوروبا"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 10
+  },
+  {
+    "type": "MCQ",
+    "question": "من هو مؤسس نظرية النسبية؟",
+    "options": ["إسحاق نيوتن", "ألبرت أينشتاين", "ماكس بلانك", "نيلز بور"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 11
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أكبر محيط في العالم؟",
+    "options": ["المحيط الأطلسي", "المحيط الهندي", "المحيط الهادئ", "المحيط المتجمد الشمالي"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 12
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي وحدة قياس شدة التيار الكهربائي؟",
+    "options": ["الفولت", "الأمبير", "الأوم", "الواط"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 13
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي قارة تقع دولة البرازيل؟",
+    "options": ["أمريكا الشمالية", "أمريكا الجنوبية", "أفريقيا", "أوروبا"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 14
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الرمز الكيميائي للذهب؟",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 15
+  },
+  {
+    "type": "MCQ",
+    "question": "من هو الفيلسوف الذي قال 'أنا أفكر إذاً أنا موجود'؟",
+    "options": ["سقراط", "أفلاطون", "رينيه ديكارت", "أرسطو"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "فلسفة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 16
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي العاصمة اليابانية؟",
+    "options": ["أوساكا", "كيوتو", "طوكيو", "يوكوهاما"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 17
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو العضو المسؤول عن تنقية الدم في جسم الإنسان؟",
+    "options": ["القلب", "الرئتين", "الكبد", "الكلى"],
     "correctIndex": 3,
-    "category": "تكنولوجيا",
-    "topic": "نظم تشغيل"
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 18
   },
   {
-    "id": 7,
     "type": "MCQ",
-    "question": "أي نظام ملفات شائع في لينكس؟",
-    "options": [
-      "exFAT",
-      "EXT4",
-      "HFS+",
-      "NTFS"
-    ],
+    "question": "في أي عام هبط الإنسان على سطح القمر لأول مرة؟",
+    "options": ["1967", "1969", "1971", "1973"],
     "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "نظم تشغيل"
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 19
   },
   {
-    "id": 8,
     "type": "MCQ",
-    "question": "ما المقصود بـ IP Address؟",
-    "options": [
-      "عنوان يعرّف جهازًا على الشبكة",
-      "اسم مستخدم",
-      "نوع كابل",
-      "لغة برمجة"
-    ],
+    "question": "ما هي أصغر دولة في العالم من حيث المساحة؟",
+    "options": ["موناكو", "الفاتيكان", "سان مارينو", "ليختنشتاين"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 20
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو اسم المجرة التي يقع فيها كوكب الأرض؟",
+    "options": ["مجرة أندروميدا", "درب التبانة", "مجرة المثلث", "مجرة سومبريرو"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 21
+  },
+  {
+    "type": "MCQ",
+    "question": "من رسم لوحة 'الموناليزا'؟",
+    "options": ["مايكل أنجلو", "رافائيل", "ليوناردو دافنشي", "بوتيتشيلي"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "فن",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 22
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أكبر عضو داخلي في جسم الإنسان؟",
+    "options": ["القلب", "الكبد", "الرئتين", "المعدة"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 23
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي عاصمة كندا؟",
+    "options": ["تورنتو", "فانكوفر", "أوتاوا", "مونتريال"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 24
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو العنصر الكيميائي الذي يحمل الرمز Fe؟",
+    "options": ["الفلور", "الفوسفور", "الحديد", "الفرانسيوم"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 25
+  },
+  {
+    "type": "MCQ",
+    "question": "من هو مؤلف مسرحية 'هاملت'؟",
+    "options": ["كريستوفر مارلو", "وليم شكسبير", "بن جونسون", "جون ميلتون"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أدب",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 26
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أطول سلسلة جبلية في العالم؟",
+    "options": ["جبال الهيمالايا", "جبال الأنديز", "جبال روكي", "جبال الألب"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 27
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الحيوان الذي يُعرف بأنه أسرع حيوان بري؟",
+    "options": ["الأسد", "الفهد", "النمر", "الغزال"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "حيوانات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 28
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي عام تأسست الأمم المتحدة؟",
+    "options": ["1943", "1945", "1947", "1950"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 29
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو المعدن الأكثر صلابة في الطبيعة؟",
+    "options": ["الذهب", "الحديد", "الألماس", "التيتانيوم"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 30
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي الدولة التي تضم أكبر عدد من السكان في العالم؟",
+    "options": ["الهند", "الصين", "الولايات المتحدة", "إندونيسيا"],
     "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "شبكات"
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 31
   },
   {
-    "id": 9,
     "type": "MCQ",
-    "question": "أي بروتوكول يترجم أسماء النطاقات إلى عناوين IP؟",
-    "options": [
-      "NTP",
-      "DHCP",
-      "DNS",
-      "SMTP"
-    ],
+    "question": "ما هو الهرمون المسؤول عن تنظيم مستوى السكر في الدم؟",
+    "options": ["الأدرينالين", "الثيروكسين", "الأنسولين", "الكورتيزول"],
     "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "شبكات"
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 32
   },
   {
-    "id": 10,
     "type": "MCQ",
-    "question": "أي خدمة توزع عناوين IP تلقائيًا داخل الشبكة؟",
-    "options": [
-      "DNS",
-      "DHCP",
-      "FTP",
-      "SSH"
-    ],
+    "question": "من هو مؤسس شركة مايكروسوفت؟",
+    "options": ["ستيف جوبز", "بيل غيتس", "مارك زوكربيرج", "لاري بيج"],
     "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "شبكات"
+    "category": "عام",
+    "topic": "تكنولوجيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 33
   },
   {
-    "id": 11,
     "type": "MCQ",
-    "question": "أي بروتوكول يُستخدم لمزامنة الوقت عبر الشبكات؟",
-    "options": [
-      "SMTP",
-      "IMAP",
-      "NTP",
-      "POP3"
-    ],
+    "question": "ما هي أعلى قمة جبلية في العالم؟",
+    "options": ["جبل كيليمانجارو", "جبل إفرست", "جبل ماكينلي", "جبل مونت بلانك"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 34
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الجزء من الخلية المسؤول عن إنتاج الطاقة؟",
+    "options": ["النواة", "الميتوكوندريا", "الريبوسوم", "جهاز غولجي"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 35
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي مدينة يقع برج إيفل؟",
+    "options": ["لندن", "روما", "باريس", "برلين"],
     "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "شبكات"
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.4,
+    "discriminationIndex": 0.35,
+    "id": 36
   },
   {
-    "id": 12,
     "type": "MCQ",
-    "question": "أي طبقة في نموذج OSI تتعامل مع التوجيه (Routing)؟",
-    "options": [
-      "طبقة النقل",
-      "طبقة العرض",
-      "طبقة الجلسة",
-      "طبقة الشبكة"
-    ],
+    "question": "ما هو الغاز الضروري لعملية التنفس في الكائنات الحية؟",
+    "options": ["النيتروجين", "ثاني أكسيد الكربون", "الأكسجين", "الهيدروجين"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 37
+  },
+  {
+    "type": "MCQ",
+    "question": "من هو الرسام الذي قطع أذنه؟",
+    "options": ["بابلو بيكاسو", "فنسنت فان غوخ", "كلود مونيه", "سلفادور دالي"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فن",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 38
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي عاصمة المملكة المتحدة؟",
+    "options": ["مانشستر", "ليفربول", "لندن", "برمنغهام"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.4,
+    "discriminationIndex": 0.35,
+    "id": 39
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو عدد العظام في جسم الإنسان البالغ؟",
+    "options": ["186", "206", "226", "246"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 40
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي الدولة التي اخترعت الورق؟",
+    "options": ["اليابان", "الصين", "كوريا", "الهند"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 41
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الكوكب الأقرب إلى الشمس؟",
+    "options": ["الزهرة", "عطارد", "الأرض", "المريخ"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 42
+  },
+  {
+    "type": "MCQ",
+    "question": "من هو العالم الذي اكتشف البنسلين؟",
+    "options": ["لويس باستور", "روبرت كوخ", "ألكسندر فلمنج", "إدوارد جينر"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 43
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أكبر صحراء في العالم؟",
+    "options": ["صحراء جوبي", "الصحراء الكبرى", "صحراء كالاهاري", "صحراء القطب الجنوبي"],
     "correctIndex": 3,
-    "category": "تكنولوجيا",
-    "topic": "شبكات"
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.6,
+    "discriminationIndex": 0.45,
+    "id": 44
   },
   {
-    "id": 13,
     "type": "MCQ",
-    "question": "أي بروتوكول يضمن التسليم الموثوق وترتيب الحزم؟",
-    "options": [
-      "ICMP",
-      "UDP",
-      "TCP",
-      "ARP"
-    ],
+    "question": "ما هو العنصر الكيميائي الذي يرمز له بـ Na؟",
+    "options": ["النيتروجين", "النيون", "الصوديوم", "النيكل"],
     "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "شبكات"
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 45
   },
   {
-    "id": 14,
     "type": "MCQ",
-    "question": "أي بروتوكول مناسب للبث الصوتي/الفيديو بزمن تأخير قليل؟",
-    "options": [
-      "FTP",
-      "UDP",
-      "TCP",
-      "SMB"
-    ],
+    "question": "ما هي الديانة الأكثر انتشاراً في الهند؟",
+    "options": ["الإسلام", "البوذية", "الهندوسية", "المسيحية"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "ثقافة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 46
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي العملة الرسمية لليابان؟",
+    "options": ["اليوان", "الوون", "الين", "الروبية"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "اقتصاد",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 47
+  },
+  {
+    "type": "MCQ",
+    "question": "من هو مؤلف كتاب 'أصل الأنواع'؟",
+    "options": ["غريغور مندل", "تشارلز داروين", "ألفريد والاس", "توماس هكسلي"],
     "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "شبكات"
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 48
   },
   {
-    "id": 15,
     "type": "MCQ",
-    "question": "ما المنفذ الافتراضي لـ HTTPS؟",
-    "options": [
-      "53",
-      "443",
-      "22",
-      "80"
-    ],
+    "question": "ما هو المحيط الذي يفصل بين أوروبا وأمريكا؟",
+    "options": ["المحيط الهادئ", "المحيط الهندي", "المحيط الأطلسي", "المحيط المتجمد"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 49
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الفيتامين الذي يُنتجه الجسم عند التعرض لأشعة الشمس؟",
+    "options": ["فيتامين A", "فيتامين C", "فيتامين D", "فيتامين E"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "صحة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 50
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي دولة يقع سور الصين العظيم؟",
+    "options": ["اليابان", "كوريا الجنوبية", "الصين", "منغوليا"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.4,
+    "discriminationIndex": 0.35,
+    "id": 51
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الطائر الوحيد القادر على الطيران للخلف؟",
+    "options": ["النسر", "طائر الطنان", "البومة", "الصقر"],
     "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "ويب/شبكات"
+    "category": "عام",
+    "topic": "حيوانات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 52
   },
   {
-    "id": 16,
     "type": "MCQ",
-    "question": "ما المنفذ الافتراضي لـ HTTP؟",
-    "options": [
-      "25",
-      "110",
-      "80",
-      "143"
-    ],
+    "question": "ما هي العاصمة الألمانية؟",
+    "options": ["ميونخ", "فرانكفورت", "برلين", "هامبورغ"],
     "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "ويب/شبكات"
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 53
   },
   {
-    "id": 17,
     "type": "MCQ",
-    "question": "أي بروتوكول يستخدم لتأمين الاتصال عبر الويب؟",
-    "options": [
-      "Telnet",
-      "RARP",
-      "TLS",
-      "ARP"
-    ],
+    "question": "ما هو الحمض النووي المسؤول عن نقل المعلومات الوراثية؟",
+    "options": ["RNA", "DNA", "ATP", "mRNA"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 54
+  },
+  {
+    "type": "MCQ",
+    "question": "من هو الفيلسوف اليوناني الذي كان معلماً للإسكندر الأكبر؟",
+    "options": ["سقراط", "أفلاطون", "أرسطو", "ديوجين"],
     "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "أمن"
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 55
   },
   {
-    "id": 18,
     "type": "MCQ",
-    "question": "ما الفرق الأساسي بين التشفير والهاش؟",
-    "options": [
-      "التشفير لا يمكن فكه",
-      "التشفير لا يحتاج مفتاحًا",
-      "الهاش يعيد النص الأصلي",
-      "الهاش أحادي الاتجاه عادةً"
-    ],
+    "question": "ما هي أكبر بحيرة للمياه العذبة في العالم من حيث المساحة السطحية؟",
+    "options": ["بحيرة فيكتوريا", "بحيرة سوبيريور", "بحيرة بايكال", "بحيرة هورون"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.6,
+    "discriminationIndex": 0.45,
+    "id": 56
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الجهاز المسؤول عن التوازن في جسم الإنسان؟",
+    "options": ["العين", "الأذن الداخلية", "المخيخ", "كل ما سبق"],
     "correctIndex": 3,
-    "category": "تكنولوجيا",
-    "topic": "أمن"
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 57
   },
   {
-    "id": 19,
     "type": "MCQ",
-    "question": "أي مما يلي مثال على تشفير متماثل؟",
-    "options": [
-      "ECC",
-      "RSA",
-      "AES",
-      "DSA"
-    ],
+    "question": "في أي عام سقط جدار برلين؟",
+    "options": ["1987", "1989", "1991", "1993"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 58
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أقدم حضارة معروفة في العالم؟",
+    "options": ["الحضارة المصرية", "حضارة بلاد الرافدين", "حضارة وادي السند", "الحضارة الصينية"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 59
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي الدولة التي لها أطول خط ساحلي في العالم؟",
+    "options": ["أستراليا", "روسيا", "كندا", "إندونيسيا"],
     "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "أمن"
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.6,
+    "discriminationIndex": 0.45,
+    "id": 60
   },
   {
-    "id": 20,
     "type": "MCQ",
-    "question": "أي مما يلي مثال على تشفير غير متماثل؟",
-    "options": [
-      "RSA",
-      "ChaCha20",
-      "DES",
-      "AES"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "أمن"
-  },
-  {
-    "id": 21,
-    "type": "MCQ",
-    "question": "ما وظيفة جدار الحماية (Firewall)؟",
-    "options": [
-      "التحكم في حركة المرور حسب قواعد",
-      "تحويل PDF إلى Word",
-      "تسريع المعالج",
-      "زيادة سعة الرام"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "أمن"
-  },
-  {
-    "id": 22,
-    "type": "MCQ",
-    "question": "أي هجوم يعتمد على خداع المستخدم للحصول على بياناته؟",
-    "options": [
-      "Phishing",
-      "Buffer Overflow",
-      "DDoS",
-      "SQL Injection"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "أمن"
-  },
-  {
-    "id": 23,
-    "type": "MCQ",
-    "question": "ما المقصود بـ MFA؟",
-    "options": [
-      "نوع تشفير للملفات",
-      "مصادقة متعددة العوامل",
-      "تحديث تلقائي للويندوز",
-      "بروتوكول بريد"
-    ],
-    "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "أمن"
-  },
-  {
-    "id": 24,
-    "type": "MCQ",
-    "question": "أي خوارزمية تُستخدم عادةً لتجزئة كلمات المرور (Hashing)؟",
-    "options": [
-      "FTP",
-      "HTTP",
-      "PNG",
-      "bcrypt"
-    ],
-    "correctIndex": 3,
-    "category": "تكنولوجيا",
-    "topic": "أمن"
-  },
-  {
-    "id": 25,
-    "type": "MCQ",
-    "question": "ما الهدف من الـ Salt عند تخزين كلمات المرور؟",
-    "options": [
-      "زيادة حجم قاعدة البيانات",
-      "تحويل الهاش إلى نص",
-      "تسريع الإنترنت",
-      "منع الجداول الجاهزة وتقليل التطابق"
-    ],
-    "correctIndex": 3,
-    "category": "تكنولوجيا",
-    "topic": "أمن"
-  },
-  {
-    "id": 26,
-    "type": "MCQ",
-    "question": "ما معنى CORS في الويب؟",
-    "options": [
-      "سياسة مشاركة الموارد عبر النطاقات",
-      "لغة تصميم",
-      "بروتوكول تشفير",
-      "نوع قاعدة بيانات"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "ويب"
-  },
-  {
-    "id": 27,
-    "type": "MCQ",
-    "question": "ما هي Cookie في الويب؟",
-    "options": [
-      "ملف فيديو",
-      "لغة برمجة",
-      "نوع RAM",
-      "بيانات صغيرة يخزنها المتصفح"
-    ],
-    "correctIndex": 3,
-    "category": "تكنولوجيا",
-    "topic": "ويب"
-  },
-  {
-    "id": 28,
-    "type": "MCQ",
-    "question": "أي تنسيق شائع لتبادل البيانات في APIs؟",
-    "options": [
-      "JSON",
-      "EXE",
-      "PSD",
-      "MP3"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "برمجة/ويب"
-  },
-  {
-    "id": 29,
-    "type": "MCQ",
-    "question": "YAML يُستخدم غالبًا في:",
-    "options": [
-      "تحرير الصور",
-      "ضغط الفيديو",
-      "ملفات الإعدادات",
-      "تشغيل الألعاب"
-    ],
+    "question": "ما هو أثقل عنصر طبيعي في الجدول الدوري؟",
+    "options": ["الرصاص", "البلاتين", "اليورانيوم", "الذهب"],
     "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "DevOps"
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 61
   },
   {
-    "id": 30,
     "type": "MCQ",
-    "question": "أي مفهوم يعني فصل الواجهة عن منطق التطبيق؟",
-    "options": [
-      "RAM",
-      "HTTP",
-      "MVC",
-      "FIFO"
-    ],
-    "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "برمجة"
-  },
-  {
-    "id": 31,
-    "type": "MCQ",
-    "question": "ما هي REST API عادةً؟",
-    "options": [
-      "نظام تشغيل",
-      "واجهة تعتمد على HTTP وموارد",
-      "قاعدة بيانات علائقية",
-      "نوع كابل"
-    ],
+    "question": "من هو مؤسس شركة أبل؟",
+    "options": ["بيل غيتس", "ستيف جوبز", "إيلون ماسك", "جيف بيزوس"],
     "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "ويب/برمجة"
+    "category": "عام",
+    "topic": "تكنولوجيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 62
   },
   {
-    "id": 32,
     "type": "MCQ",
-    "question": "أي كلمة HTTP تعني إنشاء مورد جديد غالبًا؟",
-    "options": [
-      "GET",
-      "HEAD",
-      "DELETE",
-      "POST"
-    ],
+    "question": "ما هي اللغة الرسمية في البرازيل؟",
+    "options": ["الإسبانية", "البرتغالية", "الفرنسية", "الإنجليزية"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "لغات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 63
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو العضو المسؤول عن إنتاج الصفراء في الجسم؟",
+    "options": ["المعدة", "البنكرياس", "الكبد", "الكلى"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 64
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي قارة تقع مصر؟",
+    "options": ["آسيا", "أفريقيا", "أوروبا", "أفريقيا وآسيا"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 65
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الكوكب الملقب بالكوكب الأحمر؟",
+    "options": ["الزهرة", "المشتري", "المريخ", "زحل"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 66
+  },
+  {
+    "type": "MCQ",
+    "question": "من هو العالم الذي وضع قوانين الحركة الثلاثة؟",
+    "options": ["غاليليو غاليلي", "إسحاق نيوتن", "يوهانس كبلر", "نيكولاس كوبرنيكوس"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 67
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أكبر جزيرة في العالم؟",
+    "options": ["مدغشقر", "بورنيو", "جرينلاند", "غينيا الجديدة"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 68
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو نوع التكاثر الذي ينتج نسخاً متطابقة وراثياً؟",
+    "options": ["التكاثر الجنسي", "التكاثر اللاجنسي", "التهجين", "الطفرات"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 69
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي عاصمة إيطاليا؟",
+    "options": ["ميلانو", "البندقية", "روما", "نابولي"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 70
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الحيوان البحري الأكبر في العالم؟",
+    "options": ["القرش الأبيض", "الحوت الأزرق", "الحبار العملاق", "فرس البحر"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "حيوانات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 71
+  },
+  {
+    "type": "MCQ",
+    "question": "من هو الرئيس الأمريكي الذي ألغى العبودية؟",
+    "options": ["جورج واشنطن", "توماس جيفرسون", "أبراهام لينكولن", "ثيودور روزفلت"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 72
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو المركب الكيميائي للماء؟",
+    "options": ["H2O2", "H2O", "HO2", "H3O"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.4,
+    "discriminationIndex": 0.35,
+    "id": 73
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي الدولة التي فازت بأكبر عدد من بطولات كأس العالم لكرة القدم؟",
+    "options": ["ألمانيا", "الأرجنتين", "البرازيل", "إيطاليا"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "رياضة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 74
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الغاز الذي تنتجه النباتات أثناء عملية البناء الضوئي؟",
+    "options": ["ثاني أكسيد الكربون", "النيتروجين", "الأكسجين", "الهيدروجين"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 75
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي عاصمة روسيا؟",
+    "options": ["سانت بطرسبرغ", "موسكو", "كييف", "مينسك"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 76
+  },
+  {
+    "type": "MCQ",
+    "question": "من هو العالم المسلم الذي يُعتبر أب الجبر؟",
+    "options": ["ابن سينا", "الخوارزمي", "ابن الهيثم", "الرازي"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 77
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو العنصر الأساسي في تكوين البروتينات؟",
+    "options": ["الأحماض الدهنية", "الأحماض الأمينية", "الجلوكوز", "النيوكليوتيدات"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 78
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي مدينة يقع تمثال الحرية؟",
+    "options": ["واشنطن", "لوس أنجلوس", "نيويورك", "شيكاغو"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 79
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو المعدن السائل في درجة حرارة الغرفة؟",
+    "options": ["الرصاص", "الزئبق", "القصدير", "الغاليوم"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 80
+  },
+  {
+    "type": "MCQ",
+    "question": "من هو مؤلف رواية 'مئة عام من العزلة'؟",
+    "options": ["ماريو فارغاس يوسا", "غابرييل غارسيا ماركيز", "خورخي لويس بورخيس", "بابلو نيرودا"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أدب",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 81
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الحيوان الذي يُعرف بأنه ملك الغابة؟",
+    "options": ["النمر", "الفيل", "الأسد", "الدب"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "حيوانات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.4,
+    "discriminationIndex": 0.35,
+    "id": 82
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أقدم جامعة في العالم لا تزال تعمل؟",
+    "options": ["جامعة أكسفورد", "جامعة بولونيا", "جامعة القرويين", "جامعة كامبريدج"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.6,
+    "discriminationIndex": 0.45,
+    "id": 83
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الجزء من العين المسؤول عن تحديد لونها؟",
+    "options": ["القرنية", "الشبكية", "القزحية", "البؤبؤ"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 84
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي العملة الرسمية للمملكة المتحدة؟",
+    "options": ["اليورو", "الدولار", "الجنيه الإسترليني", "الفرنك"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "اقتصاد",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 85
+  },
+  {
+    "type": "MCQ",
+    "question": "من هو الملحن الذي ألف السيمفونية التاسعة وهو أصم؟",
+    "options": ["موزارت", "باخ", "بيتهوفن", "شوبان"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "موسيقى",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 86
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو البحر الذي يفصل بين أوروبا وأفريقيا؟",
+    "options": ["البحر الأحمر", "البحر الأسود", "البحر المتوسط", "بحر العرب"],
+    "correctIndex": 2,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 87
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي فصيلة الدم التي تُعتبر المانح العام؟",
+    "options": ["A+", "B+", "AB+", "O-"],
     "correctIndex": 3,
-    "category": "تكنولوجيا",
-    "topic": "ويب"
+    "category": "عام",
+    "topic": "صحة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 88
   },
   {
-    "id": 33,
     "type": "MCQ",
-    "question": "أي كلمة HTTP تُستخدم لجلب البيانات بدون تعديل؟",
-    "options": [
-      "POST",
-      "PATCH",
-      "GET",
-      "PUT"
-    ],
+    "question": "في أي عام بدأت الثورة الفرنسية؟",
+    "options": ["1776", "1789", "1799", "1804"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 89
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو اسم أول قمر صناعي أُطلق إلى الفضاء؟",
+    "options": ["أبولو", "سبوتنيك", "فوستوك", "إكسبلورر"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فضاء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 90
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أكبر دولة عربية من حيث المساحة؟",
+    "options": ["مصر", "السعودية", "الجزائر", "السودان"],
     "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "ويب"
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 91
   },
   {
-    "id": 34,
     "type": "MCQ",
-    "question": "أي كلمة HTTP تُستخدم لتحديث جزء من المورد؟",
-    "options": [
-      "PATCH",
-      "TRACE",
-      "GET",
-      "OPTIONS"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "ويب"
+    "question": "ما هو الغاز المسؤول عن ظاهرة الاحتباس الحراري بشكل رئيسي؟",
+    "options": ["الأكسجين", "ثاني أكسيد الكربون", "النيتروجين", "الهيليوم"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "بيئة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 92
   },
   {
-    "id": 35,
     "type": "MCQ",
-    "question": "Git يُستخدم لـ:",
-    "options": [
-      "حماية الشاشة",
-      "تشغيل نظام التشغيل",
-      "إدارة الإصدارات وتتبع التغييرات",
-      "تصميم واجهات"
-    ],
+    "question": "من هو العالم الذي اكتشف الجاذبية؟",
+    "options": ["غاليليو غاليلي", "إسحاق نيوتن", "ألبرت أينشتاين", "نيكولا تسلا"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 93
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي عاصمة إسبانيا؟",
+    "options": ["برشلونة", "إشبيلية", "مدريد", "فالنسيا"],
     "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "برمجة"
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 94
   },
   {
-    "id": 36,
     "type": "MCQ",
-    "question": "أي أمر Git يجلب التحديثات من الريموت إلى الفرع الحالي؟",
-    "options": [
-      "git add",
-      "git status",
-      "git init",
-      "git pull"
-    ],
-    "correctIndex": 3,
-    "category": "تكنولوجيا",
-    "topic": "برمجة"
+    "question": "ما هي المادة الصلبة الوحيدة التي تطفو على الماء في حالتها السائلة؟",
+    "options": ["الخشب", "الجليد", "البلاستيك", "الفلين"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 95
   },
   {
-    "id": 37,
     "type": "MCQ",
-    "question": "أي أمر Git يعرض حالة الملفات؟",
-    "options": [
-      "git tag",
-      "git clone",
-      "git status",
-      "git stash"
-    ],
+    "question": "من هو كاتب مسرحية 'في انتظار غودو'؟",
+    "options": ["صموئيل بيكيت", "يوجين أونيل", "تينيسي ويليامز", "آرثر ميلر"],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "أدب",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.6,
+    "discriminationIndex": 0.45,
+    "id": 96
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي الدولة التي تُعرف بأرض الشمس المشرقة؟",
+    "options": ["الصين", "كوريا", "اليابان", "تايلاند"],
     "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "برمجة"
+    "category": "عام",
+    "topic": "ثقافة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 97
   },
   {
-    "id": 38,
     "type": "MCQ",
-    "question": "Docker يستخدم أساسًا لـ:",
-    "options": [
-      "تسريع RAM",
-      "حذف الفيروسات",
-      "تحرير الفيديو",
-      "تشغيل تطبيقات داخل حاويات"
-    ],
-    "correctIndex": 3,
-    "category": "تكنولوجيا",
-    "topic": "DevOps"
-  },
-  {
-    "id": 39,
-    "type": "MCQ",
-    "question": "Kubernetes يُستخدم لـ:",
-    "options": [
-      "تصميم قواعد البيانات",
-      "تنظيف القرص",
-      "تشفير الرسائل",
-      "إدارة الحاويات وتنسيقها"
-    ],
-    "correctIndex": 3,
-    "category": "تكنولوجيا",
-    "topic": "DevOps"
-  },
-  {
-    "id": 40,
-    "type": "MCQ",
-    "question": "CI/CD يشير إلى:",
-    "options": [
-      "تشفير البريد",
-      "التكامل المستمر والتسليم/النشر المستمر",
-      "ضغط الصور",
-      "تثبيت كرت شاشة"
-    ],
+    "question": "ما هو الهرمون المسؤول عن تنظيم دورة النوم والاستيقاظ؟",
+    "options": ["الأدرينالين", "الميلاتونين", "السيروتونين", "الدوبامين"],
     "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "DevOps"
+    "category": "عام",
+    "topic": "صحة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 98
   },
   {
-    "id": 41,
     "type": "MCQ",
-    "question": "في قواعد البيانات، ACID تعني:",
-    "options": [
-      "نوع فهرسة",
-      "خصائص المعاملات",
-      "بروتوكول شبكة",
-      "لغة برمجة"
-    ],
-    "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "قواعد بيانات"
-  },
-  {
-    "id": 42,
-    "type": "MCQ",
-    "question": "أي أمر SQL يُستخدم لاختيار بيانات؟",
-    "options": [
-      "SELECT",
-      "GRANT",
-      "DROP",
-      "INSERT"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "قواعد بيانات"
-  },
-  {
-    "id": 43,
-    "type": "MCQ",
-    "question": "JOIN في SQL يُستخدم لـ:",
-    "options": [
-      "ضغط الملفات",
-      "نسخ النظام",
-      "تشفير البيانات",
-      "دمج بيانات من جداول متعددة"
-    ],
-    "correctIndex": 3,
-    "category": "تكنولوجيا",
-    "topic": "قواعد بيانات"
-  },
-  {
-    "id": 44,
-    "type": "MCQ",
-    "question": "Index في قاعدة البيانات يفيد في:",
-    "options": [
-      "زيادة استهلاك RAM دائمًا",
-      "تشفير السجلات",
-      "تسريع البحث",
-      "منع النسخ الاحتياطي"
-    ],
+    "question": "في أي مدينة تُقام بطولة ويمبلدون للتنس؟",
+    "options": ["باريس", "نيويورك", "لندن", "ملبورن"],
     "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "قواعد بيانات"
+    "category": "عام",
+    "topic": "رياضة",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 99
   },
   {
-    "id": 45,
     "type": "MCQ",
-    "question": "أي نوع قاعدة بيانات مناسب للبيانات غير المهيكلة غالبًا؟",
-    "options": [
-      "CSV",
-      "Relational فقط",
-      "NoSQL",
-      "FAT32"
-    ],
+    "question": "ما هو أصغر كوكب في المجموعة الشمسية؟",
+    "options": ["عطارد", "المريخ", "بلوتو", "الزهرة"],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 100
+  },
+  {
+    "type": "MCQ",
+    "question": "من هو مخترع الهاتف؟",
+    "options": ["توماس إديسون", "ألكسندر غراهام بيل", "نيكولا تسلا", "غوليلمو ماركوني"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "اختراعات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 101
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أكبر شركة تقنية من حيث القيمة السوقية؟",
+    "options": ["جوجل", "أمازون", "أبل", "مايكروسوفت"],
     "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "قواعد بيانات"
+    "category": "عام",
+    "topic": "تكنولوجيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 102
   },
   {
-    "id": 46,
     "type": "MCQ",
-    "question": "الفرق بين Process و Thread هو أن الـ Thread:",
-    "options": [
-      "يشارك الذاكرة مع نفس العملية",
-      "لا يحتاج نظام تشغيل",
-      "يعمل بدون CPU",
-      "أبطأ دائمًا من Process"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "نظم تشغيل"
-  },
-  {
-    "id": 47,
-    "type": "MCQ",
-    "question": "Kernel هو:",
-    "options": [
-      "لغة ويب",
-      "نوع معالج",
-      "قلب نظام التشغيل",
-      "برنامج مضاد فيروسات"
-    ],
+    "question": "ما هو البلد الذي يُنتج أكبر كمية من القهوة في العالم؟",
+    "options": ["كولومبيا", "فيتنام", "البرازيل", "إثيوبيا"],
     "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "نظم تشغيل"
+    "category": "عام",
+    "topic": "اقتصاد",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 103
   },
   {
-    "id": 48,
     "type": "MCQ",
-    "question": "في لينكس، الأمر لعرض محتويات المجلد هو:",
-    "options": [
-      "ping",
-      "ls",
-      "rm",
-      "cd"
-    ],
+    "question": "ما هو العصر الجيولوجي الذي عاشت فيه الديناصورات؟",
+    "options": ["العصر الحجري", "الدهر الوسيط", "العصر الجليدي", "الدهر الحديث"],
     "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "نظم تشغيل"
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 104
   },
   {
-    "id": 49,
     "type": "MCQ",
-    "question": "في لينكس، الأمر لتغيير المجلد هو:",
-    "options": [
-      "ls",
-      "cd",
-      "cat",
-      "grep"
-    ],
+    "question": "من هو الرسام الإسباني الذي أسس الحركة السريالية في الفن؟",
+    "options": ["بابلو بيكاسو", "سلفادور دالي", "خوان ميرو", "فرانسيسكو غويا"],
     "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "نظم تشغيل"
+    "category": "عام",
+    "topic": "فن",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 105
   },
   {
-    "id": 50,
     "type": "MCQ",
-    "question": "ما المقصود بـ Open Source؟",
-    "options": [
-      "برنامج يعمل بدون إنترنت",
-      "برنامج بدون أخطاء",
-      "برنامج مجاني دائمًا",
-      "كود متاح للاطلاع والتعديل وفق رخصة"
-    ],
-    "correctIndex": 3,
-    "category": "تكنولوجيا",
-    "topic": "مفاهيم"
+    "question": "ما هي القناة التي تربط البحر الأحمر بالبحر المتوسط؟",
+    "options": ["قناة بنما", "قناة السويس", "مضيق جبل طارق", "مضيق هرمز"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 106
   },
   {
-    "id": 51,
     "type": "MCQ",
-    "question": "الترميز UTF-8 يُستخدم لـ:",
-    "options": [
-      "تمثيل النصوص والأحرف",
-      "تشغيل الصوتيات",
-      "تشفير الملفات فقط",
-      "تسريع الإنترنت"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "مفاهيم"
+    "question": "ما هي الطبقة الخارجية من الأرض التي نعيش عليها؟",
+    "options": ["الوشاح", "القشرة", "اللب الخارجي", "اللب الداخلي"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جيولوجيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 107
   },
   {
-    "id": 52,
     "type": "MCQ",
-    "question": "Base64 يُستخدم غالبًا لـ:",
-    "options": [
-      "تمثيل بيانات ثنائية كنص",
-      "ضغط الملفات بنسبة كبيرة",
-      "منع النسخ",
-      "زيادة الأمان تلقائيًا"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "مفاهيم"
+    "question": "من هو الفيزيائي الذي طور النظرية الكمية؟",
+    "options": ["ألبرت أينشتاين", "ماكس بلانك", "نيلز بور", "فيرنر هايزنبرغ"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.6,
+    "discriminationIndex": 0.45,
+    "id": 108
   },
   {
-    "id": 53,
     "type": "MCQ",
-    "question": "ما المقصود بـ Bandwidth؟",
-    "options": [
-      "حجم الشاشة",
-      "نوع المعالج",
-      "سعة نقل البيانات",
-      "عدد الأجهزة"
-    ],
+    "question": "ما هي المدينة التي تُعرف بمدينة الضباب؟",
+    "options": ["باريس", "لندن", "نيويورك", "طوكيو"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 109
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الحيوان الذي له ثلاثة قلوب؟",
+    "options": ["الحوت", "الأخطبوط", "القرش", "السلحفاة"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "حيوانات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.6,
+    "discriminationIndex": 0.45,
+    "id": 110
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي دولة يقع تاج محل؟",
+    "options": ["باكستان", "الهند", "بنغلاديش", "نيبال"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 111
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو العضو المسؤول عن إفراز الأنسولين؟",
+    "options": ["الكبد", "الكلى", "البنكرياس", "الطحال"],
     "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "شبكات"
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.5,
+    "discriminationIndex": 0.4,
+    "id": 112
   },
   {
-    "id": 54,
     "type": "MCQ",
-    "question": "Ping يستخدم بروتوكول:",
-    "options": [
-      "UDP",
-      "FTP",
-      "TCP",
-      "ICMP"
-    ],
-    "correctIndex": 3,
-    "category": "تكنولوجيا",
-    "topic": "شبكات"
+    "question": "من هو مؤسس موقع فيسبوك؟",
+    "options": ["جاك دورسي", "مارك زوكربيرج", "إيلون ماسك", "لاري بيج"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تكنولوجيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.45,
+    "discriminationIndex": 0.38,
+    "id": 113
   },
   {
-    "id": 55,
     "type": "MCQ",
-    "question": "ARP يُستخدم لـ:",
-    "options": [
-      "نقل الملفات",
-      "تحديث النظام",
-      "ربط IP بعنوان MAC",
-      "تشفير البريد"
-    ],
+    "question": "ما هي عاصمة الأرجنتين؟",
+    "options": ["سانتياغو", "بوغوتا", "بوينس آيرس", "ليما"],
     "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "شبكات"
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 114
   },
   {
-    "id": 56,
     "type": "MCQ",
-    "question": "MAC Address هو:",
-    "options": [
-      "كلمة مرور",
-      "اسم نطاق",
-      "عنوان فيزيائي لبطاقة الشبكة",
-      "عنوان موقع"
-    ],
+    "question": "ما هو الكوكب الذي له أكبر عدد من الأقمار؟",
+    "options": ["المشتري", "زحل", "أورانوس", "نبتون"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.6,
+    "discriminationIndex": 0.45,
+    "id": 115
+  },
+  {
+    "type": "MCQ",
+    "question": "من هو العالم الذي اخترع الديناميت؟",
+    "options": ["توماس إديسون", "ألفريد نوبل", "ألكسندر فلمنج", "لويس باستور"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "اختراعات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 116
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي اللغة الرسمية في النمسا؟",
+    "options": ["الفرنسية", "الإنجليزية", "الألمانية", "الإيطالية"],
     "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "شبكات"
+    "category": "عام",
+    "topic": "لغات",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 117
   },
   {
-    "id": 57,
     "type": "MCQ",
-    "question": "NAT يُستخدم غالبًا لـ:",
-    "options": [
-      "ضغط الفيديو",
-      "زيادة سرعة المعالج",
-      "ترجمة عناوين خاصة لعامة",
-      "إدارة قواعد البيانات"
-    ],
+    "question": "ما هو الشريان الأكبر في جسم الإنسان؟",
+    "options": ["الشريان السباتي", "الشريان الرئوي", "الشريان الأبهر", "الشريان التاجي"],
     "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "شبكات"
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 118
   },
   {
-    "id": 58,
     "type": "MCQ",
-    "question": "VPN يفيد في:",
-    "options": [
-      "إنشاء نفق اتصال آمن",
-      "تقليل حجم الصور",
-      "تسريع CPU",
-      "زيادة دقة الشاشة"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "أمن/شبكات"
-  },
-  {
-    "id": 59,
-    "type": "MCQ",
-    "question": "في التشفير، المفتاح العام يُستخدم عادةً لـ:",
-    "options": [
-      "زيادة سرعة الهاش",
-      "تشفير/تحقق دون كشف المفتاح الخاص",
-      "تخزين كلمات المرور كنص",
-      "فك تشفير كل الرسائل دائمًا"
-    ],
-    "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "أمن"
-  },
-  {
-    "id": 60,
-    "type": "MCQ",
-    "question": "Hash collision تعني:",
-    "options": [
-      "انقطاع الإنترنت",
-      "زيادة حجم الملف",
-      "ناتجان متطابقان لمدخلات مختلفة",
-      "فك التشفير بنجاح"
-    ],
+    "question": "في أي قارة تقع نيوزيلندا؟",
+    "options": ["آسيا", "أستراليا", "أوقيانوسيا", "أمريكا الجنوبية"],
     "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "أمن"
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 119
   },
   {
-    "id": 61,
     "type": "MCQ",
-    "question": "SQL Injection هو:",
-    "options": [
-      "ميزة في CSS",
-      "حقن أوامر SQL عبر المدخلات",
-      "بروتوكول بريد",
-      "نوع ضغط ملفات"
-    ],
+    "question": "ما هو اسم أول رائد فضاء وصل إلى الفضاء؟",
+    "options": ["نيل أرمسترونغ", "يوري غاغارين", "بز ألدرين", "جون غلين"],
     "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "أمن/ويب"
-  },
-  {
-    "id": 62,
-    "type": "MCQ",
-    "question": "XSS هو:",
-    "options": [
-      "نوع تشفير",
-      "اختراق Wi-Fi فقط",
-      "تسريع GPU",
-      "حقن سكربت داخل صفحة ويب"
-    ],
-    "correctIndex": 3,
-    "category": "تكنولوجيا",
-    "topic": "أمن/ويب"
-  },
-  {
-    "id": 63,
-    "type": "MCQ",
-    "question": "ما هي 'الافتراضية' Virtualization؟",
-    "options": [
-      "زيادة دقة الكاميرا",
-      "حذف الملفات نهائيًا",
-      "تشغيل أنظمة متعددة على عتاد واحد",
-      "تحويل صوت إلى نص"
-    ],
-    "correctIndex": 2,
-    "category": "تكنولوجيا",
-    "topic": "سحابة/نظم"
-  },
-  {
-    "id": 64,
-    "type": "MCQ",
-    "question": "IaaS يعني:",
-    "options": [
-      "تطبيق بدون خادم",
-      "بنية تحتية كخدمة",
-      "منصة كخدمة",
-      "برنامج كخدمة"
-    ],
-    "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "سحابة"
-  },
-  {
-    "id": 65,
-    "type": "MCQ",
-    "question": "PaaS يعني:",
-    "options": [
-      "منصة كخدمة",
-      "بنية تحتية كخدمة",
-      "شبكة كخدمة",
-      "برنامج كخدمة"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "سحابة"
-  },
-  {
-    "id": 66,
-    "type": "MCQ",
-    "question": "SaaS يعني:",
-    "options": [
-      "بنية تحتية كخدمة",
-      "منصة كخدمة",
-      "تخزين كخدمة",
-      "برنامج كخدمة"
-    ],
-    "correctIndex": 3,
-    "category": "تكنولوجيا",
-    "topic": "سحابة"
-  },
-  {
-    "id": 67,
-    "type": "MCQ",
-    "question": "Serverless يُقصد به غالبًا:",
-    "options": [
-      "تشغيل كود دون إدارة خوادم مباشرة",
-      "بدون إنترنت",
-      "بدون قواعد بيانات",
-      "عدم وجود خوادم إطلاقًا"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "سحابة"
-  },
-  {
-    "id": 68,
-    "type": "MCQ",
-    "question": "Overfitting في تعلم الآلة يعني:",
-    "options": [
-      "نقص بيانات دائمًا",
-      "أداء ممتاز على التدريب وضعيف على الاختبار",
-      "زيادة سرعة الشبكة",
-      "ضغط النموذج"
-    ],
-    "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "ذكاء اصطناعي"
-  },
-  {
-    "id": 69,
-    "type": "MCQ",
-    "question": "Inference في الذكاء الاصطناعي يعني:",
-    "options": [
-      "حذف الأوزان",
-      "تجميع بيانات فقط",
-      "تشفير النموذج",
-      "استخدام نموذج مدرب لإنتاج تنبؤ"
-    ],
-    "correctIndex": 3,
-    "category": "تكنولوجيا",
-    "topic": "ذكاء اصطناعي"
-  },
-  {
-    "id": 70,
-    "type": "MCQ",
-    "question": "ما هو المقصود بـ API؟",
-    "options": [
-      "برنامج مكافحة فيروسات",
-      "واجهة للتواصل بين التطبيقات",
-      "نوع معالج",
-      "نظام ملفات"
-    ],
-    "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "برمجة"
-  },
-  {
-    "id": 71,
-    "type": "MCQ",
-    "question": "SemVer يشير إلى:",
-    "options": [
-      "قاعدة بيانات",
-      "نوع كابل",
-      "صيغة صور",
-      "إصدار دلالي (Major.Minor.Patch)"
-    ],
-    "correctIndex": 3,
-    "category": "تكنولوجيا",
-    "topic": "برمجة"
-  },
-  {
-    "id": 72,
-    "type": "MCQ",
-    "question": "ماذا تعني OSS في سياق البرمجيات؟",
-    "options": [
-      "Online Storage System",
-      "Open Source Software",
-      "Optical Sensor Suite",
-      "Operating System Service"
-    ],
-    "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "مفاهيم"
-  },
-  {
-    "id": 73,
-    "type": "MCQ",
-    "question": "ما وظيفة CDN؟",
-    "options": [
-      "توزيع المحتوى لتقليل زمن الوصول",
-      "تشفير البريد",
-      "إدارة العمليات",
-      "زيادة RAM"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "ويب/سحابة"
-  },
-  {
-    "id": 74,
-    "type": "MCQ",
-    "question": "OAuth يُستخدم غالبًا لـ:",
-    "options": [
-      "ضغط الصور",
-      "تغيير عنوان IP",
-      "تعديل BIOS",
-      "تفويض الوصول دون مشاركة كلمة المرور"
-    ],
-    "correctIndex": 3,
-    "category": "تكنولوجيا",
-    "topic": "أمن/ويب"
-  },
-  {
-    "id": 75,
-    "type": "MCQ",
-    "question": "JWT هو:",
-    "options": [
-      "نوع هارد دسك",
-      "رمز مدمج للتوثيق/الترخيص",
-      "بروتوكول واي فاي",
-      "محرك بحث"
-    ],
-    "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "ويب/أمن"
-  },
-  {
-    "id": 76,
-    "type": "TF",
-    "question": "IPv6 يوفر عدد عناوين أكبر بكثير من IPv4.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "شبكات"
-  },
-  {
-    "id": 77,
-    "type": "TF",
-    "question": "UDP يضمن ترتيب الحزم والتسليم الموثوق دائمًا.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "شبكات"
-  },
-  {
-    "id": 78,
-    "type": "TF",
-    "question": "HTTPS هو HTTP مع طبقة تشفير TLS عادةً.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "ويب/أمن"
-  },
-  {
-    "id": 79,
-    "type": "TF",
-    "question": "DNS وظيفته الأساسية توزيع عناوين IP تلقائيًا.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "شبكات"
-  },
-  {
-    "id": 80,
-    "type": "TF",
-    "question": "Git نظام لإدارة الإصدارات الموزعة.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "برمجة"
-  },
-  {
-    "id": 81,
-    "type": "TF",
-    "question": "الهاش (Hash) قابل للعكس مثل التشفير دائمًا.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "أمن"
-  },
-  {
-    "id": 82,
-    "type": "TF",
-    "question": "التشفير المتماثل يستخدم نفس المفتاح للتشفير وفك التشفير.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "أمن"
-  },
-  {
-    "id": 83,
-    "type": "TF",
-    "question": "RSA يُعد مثالًا على التشفير غير المتماثل.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "أمن"
-  },
-  {
-    "id": 84,
-    "type": "TF",
-    "question": "CORS سياسة أمان تتحكم بطلبات المتصفح بين النطاقات.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "ويب"
-  },
-  {
-    "id": 85,
-    "type": "TF",
-    "question": "Cookie يمكن استخدامها لحفظ جلسة المستخدم.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "ويب"
-  },
-  {
-    "id": 86,
-    "type": "TF",
-    "question": "Docker يشغّل تطبيقات داخل حاويات معزولة.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "DevOps"
-  },
-  {
-    "id": 87,
-    "type": "TF",
-    "question": "Kubernetes يُستخدم لإدارة قواعد بيانات SQL.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "DevOps"
-  },
-  {
-    "id": 88,
-    "type": "TF",
-    "question": "SQL تُستخدم للاستعلام عن البيانات في قواعد علائقية.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "قواعد بيانات"
-  },
-  {
-    "id": 89,
-    "type": "TF",
-    "question": "Index في قاعدة البيانات يمكن أن يحسن أداء الاستعلامات.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "قواعد بيانات"
-  },
-  {
-    "id": 90,
-    "type": "TF",
-    "question": "Kernel هو الجزء المسؤول عن إدارة الموارد الأساسية في نظام التشغيل.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "نظم تشغيل"
-  },
-  {
-    "id": 91,
-    "type": "TF",
-    "question": "Process يمكن أن يحتوي على عدة Threads.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "نظم تشغيل"
-  },
-  {
-    "id": 92,
-    "type": "TF",
-    "question": "NAT يساعد في مشاركة عنوان IP عام لعدة أجهزة داخلية.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "شبكات"
-  },
-  {
-    "id": 93,
-    "type": "TF",
-    "question": "VPN يمكن أن يضيف طبقة حماية عند استخدام شبكات عامة.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "أمن/شبكات"
-  },
-  {
-    "id": 94,
-    "type": "TF",
-    "question": "XSS يستهدف غالبًا متصفح المستخدم عبر حقن سكربت.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "أمن/ويب"
-  },
-  {
-    "id": 95,
-    "type": "TF",
-    "question": "SQL Injection يحدث فقط عند استخدام NoSQL.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "أمن/ويب"
-  },
-  {
-    "id": 96,
-    "type": "TF",
-    "question": "Base64 هو تشفير قوي لحماية البيانات.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "مفاهيم"
-  },
-  {
-    "id": 97,
-    "type": "TF",
-    "question": "UTF-8 ترميز شائع يدعم أحرفًا متعددة اللغات.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "مفاهيم"
-  },
-  {
-    "id": 98,
-    "type": "TF",
-    "question": "IaaS يقدّم بنية تحتية افتراضية مثل السيرفرات والشبكات.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "تكنولوجيا",
-    "topic": "سحابة"
-  },
-  {
-    "id": 99,
-    "type": "TF",
-    "question": "SaaS يعني أنك تدير النظام التشغيلي على الخادم بنفسك.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "سحابة"
-  },
-  {
-    "id": 100,
-    "type": "TF",
-    "question": "Overfitting يعني أن النموذج يعمم جيدًا على بيانات جديدة.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 1,
-    "category": "تكنولوجيا",
-    "topic": "ذكاء اصطناعي"
+    "category": "عام",
+    "topic": "فضاء",
+    "difficultyLevel": "متوسط",
+    "difficultyIndex": 0.55,
+    "discriminationIndex": 0.42,
+    "id": 120
   }
 ]
