@@ -1,632 +1,1442 @@
 [
   {
-    "id": 1,
     "type": "MCQ",
-    "question": "ما هي الوحدة الأساسية للتركيب والوظيفة في الكائنات الحية؟",
-    "options": [
-      "النسيج",
-      "العضو",
-      "الخلية",
-      "الجهاز"
-    ],
+    "question": "ما هو العدد الذري للعنصر الذي يقع في الدورة الرابعة والمجموعة الثامنة؟",
+    "options": ["26", "28", "27", "29"],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.85,
+    "discriminationIndex": 0.58,
+    "id": 1
+  },
+  {
+    "type": "MCQ",
+    "question": "إذا كان محيط مربع يساوي محيط دائرة نصف قطرها 7 سم، فما طول ضلع المربع تقريباً؟",
+    "options": ["10 سم", "11 سم", "12 سم", "9 سم"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.82,
+    "discriminationIndex": 0.55,
+    "id": 2
+  },
+  {
+    "type": "MCQ",
+    "question": "أي من هذه الدول ليست عضواً دائماً في مجلس الأمن الدولي؟",
+    "options": ["فرنسا", "ألمانيا", "الصين", "روسيا"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "سياسة",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.78,
+    "discriminationIndex": 0.52,
+    "id": 3
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الترتيب الصحيح لطبقات الغلاف الجوي من الأسفل للأعلى؟",
+    "options": ["تروبوسفير - ستراتوسفير - ميزوسفير", "ستراتوسفير - تروبوسفير - ميزوسفير", "ميزوسفير - تروبوسفير - ستراتوسفير", "تروبوسفير - ميزوسفير - ستراتوسفير"],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.84,
+    "discriminationIndex": 0.57,
+    "id": 4
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد الأحماض الأمينية الأساسية التي لا يستطيع جسم الإنسان تصنيعها؟",
+    "options": ["7", "9", "11", "8"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.86,
+    "discriminationIndex": 0.59,
+    "id": 5
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي نسبة الأكسجين في الهيموغلوبين المؤكسد؟",
+    "options": ["96-98%", "94-96%", "98-100%", "92-94%"],
     "correctIndex": 2,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.83,
+    "discriminationIndex": 0.56,
+    "id": 6
   },
   {
-    "id": 2,
     "type": "MCQ",
-    "question": "أي عضية مسؤولة بشكل أساسي عن إنتاج الطاقة (ATP) في الخلايا حقيقية النواة؟",
-    "options": [
-      "الريبوسوم",
-      "الميتوكوندريا",
-      "جهاز جولجي",
-      "الليسوسوم"
-    ],
+    "question": "في أي سنة تم اكتشاف البنية الحلزونية المزدوجة للـ DNA؟",
+    "options": ["1951", "1953", "1955", "1957"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.80,
+    "discriminationIndex": 0.54,
+    "id": 7
   },
   {
-    "id": 3,
-    "type": "TF",
-    "question": "الـDNA يوجد غالبًا داخل النواة في الخلايا حقيقية النواة.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "type": "MCQ",
+    "question": "ما هو العنصر الذي له أعلى كهروسالبية في الجدول الدوري؟",
+    "options": ["الكلور", "الفلور", "الأكسجين", "النيتروجين"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.79,
+    "discriminationIndex": 0.53,
+    "id": 8
+  },
+  {
+    "type": "MCQ",
+    "question": "كم يبلغ عدد العظام في العمود الفقري العنقي؟",
+    "options": ["5", "7", "9", "6"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.77,
+    "discriminationIndex": 0.51,
+    "id": 9
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي الدولة التي لها أطول حدود برية مع دولة واحدة؟",
+    "options": ["الولايات المتحدة مع كندا", "روسيا مع كازاخستان", "الأرجنتين مع تشيلي", "الصين مع منغوليا"],
     "correctIndex": 0,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.81,
+    "discriminationIndex": 0.55,
+    "id": 10
   },
   {
-    "id": 4,
     "type": "MCQ",
-    "question": "أي جزيء يحمل الشفرة الوراثية لمعظم الكائنات الحية؟",
-    "options": [
-      "DNA",
-      "ATP",
-      "Glucose",
-      "Lipid"
-    ],
+    "question": "ما هو مقدار تسارع الجاذبية الأرضية بالتقريب؟",
+    "options": ["9.8 م/ث²", "10.2 م/ث²", "9.2 م/ث²", "10.8 م/ث²"],
     "correctIndex": 0,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.75,
+    "discriminationIndex": 0.50,
+    "id": 11
   },
   {
-    "id": 5,
     "type": "MCQ",
-    "question": "أي مما يلي يُعد مثالًا على نقل مادة عبر الغشاء دون استهلاك طاقة؟",
-    "options": [
-      "النقل النشط",
-      "الانتشار البسيط",
-      "البلعمة",
-      "الإخراج الخلوي"
-    ],
+    "question": "أي من العناصر التالية يُعد من أشباه الفلزات؟",
+    "options": ["الكالسيوم", "السيليكون", "الصوديوم", "الكبريت"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.82,
+    "discriminationIndex": 0.56,
+    "id": 12
   },
   {
-    "id": 6,
-    "type": "TF",
-    "question": "الأسموزية هي حركة الماء عبر غشاء شبه منفذ من تركيز ماء أعلى إلى تركيز ماء أقل.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "type": "MCQ",
+    "question": "ما هي المدينة التي استضافت أول كأس عالم لكرة القدم؟",
+    "options": ["ريو دي جانيرو", "مونتيفيديو", "بوينس آيرس", "ساو باولو"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضة",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.84,
+    "discriminationIndex": 0.57,
+    "id": 13
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد الأزواج القاعدية في جينوم الإنسان تقريباً؟",
+    "options": ["3 مليار", "2 مليار", "4 مليار", "5 مليار"],
     "correctIndex": 0,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.86,
+    "discriminationIndex": 0.59,
+    "id": 14
   },
   {
-    "id": 7,
     "type": "MCQ",
-    "question": "أي مرحلة من الانقسام المتساوي (Mitosis) تصطف فيها الكروموسومات في منتصف الخلية؟",
-    "options": [
-      "الطور التمهيدي",
-      "الطور الاستوائي",
-      "الطور الانفصالي",
-      "الطور النهائي"
-    ],
+    "question": "ما هو العنصر الوحيد السائل في درجة حرارة الغرفة من غير الفلزات؟",
+    "options": ["الزئبق", "البروم", "اليود", "الكلور"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.83,
+    "discriminationIndex": 0.56,
+    "id": 15
   },
   {
-    "id": 8,
     "type": "MCQ",
-    "question": "أي نوع من الانقسام ينتج خلايا جنسية (Gametes) بنصف عدد الكروموسومات؟",
-    "options": [
-      "الانقسام المتساوي",
-      "الانقسام المنصف",
-      "الانشطار الثنائي",
-      "الانقسام الخيطي"
-    ],
+    "question": "في أي عام وقعت معركة حطين؟",
+    "options": ["1185", "1187", "1189", "1191"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.80,
+    "discriminationIndex": 0.54,
+    "id": 16
   },
   {
-    "id": 9,
-    "type": "TF",
-    "question": "في الانقسام المنصف، يحدث العبور الوراثي (Crossing over) غالبًا في الطور التمهيدي الأول.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "type": "MCQ",
+    "question": "ما هو أقصى عمق في المحيطات؟",
+    "options": ["خندق ماريانا", "خندق تونغا", "خندق الفلبين", "خندق بورتوريكو"],
     "correctIndex": 0,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.76,
+    "discriminationIndex": 0.51,
+    "id": 17
   },
   {
-    "id": 10,
     "type": "MCQ",
-    "question": "أي قاعدة نيتروجينية ترتبط مع الأدينين (A) في الـDNA؟",
-    "options": [
-      "سيتوسين",
-      "جوانين",
-      "ثايمين",
-      "يوراسيل"
-    ],
-    "correctIndex": 2,
-    "category": "Biology"
-  },
-  {
-    "id": 11,
-    "type": "MCQ",
-    "question": "أي من التالي هو موقع حدوث عملية التمثيل الضوئي في النبات؟",
-    "options": [
-      "الميتوكوندريا",
-      "البلاستيدة الخضراء",
-      "النواة",
-      "الشبكة الإندوبلازمية"
-    ],
+    "question": "كم تبلغ سرعة الصوت في الهواء عند 20 درجة مئوية تقريباً؟",
+    "options": ["330 م/ث", "343 م/ث", "356 م/ث", "320 م/ث"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.85,
+    "discriminationIndex": 0.58,
+    "id": 18
   },
   {
-    "id": 12,
-    "type": "TF",
-    "question": "الكلوروفيل هو الصبغة الأساسية التي تمتص الضوء في عملية البناء الضوئي.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "type": "MCQ",
+    "question": "ما هي العملية التي يتم فيها تحويل النيتروجين الجوي إلى أمونيا صناعياً؟",
+    "options": ["عملية كونتاكت", "عملية هابر", "عملية سولفاي", "عملية أوستوالد"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.88,
+    "discriminationIndex": 0.61,
+    "id": 19
+  },
+  {
+    "type": "MCQ",
+    "question": "كم يبلغ قطر الشمس بالنسبة لقطر الأرض تقريباً؟",
+    "options": ["89 مرة", "109 مرة", "129 مرة", "99 مرة"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.84,
+    "discriminationIndex": 0.57,
+    "id": 20
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو اسم أول مضاد حيوي تم اكتشافه واستخدامه طبياً؟",
+    "options": ["ستربتومايسين", "البنسلين", "تتراسيكلين", "إريثرومايسين"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "طب",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.78,
+    "discriminationIndex": 0.52,
+    "id": 21
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي طبقة من الغلاف الجوي توجد طبقة الأوزون؟",
+    "options": ["التروبوسفير", "الستراتوسفير", "الميزوسفير", "الثيرموسفير"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.79,
+    "discriminationIndex": 0.53,
+    "id": 22
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الرقم الذري لعنصر اليورانيوم؟",
+    "options": ["90", "92", "94", "88"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.82,
+    "discriminationIndex": 0.55,
+    "id": 23
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أطول حرب في التاريخ؟",
+    "options": ["حرب المائة عام", "حرب الثلاثمائة وخمس وثلاثين سنة", "الحروب الصليبية", "حرب الوردتين"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.87,
+    "discriminationIndex": 0.60,
+    "id": 24
+  },
+  {
+    "type": "MCQ",
+    "question": "ما نسبة الماء المالح من إجمالي الماء على الأرض؟",
+    "options": ["94%", "97%", "91%", "99%"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.81,
+    "discriminationIndex": 0.54,
+    "id": 25
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد الفقرات في منطقة أسفل الظهر (القطنية)؟",
+    "options": ["4", "5", "6", "7"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.80,
+    "discriminationIndex": 0.54,
+    "id": 26
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الحمض النووي الذي ينقل المعلومات الوراثية من النواة إلى الريبوسوم؟",
+    "options": ["DNA", "mRNA", "tRNA", "rRNA"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.83,
+    "discriminationIndex": 0.56,
+    "id": 27
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي درجة الصفر المطلق بالسيلسيوس؟",
+    "options": ["-273.15°C", "-263.15°C", "-283.15°C", "-253.15°C"],
     "correctIndex": 0,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.84,
+    "discriminationIndex": 0.57,
+    "id": 28
   },
   {
-    "id": 13,
     "type": "MCQ",
-    "question": "ما ناتج تفاعل دورة كالفن (Calvin Cycle) بشكل رئيسي؟",
-    "options": [
-      "الأكسجين",
-      "الجلوكوز/مركبات سكرية",
-      "ATP فقط",
-      "ثاني أكسيد الكربون"
-    ],
+    "question": "أي إمبراطورية حكمت أكبر مساحة متصلة في التاريخ؟",
+    "options": ["الإمبراطورية البريطانية", "الإمبراطورية المغولية", "الإمبراطورية الرومانية", "الإمبراطورية الفارسية"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.82,
+    "discriminationIndex": 0.55,
+    "id": 29
   },
   {
-    "id": 14,
     "type": "MCQ",
-    "question": "أين يحدث التحلل السكري (Glycolysis) في الخلية؟",
-    "options": [
-      "النواة",
-      "السيتوبلازم",
-      "الميتوكوندريا",
-      "جهاز جولجي"
-    ],
+    "question": "كم يبلغ عدد العضلات المستخدمة في الابتسامة؟",
+    "options": ["15", "17", "19", "13"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.85,
+    "discriminationIndex": 0.58,
+    "id": 30
   },
   {
-    "id": 15,
-    "type": "TF",
-    "question": "التنفس الخلوي الهوائي ينتج ATP أكثر من التنفس اللاهوائي.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "type": "MCQ",
+    "question": "ما هي الوحدة الدولية لقياس شدة الإضاءة؟",
+    "options": ["اللومن", "الكانديلا", "اللوكس", "الواط"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.86,
+    "discriminationIndex": 0.59,
+    "id": 31
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي سنة تم إطلاق أول قمر صناعي سبوتنيك؟",
+    "options": ["1955", "1957", "1959", "1961"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فضاء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.79,
+    "discriminationIndex": 0.53,
+    "id": 32
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي السورة التي تُعادل ثلث القرآن؟",
+    "options": ["الفاتحة", "الإخلاص", "الكوثر", "الناس"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "دين",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.75,
+    "discriminationIndex": 0.50,
+    "id": 33
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو عدد الإلكترونات في المدار الثالث كحد أقصى؟",
+    "options": ["8", "18", "32", "2"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.84,
+    "discriminationIndex": 0.57,
+    "id": 34
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أقدم لغة مكتوبة معروفة؟",
+    "options": ["الهيروغليفية", "السومرية", "الصينية", "السنسكريتية"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.83,
+    "discriminationIndex": 0.56,
+    "id": 35
+  },
+  {
+    "type": "MCQ",
+    "question": "كم تبلغ المسافة بين الأرض والشمس تقريباً؟",
+    "options": ["130 مليون كم", "150 مليون كم", "170 مليون كم", "140 مليون كم"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.80,
+    "discriminationIndex": 0.54,
+    "id": 36
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو العصب المسؤول عن حاسة الشم؟",
+    "options": ["العصب البصري", "العصب الشمي", "العصب السمعي", "العصب الوجهي"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.78,
+    "discriminationIndex": 0.52,
+    "id": 37
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي وحدة قياس المقاومة الكهربائية؟",
+    "options": ["الفاراد", "الأوم", "الهنري", "السيمنز"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.76,
+    "discriminationIndex": 0.51,
+    "id": 38
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي قارة يقع أكبر عدد من الدول الحبيسة؟",
+    "options": ["آسيا", "أفريقيا", "أوروبا", "أمريكا الجنوبية"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.85,
+    "discriminationIndex": 0.58,
+    "id": 39
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الإنزيم المسؤول عن هضم البروتينات في المعدة؟",
+    "options": ["الأميليز", "البيبسين", "الليبيز", "التربسين"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.81,
+    "discriminationIndex": 0.55,
+    "id": 40
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد الأسنان اللبنية التي يفقدها الطفل؟",
+    "options": ["18", "20", "22", "16"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "صحة",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.77,
+    "discriminationIndex": 0.51,
+    "id": 41
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو اسم أول حاسوب إلكتروني رقمي؟",
+    "options": ["UNIVAC", "ENIAC", "EDVAC", "MARK I"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تقنية",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.86,
+    "discriminationIndex": 0.59,
+    "id": 42
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي نسبة الدم التي يضخها القلب إلى الدماغ؟",
+    "options": ["10%", "20%", "30%", "15%"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.84,
+    "discriminationIndex": 0.57,
+    "id": 43
+  },
+  {
+    "type": "MCQ",
+    "question": "أي من هذه العناصر له أكبر نصف قطر ذري؟",
+    "options": ["الصوديوم", "السيزيوم", "البوتاسيوم", "الروبيديوم"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.87,
+    "discriminationIndex": 0.60,
+    "id": 44
+  },
+  {
+    "type": "MCQ",
+    "question": "كم يبلغ طول الأمعاء الدقيقة تقريباً؟",
+    "options": ["4 أمتار", "6 أمتار", "8 أمتار", "5 أمتار"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.82,
+    "discriminationIndex": 0.55,
+    "id": 45
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أقرب نجم للأرض بعد الشمس؟",
+    "options": ["نجم بارنارد", "بروكسيما سنتوري", "سيريوس", "ألفا سنتوري أ"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.83,
+    "discriminationIndex": 0.56,
+    "id": 46
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي الصيغة الكيميائية لحمض الكبريتيك؟",
+    "options": ["HCl", "H2SO4", "HNO3", "H3PO4"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.79,
+    "discriminationIndex": 0.53,
+    "id": 47
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد غرف القلب في الأسماك؟",
+    "options": ["واحدة", "اثنتان", "ثلاث", "أربع"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.85,
+    "discriminationIndex": 0.58,
+    "id": 48
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي السرعة القصوى التي يمكن أن يصل إليها الصقر الشاهين؟",
+    "options": ["300 كم/س", "390 كم/س", "250 كم/س", "350 كم/س"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "حيوانات",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.86,
+    "discriminationIndex": 0.59,
+    "id": 49
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي سنة سقطت القسطنطينية على يد العثمانيين؟",
+    "options": ["1451", "1453", "1455", "1457"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.80,
+    "discriminationIndex": 0.54,
+    "id": 50
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أكبر خلية في جسم الإنسان؟",
+    "options": ["خلية الكبد", "البويضة", "الخلية العصبية", "خلية العضلة"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.81,
+    "discriminationIndex": 0.55,
+    "id": 51
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي قيمة ثابت بلانك تقريباً؟",
+    "options": ["6.626 × 10⁻³⁴ J·s", "6.626 × 10⁻²⁴ J·s", "6.626 × 10⁻⁴⁴ J·s", "6.626 × 10⁻¹⁴ J·s"],
     "correctIndex": 0,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.89,
+    "discriminationIndex": 0.62,
+    "id": 52
   },
   {
-    "id": 16,
     "type": "MCQ",
-    "question": "ما الجزء الذي يربط العظمة بالعضلة؟",
-    "options": [
-      "الغضروف",
-      "الوتر",
-      "الرباط",
-      "نخاع العظم"
-    ],
+    "question": "كم يبلغ عمر الكون تقريباً؟",
+    "options": ["11.8 مليار سنة", "13.8 مليار سنة", "15.8 مليار سنة", "12.8 مليار سنة"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.82,
+    "discriminationIndex": 0.55,
+    "id": 53
   },
   {
-    "id": 17,
     "type": "MCQ",
-    "question": "أي من التالي يُعد من مكونات جهاز المناعة غير النوعي (الفطري)؟",
-    "options": [
-      "الأجسام المضادة",
-      "الخلايا التائية",
-      "الجلد",
-      "خلايا الذاكرة"
-    ],
-    "correctIndex": 2,
-    "category": "Biology"
+    "question": "ما هو الاسم العلمي للإنسان؟",
+    "options": ["Homo erectus", "Homo sapiens", "Homo habilis", "Homo neanderthalensis"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.78,
+    "discriminationIndex": 0.52,
+    "id": 54
   },
   {
-    "id": 18,
-    "type": "TF",
-    "question": "الالتهاب (Inflammation) يُعد استجابة دفاعية أولية ضمن المناعة الفطرية.",
-    "options": [
-      "True",
-      "False"
-    ],
+    "type": "MCQ",
+    "question": "ما هو العدد الكتلي لنظير الكربون-14؟",
+    "options": ["12", "14", "16", "13"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.80,
+    "discriminationIndex": 0.54,
+    "id": 55
+  },
+  {
+    "type": "MCQ",
+    "question": "أي من هذه الدول ليست من دول البلطيق؟",
+    "options": ["إستونيا", "بيلاروسيا", "لاتفيا", "ليتوانيا"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.84,
+    "discriminationIndex": 0.57,
+    "id": 56
+  },
+  {
+    "type": "MCQ",
+    "question": "كم يبلغ الضغط الجوي عند مستوى سطح البحر؟",
+    "options": ["101.3 كيلوباسكال", "98.3 كيلوباسكال", "104.3 كيلوباسكال", "95.3 كيلوباسكال"],
     "correctIndex": 0,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.83,
+    "discriminationIndex": 0.56,
+    "id": 57
   },
   {
-    "id": 19,
     "type": "MCQ",
-    "question": "أي من التالي يصف بدقة وظيفة الإنزيمات؟",
-    "options": [
-      "تزيد طاقة التنشيط",
-      "تقلل طاقة التنشيط",
-      "تُستهلك أثناء التفاعل",
-      "تمنع حدوث التفاعل"
-    ],
+    "question": "ما هي العملية التي تحول الجلوكوز إلى طاقة بدون أكسجين؟",
+    "options": ["التنفس الهوائي", "التخمر", "البناء الضوئي", "التحلل السكري"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.81,
+    "discriminationIndex": 0.55,
+    "id": 58
   },
   {
-    "id": 20,
     "type": "MCQ",
-    "question": "ما العامل الذي يؤثر عادةً على نشاط الإنزيمات بشكل كبير؟",
-    "options": [
-      "الضغط الجوي فقط",
-      "درجة الحرارة ودرجة الحموضة (pH)",
-      "لون المحلول",
-      "شكل الوعاء"
-    ],
+    "question": "كم عدد أزواج الأعصاب الشوكية في الإنسان؟",
+    "options": ["29", "31", "33", "27"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.86,
+    "discriminationIndex": 0.59,
+    "id": 59
   },
   {
-    "id": 21,
-    "type": "TF",
-    "question": "قد يؤدي تغير شديد في pH إلى تمسخ (Denaturation) بعض البروتينات.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "Biology"
-  },
-  {
-    "id": 22,
     "type": "MCQ",
-    "question": "أي من التالي يُعد سكرًا أحاديًا (Monosaccharide)؟",
-    "options": [
-      "السكروز",
-      "اللاكتوز",
-      "الجلوكوز",
-      "النشا"
-    ],
-    "correctIndex": 2,
-    "category": "Biology"
-  },
-  {
-    "id": 23,
-    "type": "MCQ",
-    "question": "أي من التالي يُعد مثالًا على سكر مُعقّد (Polysaccharide) في النباتات؟",
-    "options": [
-      "الجليكوجين",
-      "السليلوز",
-      "الفركتوز",
-      "المالتوز"
-    ],
+    "question": "ما هو القانون الذي ينص على أن حجم الغاز يتناسب عكسياً مع الضغط؟",
+    "options": ["قانون شارل", "قانون بويل", "قانون أفوغادرو", "قانون غاي لوساك"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.82,
+    "discriminationIndex": 0.55,
+    "id": 60
   },
   {
-    "id": 24,
-    "type": "TF",
-    "question": "الجليكوجين هو شكل تخزين الجلوكوز في الحيوانات.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "Biology"
-  },
-  {
-    "id": 25,
     "type": "MCQ",
-    "question": "أي من التالي يُعد مثالًا على الحمض الأميني؟",
-    "options": [
-      "الدهون الثلاثية",
-      "الألانين",
-      "السكروز",
-      "الكوليسترول"
-    ],
+    "question": "في أي سنة تم توقيع معاهدة وستفاليا؟",
+    "options": ["1645", "1648", "1651", "1654"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.88,
+    "discriminationIndex": 0.61,
+    "id": 61
   },
   {
-    "id": 26,
     "type": "MCQ",
-    "question": "ما الجزيء الذي يُعد 'عملة الطاقة' في الخلية؟",
-    "options": [
-      "DNA",
-      "ATP",
-      "RNA",
-      "Protein"
-    ],
+    "question": "ما هي الغدة المسؤولة عن تنظيم عملية الأيض؟",
+    "options": ["النخامية", "الدرقية", "الكظرية", "البنكرياس"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.79,
+    "discriminationIndex": 0.53,
+    "id": 62
   },
   {
-    "id": 27,
-    "type": "TF",
-    "question": "الريبوسومات هي الموقع الأساسي لتخليق البروتين (Protein synthesis).",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "Biology"
-  },
-  {
-    "id": 28,
     "type": "MCQ",
-    "question": "أي نوع من الـRNA ينقل الأحماض الأمينية إلى الريبوسوم أثناء الترجمة؟",
-    "options": [
-      "mRNA",
-      "tRNA",
-      "rRNA",
-      "snRNA"
-    ],
+    "question": "كم يبلغ نصف عمر الكربون-14؟",
+    "options": ["4,730 سنة", "5,730 سنة", "6,730 سنة", "7,730 سنة"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.87,
+    "discriminationIndex": 0.60,
+    "id": 63
   },
   {
-    "id": 29,
     "type": "MCQ",
-    "question": "أين تتم عملية نسخ الـDNA إلى mRNA (Transcription) في الخلايا حقيقية النواة؟",
-    "options": [
-      "السيتوبلازم",
-      "الميتوكوندريا",
-      "النواة",
-      "الريبوسوم"
-    ],
-    "correctIndex": 2,
-    "category": "Biology"
-  },
-  {
-    "id": 30,
-    "type": "TF",
-    "question": "الكودون (Codon) يتكون من ثلاث قواعد نيتروجينية على mRNA.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "Biology"
-  },
-  {
-    "id": 31,
-    "type": "MCQ",
-    "question": "من هو العالم الذي اقترح قوانين الوراثة الأساسية عبر تجاربه على نبات البازلاء؟",
-    "options": [
-      "داروين",
-      "مندل",
-      "واتسون",
-      "باستور"
-    ],
+    "question": "ما هو أكثر المعادن وفرة في جسم الإنسان؟",
+    "options": ["الحديد", "الكالسيوم", "البوتاسيوم", "الفوسفور"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "صحة",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.80,
+    "discriminationIndex": 0.54,
+    "id": 64
   },
   {
-    "id": 32,
     "type": "MCQ",
-    "question": "إذا كان الفرد يحمل أليلين مختلفين لصفة ما، فإنه يُوصف بأنه:",
-    "options": [
-      "متماثل الزيجوت",
-      "غير متماثل الزيجوت",
-      "متنحٍ نقي",
-      "سائد نقي"
-    ],
+    "question": "أي من هذه الكواكب له أقصر يوم؟",
+    "options": ["الأرض", "المشتري", "زحل", "المريخ"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.85,
+    "discriminationIndex": 0.58,
+    "id": 65
   },
   {
-    "id": 33,
-    "type": "TF",
-    "question": "الصفة المتنحية تظهر في النمط الظاهري فقط عند غياب الأليل السائد.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "Biology"
-  },
-  {
-    "id": 34,
     "type": "MCQ",
-    "question": "ما المقصود بالطفرات (Mutations)؟",
-    "options": [
-      "تغيرات دائمة في تسلسل الـDNA",
-      "زيادة فورية في ATP",
-      "انقسام الخلية",
-      "هضم البروتين"
-    ],
-    "correctIndex": 0,
-    "category": "Biology"
-  },
-  {
-    "id": 35,
-    "type": "MCQ",
-    "question": "أي من التالي يُعد مثالًا على الانتخاب الطبيعي؟",
-    "options": [
-      "اختيار المزارع لأكبر الثمار",
-      "بقاء الأفراد الأكثر تكيفًا وتكاثرهم",
-      "تزاوج الأقارب دائمًا",
-      "تغير الطقس اليومي"
-    ],
+    "question": "ما هي درجة حرارة سطح الشمس تقريباً؟",
+    "options": ["4,500°C", "5,500°C", "6,500°C", "7,500°C"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.84,
+    "discriminationIndex": 0.57,
+    "id": 66
   },
   {
-    "id": 36,
-    "type": "TF",
-    "question": "التنوع الوراثي داخل الجماعة الحيوية يزيد فرصة التكيف مع التغيرات البيئية.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "Biology"
-  },
-  {
-    "id": 37,
     "type": "MCQ",
-    "question": "أي مستوى من التنظيم الحيوي يأتي مباشرة بعد الخلية؟",
-    "options": [
-      "العضو",
-      "النسيج",
-      "الجهاز",
-      "الكائن الحي"
-    ],
+    "question": "كم عدد الأزواج القحفية (أعصاب الجمجمة) في الإنسان؟",
+    "options": ["10", "12", "14", "8"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.81,
+    "discriminationIndex": 0.55,
+    "id": 67
   },
   {
-    "id": 38,
     "type": "MCQ",
-    "question": "أي من التالي يُعد ناقلًا رئيسيًا للأكسجين في دم الإنسان؟",
-    "options": [
-      "الهيموغلوبين",
-      "الأنسولين",
-      "الكيراتين",
-      "الألبومين"
-    ],
-    "correctIndex": 0,
-    "category": "Biology"
-  },
-  {
-    "id": 39,
-    "type": "TF",
-    "question": "خلايا الدم الحمراء في الإنسان لا تحتوي على نواة عند النضج.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "Biology"
-  },
-  {
-    "id": 40,
-    "type": "MCQ",
-    "question": "أي عضو يُعد الموقع الأساسي لتبادل الغازات في الجهاز التنفسي؟",
-    "options": [
-      "القصبة الهوائية",
-      "الحويصلات الهوائية",
-      "الحنجرة",
-      "الحجاب الحاجز"
-    ],
+    "question": "ما هو العنصر الذي يُستخدم في تعقيم مياه الشرب؟",
+    "options": ["البروم", "الكلور", "الفلور", "اليود"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.77,
+    "discriminationIndex": 0.51,
+    "id": 68
   },
   {
-    "id": 41,
     "type": "MCQ",
-    "question": "أي جزء من الكلية يحدث فيه الترشيح الأولي للدم؟",
-    "options": [
-      "الأنبوب الجامع",
-      "محفظة بومان",
-      "عروة هنلي",
-      "الحالب"
-    ],
+    "question": "في أي سنة تم اكتشاف أشعة X؟",
+    "options": ["1893", "1895", "1897", "1899"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.83,
+    "discriminationIndex": 0.56,
+    "id": 69
   },
   {
-    "id": 42,
-    "type": "TF",
-    "question": "النيفرون هو الوحدة الوظيفية الأساسية في الكلية.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "Biology"
-  },
-  {
-    "id": 43,
     "type": "MCQ",
-    "question": "أي هرمون ينظم مستوى السكر في الدم بشكل أساسي عن طريق خفضه؟",
-    "options": [
-      "الأدرينالين",
-      "الإنسولين",
-      "الجلوكاجون",
-      "الثيروكسين"
-    ],
+    "question": "ما هي نسبة الأكسجين في الهواء الجوي؟",
+    "options": ["18%", "21%", "24%", "27%"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.76,
+    "discriminationIndex": 0.51,
+    "id": 70
   },
   {
-    "id": 44,
     "type": "MCQ",
-    "question": "أي من التالي يُعد من مكونات الجهاز العصبي المركزي؟",
-    "options": [
-      "الأعصاب الطرفية",
-      "الدماغ والحبل الشوكي",
-      "العقد العصبية فقط",
-      "الأوتار"
-    ],
+    "question": "ما هو أطول عظم في جسم الإنسان؟",
+    "options": ["عظم العضد", "عظم الفخذ", "عظم الساق", "عظم الشظية"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.75,
+    "discriminationIndex": 0.50,
+    "id": 71
   },
   {
-    "id": 45,
-    "type": "TF",
-    "question": "المشبك العصبي (Synapse) هو منطقة اتصال بين عصبونين أو بين عصبون وعضلة.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "Biology"
-  },
-  {
-    "id": 46,
     "type": "MCQ",
-    "question": "في السلاسل الغذائية، الكائنات المنتِجة (Producers) غالبًا تكون:",
-    "options": [
-      "حيوانات لاحمة",
-      "نباتات/طحالب تقوم بالبناء الضوئي",
-      "فطريات محللة فقط",
-      "مفترسات عليا"
-    ],
+    "question": "كم تبلغ سعة الرئتين البشرية تقريباً؟",
+    "options": ["4 لترات", "6 لترات", "8 لترات", "5 لترات"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.82,
+    "discriminationIndex": 0.55,
+    "id": 72
   },
   {
-    "id": 47,
     "type": "MCQ",
-    "question": "أي مما يلي يُعد مثالًا على علاقة تكافل (Mutualism)؟",
-    "options": [
-      "القراد مع الكلب",
-      "الفطريات مع جذور النباتات (الميكورايزا)",
-      "الأسد مع الغزال",
-      "دودة شريطية مع الإنسان"
-    ],
+    "question": "ما هي العاصمة السابقة لنيجيريا قبل أبوجا؟",
+    "options": ["كانو", "لاغوس", "إبادان", "بورت هاركورت"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.84,
+    "discriminationIndex": 0.57,
+    "id": 73
   },
   {
-    "id": 48,
-    "type": "TF",
-    "question": "المحللات (Decomposers) تساهم في إعادة تدوير العناصر الغذائية في النظام البيئي.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctIndex": 0,
-    "category": "Biology"
-  },
-  {
-    "id": 49,
     "type": "MCQ",
-    "question": "أي من التالي يُعد مثالًا على عامل حيوي (Biotic factor) في البيئة؟",
-    "options": [
-      "درجة الحرارة",
-      "الضوء",
-      "البكتيريا",
-      "الرطوبة"
-    ],
-    "correctIndex": 2,
-    "category": "Biology"
+    "question": "ما هو مقياس ريختر الأقصى نظرياً؟",
+    "options": ["9", "10", "12", "لا يوجد حد أقصى"],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "جيولوجيا",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.88,
+    "discriminationIndex": 0.61,
+    "id": 74
   },
   {
-    "id": 50,
     "type": "MCQ",
-    "question": "ما المقصود بالتنوع الحيوي (Biodiversity)؟",
-    "options": [
-      "عدد المعادن في التربة",
-      "تنوع الكائنات الحية والأنظمة البيئية",
-      "تغير الفصول فقط",
-      "زيادة ثاني أكسيد الكربون فقط"
-    ],
+    "question": "كم عدد الصمامات في قلب الإنسان؟",
+    "options": ["2", "4", "6", "3"],
     "correctIndex": 1,
-    "category": "Biology"
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.79,
+    "discriminationIndex": 0.53,
+    "id": 75
   },
   {
-    "id": 51,
     "type": "MCQ",
-    "question": "كائن حقيقي النواة",
-    "options": [
-      "فايروس",
-      "الديدان",
-      "بكتريا",
-      "لا احد"
-    ],
-    "correctIndex": 2
+    "question": "ما هي الدولة الأكثر كثافة سكانية في العالم؟",
+    "options": ["سنغافورة", "موناكو", "البحرين", "مالطا"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.86,
+    "discriminationIndex": 0.59,
+    "id": 76
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الطول الموجي للضوء الأحمر تقريباً؟",
+    "options": ["400 نانومتر", "700 نانومتر", "550 نانومتر", "600 نانومتر"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.85,
+    "discriminationIndex": 0.58,
+    "id": 77
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي سنة حدثت الثورة الصناعية الأولى؟",
+    "options": ["1750", "1760", "1770", "1780"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.83,
+    "discriminationIndex": 0.56,
+    "id": 78
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أثقل عنصر يمكن إنتاجه طبيعياً في النجوم؟",
+    "options": ["الذهب", "الحديد", "اليورانيوم", "الرصاص"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.87,
+    "discriminationIndex": 0.60,
+    "id": 79
+  },
+  {
+    "type": "MCQ",
+    "question": "كم يبلغ متوسط عمر كريات الدم الحمراء؟",
+    "options": ["90 يوم", "120 يوم", "150 يوم", "60 يوم"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.81,
+    "discriminationIndex": 0.55,
+    "id": 80
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي العاصمة الأعلى ارتفاعاً في العالم؟",
+    "options": ["كيتو", "لاباز", "بوغوتا", "أديس أبابا"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.84,
+    "discriminationIndex": 0.57,
+    "id": 81
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي نسبة المياه العذبة من إجمالي المياه على الأرض؟",
+    "options": ["1%", "3%", "5%", "7%"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.80,
+    "discriminationIndex": 0.54,
+    "id": 82
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو العضو الذي يُنتج الإنسولين؟",
+    "options": ["الكبد", "البنكرياس", "الكلى", "الطحال"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.76,
+    "discriminationIndex": 0.51,
+    "id": 83
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد العظام في اليد الواحدة؟",
+    "options": ["25", "27", "29", "23"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.85,
+    "discriminationIndex": 0.58,
+    "id": 84
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي سنة تم اختراع المحرك البخاري العملي؟",
+    "options": ["1765", "1769", "1773", "1777"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.86,
+    "discriminationIndex": 0.59,
+    "id": 85
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي الوحدة الدولية لقياس الشحنة الكهربائية؟",
+    "options": ["الفولت", "الكولوم", "الأمبير", "الأوم"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.82,
+    "discriminationIndex": 0.55,
+    "id": 86
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أصغر كوكب قزم معترف به؟",
+    "options": ["بلوتو", "سيريس", "إيريس", "هاوميا"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.87,
+    "discriminationIndex": 0.60,
+    "id": 87
+  },
+  {
+    "type": "MCQ",
+    "question": "كم يبلغ عدد فقرات منطقة الصدر (الفقرات الصدرية)؟",
+    "options": ["10", "12", "14", "8"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.81,
+    "discriminationIndex": 0.55,
+    "id": 88
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي البلورة التي تُستخدم في الساعات الكوارتز؟",
+    "options": ["الألماس", "الكوارتز", "الياقوت", "الزمرد"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تقنية",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.78,
+    "discriminationIndex": 0.52,
+    "id": 89
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي سنة تم إعلان استقلال الولايات المتحدة؟",
+    "options": ["1774", "1776", "1778", "1780"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.77,
+    "discriminationIndex": 0.51,
+    "id": 90
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أكبر قمر في المجموعة الشمسية؟",
+    "options": ["تيتان", "غانيميد", "كاليستو", "آيو"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.84,
+    "discriminationIndex": 0.57,
+    "id": 91
+  },
+  {
+    "type": "MCQ",
+    "question": "كم تبلغ درجة الحرارة في مركز الأرض تقريباً؟",
+    "options": ["4,000°C", "6,000°C", "8,000°C", "5,000°C"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جيولوجيا",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.85,
+    "discriminationIndex": 0.58,
+    "id": 92
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الرقم الهيدروجيني pH للدم الطبيعي؟",
+    "options": ["7.0", "7.4", "7.8", "6.8"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.83,
+    "discriminationIndex": 0.56,
+    "id": 93
+  },
+  {
+    "type": "MCQ",
+    "question": "أي من هذه اللغات ليست من عائلة اللغات الهندو-أوروبية؟",
+    "options": ["الألمانية", "الفنلندية", "الفارسية", "الهندية"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "لغات",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.86,
+    "discriminationIndex": 0.59,
+    "id": 94
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أقل درجة حرارة سُجلت على سطح الأرض؟",
+    "options": ["-79.8°C", "-89.2°C", "-99.6°C", "-69.4°C"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.88,
+    "discriminationIndex": 0.61,
+    "id": 95
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد العظام في القفص الصدري؟",
+    "options": ["22", "24", "26", "20"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.84,
+    "discriminationIndex": 0.57,
+    "id": 96
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو اسم المجرة الأقرب لمجرتنا درب التبانة؟",
+    "options": ["مجرة المرأة المسلسلة", "مجرة ماجلان الكبرى", "مجرة المثلث", "مجرة القوس القزمة"],
+    "correctIndex": 3,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.89,
+    "discriminationIndex": 0.62,
+    "id": 97
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي الصيغة الكيميائية للجلوكوز؟",
+    "options": ["C6H10O5", "C6H12O6", "C6H14O7", "C6H8O4"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.82,
+    "discriminationIndex": 0.55,
+    "id": 98
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي سنة انتهت الحرب العالمية الثانية في أوروبا؟",
+    "options": ["1943", "1945", "1947", "1944"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.76,
+    "discriminationIndex": 0.51,
+    "id": 99
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي الوحدة المستخدمة لقياس التردد؟",
+    "options": ["الثانية", "الهرتز", "الواط", "الديسيبل"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.79,
+    "discriminationIndex": 0.53,
+    "id": 100
+  },
+  {
+    "type": "MCQ",
+    "question": "كم يبلغ عدد الجينات في الإنسان تقريباً؟",
+    "options": ["15,000", "20,000", "25,000", "30,000"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.85,
+    "discriminationIndex": 0.58,
+    "id": 101
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أعمق نقطة في المحيط الهادئ؟",
+    "options": ["خندق تونغا", "تشالنجر ديب", "خندق الفلبين", "خندق كيرماديك"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.87,
+    "discriminationIndex": 0.60,
+    "id": 102
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو العنصر الذي يُستخدم في صناعة أشباه الموصلات؟",
+    "options": ["الجرمانيوم", "السيليكون", "الغاليوم", "الأنتيمون"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تقنية",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.80,
+    "discriminationIndex": 0.54,
+    "id": 103
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي سنة تم اكتشاف الأنسولين؟",
+    "options": ["1919", "1921", "1923", "1925"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "طب",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.86,
+    "discriminationIndex": 0.59,
+    "id": 104
+  },
+  {
+    "type": "MCQ",
+    "question": "كم تبلغ سرعة دوران الأرض حول محورها عند خط الاستواء؟",
+    "options": ["1,470 كم/س", "1,670 كم/س", "1,870 كم/س", "1,270 كم/س"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.88,
+    "discriminationIndex": 0.61,
+    "id": 105
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الجزء من الدماغ المسؤول عن التوازن؟",
+    "options": ["المخ", "المخيخ", "جذع الدماغ", "المهاد"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.81,
+    "discriminationIndex": 0.55,
+    "id": 106
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي الدولة التي لها أكبر احتياطي نفطي مؤكد؟",
+    "options": ["السعودية", "فنزويلا", "إيران", "العراق"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "اقتصاد",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.84,
+    "discriminationIndex": 0.57,
+    "id": 107
+  },
+  {
+    "type": "MCQ",
+    "question": "كم يبلغ عدد الكروموسومات في خلية جنسية بشرية؟",
+    "options": ["21", "23", "25", "27"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.82,
+    "discriminationIndex": 0.55,
+    "id": 108
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي النظرية التي تفسر تمدد الكون؟",
+    "options": ["النظرية النسبية", "نظرية الانفجار العظيم", "نظرية الأوتار", "نظرية الكم"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.78,
+    "discriminationIndex": 0.52,
+    "id": 109
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي سنة تأسست منظمة أوبك؟",
+    "options": ["1958", "1960", "1962", "1964"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "اقتصاد",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.85,
+    "discriminationIndex": 0.58,
+    "id": 110
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أكثر العناصر شيوعاً في جسم الإنسان من حيث الكتلة؟",
+    "options": ["الكربون", "الأكسجين", "الهيدروجين", "النيتروجين"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.83,
+    "discriminationIndex": 0.56,
+    "id": 111
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد الأضلاع الحقيقية في جسم الإنسان؟",
+    "options": ["12", "14", "10", "16"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.86,
+    "discriminationIndex": 0.59,
+    "id": 112
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي المادة التي تُعطي الدم لونه الأحمر؟",
+    "options": ["البلازما", "الهيموغلوبين", "الصفائح الدموية", "كريات الدم البيضاء"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.77,
+    "discriminationIndex": 0.51,
+    "id": 113
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي سنة حصلت ماري كوري على جائزة نوبل الثانية؟",
+    "options": ["1909", "1911", "1913", "1915"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.88,
+    "discriminationIndex": 0.61,
+    "id": 114
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو البعد التقريبي لمجرة درب التبانة؟",
+    "options": ["80,000 سنة ضوئية", "100,000 سنة ضوئية", "120,000 سنة ضوئية", "140,000 سنة ضوئية"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.87,
+    "discriminationIndex": 0.60,
+    "id": 115
+  },
+  {
+    "type": "MCQ",
+    "question": "كم يبلغ وزن الدماغ البشري تقريباً؟",
+    "options": ["1.2 كغ", "1.4 كغ", "1.6 كغ", "1.0 كغ"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.82,
+    "discriminationIndex": 0.55,
+    "id": 116
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أول دولة استخدمت العملة الورقية؟",
+    "options": ["الهند", "الصين", "مصر", "روما"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.81,
+    "discriminationIndex": 0.55,
+    "id": 117
+  },
+  {
+    "type": "MCQ",
+    "question": "كم تبلغ نسبة البلازما في الدم؟",
+    "options": ["45%", "55%", "65%", "35%"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.84,
+    "discriminationIndex": 0.57,
+    "id": 118
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو عدد أفوغادرو تقريباً؟",
+    "options": ["6.022 × 10²¹", "6.022 × 10²³", "6.022 × 10²⁵", "6.022 × 10¹⁹"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.86,
+    "discriminationIndex": 0.59,
+    "id": 119
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي سنة تم اختراع شبكة الإنترنت العالمية WWW؟",
+    "options": ["1987", "1989", "1991", "1993"],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تقنية",
+    "difficultyLevel": "صعب جداً",
+    "difficultyIndex": 0.83,
+    "discriminationIndex": 0.56,
+    "id": 120
   }
 ]
