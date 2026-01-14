@@ -1,739 +1,24 @@
-
 [
   {
     "type": "MCQ",
-    "question": "أي مما يلي يُستخدم للتواصل الفوري بالرسائل؟",
+    "question": "ما هو الغاز الذي يشكل النسبة الأكبر في الغلاف الجوي للأرض؟",
     "options": [
-      "سيرفر طباعة",
-      "نظام ملفات",
-      "تطبيق مراسلة",
-      "لغة ترميز"
+      "الأكسجين",
+      "النيتروجين",
+      "ثاني أكسيد الكربون",
+      "الأرجون"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
+    "topic": "علوم",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.72,
+    "discriminationIndex": 0.45,
     "id": 1
   },
   {
     "type": "MCQ",
-    "question": "ما هي عاصمة ماليزيا؟",
-    "options": [
-      "عمّان",
-      "باريس",
-      "كوالالمبور",
-      "أوتاوا"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 2
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الحرب التي استمرت من 1939 إلى 1945؟",
-    "options": [
-      "الحرب العالمية الأولى",
-      "الحرب الباردة",
-      "حرب فيتنام",
-      "الحرب العالمية الثانية"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 3
-  },
-  {
-    "type": "MCQ",
-    "question": "أي جزيرة تُعد الأكبر في العالم؟",
-    "options": [
-      "مدغشقر",
-      "غرينلاند",
-      "أيسلندا",
-      "سريلانكا"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 4
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الجهاز الذي يحدد الاتجاهات؟",
-    "options": [
-      "البوصلة",
-      "العداد",
-      "المفتاح",
-      "المصباح"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 5
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم فن التقاط الصور بالكاميرا؟",
-    "options": [
-      "التصوير الفوتوغرافي",
-      "التلحين",
-      "النقش",
-      "الخطابة"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 6
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة الصين؟",
-    "options": [
-      "القاهرة",
-      "سيول",
-      "الرباط",
-      "بكين"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 7
-  },
-  {
-    "type": "MCQ",
-    "question": "أي حضارة بنت الأهرامات في الجيزة؟",
-    "options": [
-      "الحضارة الهندية",
-      "الحضارة السومرية",
-      "الحضارة المصرية القديمة",
-      "الحضارة الصينية"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 8
-  },
-  {
-    "type": "MCQ",
-    "question": "من اخترع المطبعة الحديثة في أوروبا؟",
-    "options": [
-      "يوهانس غوتنبرغ",
-      "ألبرت أينشتاين",
-      "إسحاق نيوتن",
-      "توماس إديسون"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 9
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هو الرمز الكيميائي للأكسجين؟",
-    "options": [
-      "O",
-      "Ox",
-      "Ok",
-      "Og"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 10
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم قطعة موسيقية تؤدى منفردة عادةً؟",
-    "options": [
-      "ديو",
-      "كورال",
-      "سولو",
-      "أوركسترا"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 11
-  },
-  {
-    "type": "MCQ",
-    "question": "أي آلة موسيقية تُعد من آلات المفاتيح؟",
-    "options": [
-      "العود",
-      "البيانو",
-      "الناي",
-      "الكمان"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 12
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة كندا؟",
-    "options": [
-      "نيودلهي",
-      "طرابلس",
-      "أديس أبابا",
-      "أوتاوا"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 13
-  },
-  {
-    "type": "MCQ",
-    "question": "أي مدرسة فنية ارتبطت بسلفادور دالي؟",
-    "options": [
-      "الكلاسيكية",
-      "السريالية",
-      "الانطباعية",
-      "الواقعية"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 14
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الجهاز الذي يقيس الزلازل؟",
-    "options": [
-      "الأومتر",
-      "البارومتر",
-      "السيزمومتر",
-      "الهيجرومتر"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 15
-  },
-  {
-    "type": "MCQ",
-    "question": "في كرة السلة، كم لاعبًا لكل فريق داخل الملعب؟",
-    "options": [
-      "6",
-      "7",
-      "5",
-      "11"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 16
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم أقصر دولة مساحةً في العالم؟",
-    "options": [
-      "موناكو",
-      "الفاتيكان",
-      "البحرين",
-      "مالطا"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 17
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هو أعلى جبل في العالم؟",
-    "options": [
-      "جبل مونت بلانك",
-      "جبل كيليمنجارو",
-      "جبل أكونكاجوا",
-      "جبل إيفرست"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 18
-  },
-  {
-    "type": "MCQ",
-    "question": "أي رياضة تُلعب بكرة صغيرة وعصي على عشب وتُسمى Golf؟",
-    "options": [
-      "الكريكيت",
-      "الهوكي",
-      "الرجبي",
-      "الغولف"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 19
-  },
-  {
-    "type": "MCQ",
-    "question": "ما المقصود بإعادة التدوير؟",
-    "options": [
-      "دفن النفايات",
-      "إعادة استخدام المواد لصنع منتجات جديدة",
-      "حرق النفايات",
-      "رمي النفايات في البحر"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 20
-  },
-  {
-    "type": "MCQ",
-    "question": "من مؤلف رواية '1984'؟",
-    "options": [
-      "ألدوس هكسلي",
-      "هرمان هِسّه",
-      "إرنست همنغواي",
-      "جورج أورويل"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 21
-  },
-  {
-    "type": "MCQ",
-    "question": "في كرة الطائرة، كم عدد اللاعبين في الملعب لكل فريق؟",
-    "options": [
-      "7",
-      "6",
-      "5",
-      "11"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 22
-  },
-  {
-    "type": "MCQ",
-    "question": "في أي عام انتهت الحرب العالمية الثانية؟",
-    "options": [
-      "1939",
-      "1963",
-      "1918",
-      "1945"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 23
-  },
-  {
-    "type": "MCQ",
-    "question": "أي بروتوكول يُستخدم عادةً لنقل الملفات؟",
-    "options": [
-      "TLS",
-      "UDP",
-      "FTP",
-      "IMAP"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 24
-  },
-  {
-    "type": "MCQ",
-    "question": "ما المقصود بـWi‑Fi؟",
-    "options": [
-      "شاشة عالية الدقة",
-      "نوع من المعالجات",
-      "برنامج محاسبة",
-      "اتصال لاسلكي بالشبكات"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 25
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم المجرة التي تنتمي إليها الأرض؟",
-    "options": [
-      "أندروميدا",
-      "العقرب",
-      "درب التبانة",
-      "المثلث"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 26
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم طريق التجارة القديم الذي ربط الشرق بالغرب؟",
-    "options": [
-      "طريق الحرير",
-      "طريق التوابل",
-      "طريق الذهب",
-      "طريق الكهرمان"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 27
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم العملة الرسمية في الاتحاد الأوروبي؟",
-    "options": [
-      "اليورو",
-      "الين",
-      "الدولار",
-      "الجنيه"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 28
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الشلالات الشهيرة على حدود كندا والولايات المتحدة؟",
-    "options": [
-      "شلالات إيغوازو",
-      "شلالات فيكتوريا",
-      "شلالات أنجل",
-      "شلالات نياغارا"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 29
-  },
-  {
-    "type": "MCQ",
-    "question": "أي بروتوكول يُستخدم عادةً لإرسال البريد الإلكتروني؟",
-    "options": [
-      "SSH",
-      "SMTP",
-      "FTP",
-      "NTP"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 30
-  },
-  {
-    "type": "MCQ",
-    "question": "أي مما يلي يُعد من الإشارات المرورية؟",
-    "options": [
-      "إشارة قف",
-      "شعار شركة",
-      "علامة تعجب",
-      "رمز Wi‑Fi"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 31
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الخط العربي الذي يتميز بالبساطة والوضوح ويستخدم بكثرة في الكتب؟",
-    "options": [
-      "خط الديواني",
-      "الخط الكوفي",
-      "خط الثلث",
-      "خط النسخ"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 32
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة الإمارات؟",
-    "options": [
-      "أنقرة",
-      "هانوي",
-      "أثينا",
-      "أبو ظبي"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 33
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة بلجيكا؟",
-    "options": [
-      "بروكسل",
-      "واشنطن العاصمة",
-      "مدريد",
-      "بودابست"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 34
-  },
-  {
-    "type": "MCQ",
-    "question": "ما نوع الأشعة المستخدمة غالبًا لتصوير العظام طبيًا؟",
-    "options": [
-      "أشعة غاما",
-      "الأشعة تحت الحمراء",
-      "الأشعة فوق البنفسجية",
-      "الأشعة السينية (X)"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 35
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة نيجيريا؟",
-    "options": [
-      "أوتاوا",
-      "سيول",
-      "أبوجا",
-      "الدوحة"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 36
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم اللغة الرسمية في البرازيل؟",
-    "options": [
-      "الفرنسية",
-      "البرتغالية",
-      "الإسبانية",
-      "الإنجليزية"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 37
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة إيرلندا؟",
-    "options": [
-      "إسلام آباد",
-      "دبلن",
-      "دمشق",
-      "أمستردام"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 38
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة المكسيك؟",
-    "options": [
-      "لندن",
-      "نيودلهي",
-      "فيينا",
-      "مكسيكو سيتي"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 39
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة ليبيا؟",
-    "options": [
-      "طرابلس",
-      "بوغوتا",
-      "مدريد",
-      "ويلينغتون"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 40
-  },
-  {
-    "type": "MCQ",
-    "question": "أي من التالي يُعد من مصادر فيتامين C؟",
-    "options": [
-      "الزيت",
-      "الملح",
-      "الأرز",
-      "البرتقال"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 41
-  },
-  {
-    "type": "MCQ",
-    "question": "أي بحر يفصل بين السعودية ومصر؟",
-    "options": [
-      "بحر العرب",
-      "بحر قزوين",
-      "البحر الأحمر",
-      "البحر الأسود"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 42
-  },
-  {
-    "type": "MCQ",
-    "question": "أي نهر يمر بمدينة بغداد؟",
-    "options": [
-      "الفرات",
-      "الأردن",
-      "دجلة",
-      "النيل"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 43
-  },
-  {
-    "type": "MCQ",
-    "question": "أي دولة تُعد أكبر دولة في العالم مساحة؟",
+    "question": "أي دولة تمتلك أطول خط سكة حديد في العالم؟",
     "options": [
       "الصين",
       "روسيا",
@@ -743,3511 +28,2525 @@
     "correctIndex": 1,
     "category": "عام",
     "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 44
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.75,
+    "discriminationIndex": 0.48,
+    "id": 2
   },
   {
     "type": "MCQ",
-    "question": "ما هي عاصمة السودان؟",
+    "question": "ما هو العنصر الكيميائي الذي رمزه Fe؟",
     "options": [
-      "أوسلو",
-      "كوالالمبور",
-      "مدينة الكويت",
-      "الخرطوم"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 45
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم أعلى شلال في العالم؟",
-    "options": [
-      "شلالات إيغوازو",
-      "شلالات نياغارا",
-      "شلال أنجل",
-      "شلالات فيكتوريا"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 46
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة إسبانيا؟",
-    "options": [
-      "أوسلو",
-      "طهران",
-      "مدريد",
-      "سيول"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 47
-  },
-  {
-    "type": "MCQ",
-    "question": "أي قارة تقع فيها البرازيل؟",
-    "options": [
-      "أمريكا الجنوبية",
-      "أفريقيا",
-      "أوروبا",
-      "آسيا"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 48
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة تايلاند؟",
-    "options": [
-      "الدوحة",
-      "القاهرة",
-      "أثينا",
-      "بانكوك"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 49
-  },
-  {
-    "type": "MCQ",
-    "question": "أي عمل فني يُعرف بأنه 'لوحة'؟",
-    "options": [
-      "عمل مرسوم على سطح",
-      "مباراة رياضية",
-      "كتاب مطبوع",
-      "مقطوعة موسيقية"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 50
-  },
-  {
-    "type": "MCQ",
-    "question": "أي دولة كانت تُعرف قديمًا باسم بلاد فارس؟",
-    "options": [
-      "تركيا",
-      "أفغانستان",
-      "العراق",
-      "إيران"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 51
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هو التشفير (Encryption)؟",
-    "options": [
-      "حذف البيانات",
-      "ضغط الملفات",
-      "نسخ المجلدات",
-      "تحويل البيانات لصيغة غير مقروءة بدون مفتاح"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 52
-  },
-  {
-    "type": "MCQ",
-    "question": "في أي عام بدأت الحرب العالمية الأولى؟",
-    "options": [
-      "1945",
-      "1918",
-      "1939",
-      "1914"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 53
-  },
-  {
-    "type": "MCQ",
-    "question": "من مؤلف مسرحية 'هاملت'؟",
-    "options": [
-      "غوته",
-      "ويليام شكسبير",
-      "موليير",
-      "تشيخوف"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 54
-  },
-  {
-    "type": "MCQ",
-    "question": "في التنس، ما اسم الضربة التي تبدأ بها النقطة؟",
-    "options": [
-      "الإرسال",
-      "التحكيم",
-      "الصد",
-      "التمرير"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 55
-  },
-  {
-    "type": "MCQ",
-    "question": "أي حضارة اشتهرت بالكتابة المسمارية؟",
-    "options": [
-      "المايا",
-      "السومريون",
-      "الفينيقيون",
-      "الرومان"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 56
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الثورة التي بدأت عام 1789 في فرنسا؟",
-    "options": [
-      "الثورة الروسية",
-      "الثورة الأمريكية",
-      "الثورة الصناعية",
-      "الثورة الفرنسية"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 57
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الصحراء الأكبر في العالم؟",
-    "options": [
-      "الصحراء الكبرى",
-      "صحراء أتاكاما",
-      "صحراء كالاهاري",
-      "صحراء غوبي"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 58
-  },
-  {
-    "type": "MCQ",
-    "question": "أي من التالي يُعد من ألعاب القوى؟",
-    "options": [
-      "الشطرنج",
-      "الجري",
-      "البليارد",
-      "الجمباز الإيقاعي"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 59
-  },
-  {
-    "type": "MCQ",
-    "question": "أي دولة عربية تقع في أقصى الغرب؟",
-    "options": [
-      "عُمان",
-      "العراق",
-      "السودان",
-      "المغرب"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 60
-  },
-  {
-    "type": "MCQ",
-    "question": "ما الكوكب المعروف بالكوكب الأحمر؟",
-    "options": [
-      "المشتري",
-      "عطارد",
-      "المريخ",
-      "الزهرة"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 61
-  },
-  {
-    "type": "MCQ",
-    "question": "أي مما يلي يُعد من أجهزة الإدخال في الحاسوب؟",
-    "options": [
-      "لوحة المفاتيح",
-      "الشاشة",
-      "السماعات",
-      "الطابعة"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 62
-  },
-  {
-    "type": "MCQ",
-    "question": "كم عدد كواكب المجموعة الشمسية؟",
-    "options": [
-      "8",
-      "7",
-      "10",
-      "9"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 63
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هو الرمز الكيميائي للفضة؟",
-    "options": [
-      "Al",
-      "Ag",
-      "Fe",
-      "Au"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 64
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة بولندا؟",
-    "options": [
-      "ستوكهولم",
-      "طهران",
-      "وارسو",
-      "أنقرة"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 65
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الجهاز المستخدم لسماع الصوت؟",
-    "options": [
-      "مفتاح",
-      "مقبس كهرباء",
-      "قرص صلب",
-      "سماعات"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 66
-  },
-  {
-    "type": "MCQ",
-    "question": "أي جزء من الخلية يحتوي على المادة الوراثية (DNA) في الخلايا حقيقية النواة؟",
-    "options": [
-      "السيتوبلازم",
-      "الميتوكوندريا",
-      "النواة",
-      "الجدار الخلوي"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 67
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة السويد؟",
-    "options": [
-      "برازيليا",
-      "ستوكهولم",
-      "بانكوك",
-      "بودابست"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 68
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم العملية التي تنتج بها النباتات غذاءها باستخدام ضوء الشمس؟",
-    "options": [
-      "التنفس",
-      "التكاثر",
-      "التبخر",
-      "البناء الضوئي"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 69
-  },
-  {
-    "type": "MCQ",
-    "question": "أي من التالي يُعد من مصادر الأخبار؟",
-    "options": [
-      "المسامير",
-      "الملاعق",
-      "الصحف",
-      "الأكواب"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 70
-  },
-  {
-    "type": "MCQ",
-    "question": "ما البروتوكول الآمن لتصفح الويب؟",
-    "options": [
-      "FTP",
-      "HTTP",
-      "SMTP",
-      "HTTPS"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 71
-  },
-  {
-    "type": "MCQ",
-    "question": "من رسم لوحة 'ليلة النجوم'؟",
-    "options": [
-      "فنسنت فان غوخ",
-      "دافنشي",
-      "مونيه",
-      "بيكاسو"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 72
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة هولندا؟",
-    "options": [
-      "ليما",
-      "براغ",
-      "سيول",
-      "أمستردام"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 73
-  },
-  {
-    "type": "MCQ",
-    "question": "أين يقع جبل كيليمنجارو؟",
-    "options": [
-      "كينيا",
-      "المغرب",
-      "جنوب أفريقيا",
-      "تنزانيا"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 74
-  },
-  {
-    "type": "MCQ",
-    "question": "ما المقصود بالمتصفح (Browser)؟",
-    "options": [
-      "برنامج لمكافحة الفيروسات",
-      "برنامج لصنع الجداول",
-      "نظام تشغيل",
-      "برنامج لتصفح مواقع الويب"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 75
-  },
-  {
-    "type": "MCQ",
-    "question": "ما معنى SSD؟",
-    "options": [
-      "ذاكرة مؤقتة",
-      "قرص تخزين سريع يعتمد على الشرائح",
-      "مكبر صوت",
-      "كرت شاشة"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 76
-  },
-  {
-    "type": "MCQ",
-    "question": "أي نوع من النفايات يمكن إعادة تدويره غالبًا؟",
-    "options": [
-      "الورق",
-      "الطعام المطبوخ",
-      "الهواء",
-      "الماء"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 77
-  },
-  {
-    "type": "MCQ",
-    "question": "أي مدينة كانت عاصمة الخلافة العباسية لفترة طويلة؟",
-    "options": [
-      "القاهرة",
-      "بغداد",
-      "قرطبة",
-      "دمشق"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 78
-  },
-  {
-    "type": "MCQ",
-    "question": "ما معنى API؟",
-    "options": [
-      "وحدة معالجة صور",
-      "مقياس حرارة رقمي",
-      "عنوان بريد إلكتروني",
-      "واجهة برمجة التطبيقات"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 79
-  },
-  {
-    "type": "MCQ",
-    "question": "أي طبقة من الغلاف الجوي توجد فيها طبقة الأوزون غالبًا؟",
-    "options": [
-      "التروبوسفير",
-      "الستراتوسفير",
-      "الميزوسفير",
-      "الثيرموسفير"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 80
-  },
-  {
-    "type": "MCQ",
-    "question": "ما معنى 'الإسعافات الأولية'؟",
-    "options": [
-      "مساعدة عاجلة قبل وصول الطبيب",
-      "نوع من الرياضة",
-      "نوع من الطعام",
-      "طريقة للزراعة"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 81
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة فنلندا؟",
-    "options": [
-      "أبوجا",
-      "بانكوك",
-      "هلسنكي",
-      "سانتياغو"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 82
-  },
-  {
-    "type": "MCQ",
-    "question": "أي مما يلي يُعد من أجهزة الإخراج في الحاسوب؟",
-    "options": [
-      "الفأرة",
-      "لوحة المفاتيح",
-      "الطابعة",
-      "الماسح الضوئي"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 83
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هو الرمز الكيميائي لثاني أكسيد الكربون؟",
-    "options": [
-      "CO",
-      "C2O",
-      "C02",
-      "CO2"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 84
-  },
-  {
-    "type": "MCQ",
-    "question": "أي مما يلي يُعد محرك بحث؟",
-    "options": [
-      "Telegram",
-      "Power BI",
-      "Google",
-      "Photoshop"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 85
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم النهر الذي يمر بمدينة باريس؟",
-    "options": [
-      "الراين",
-      "النيجر",
-      "نهر السين",
-      "التايمز"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 86
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الرياضة التي تعتمد على رمي الكرة في مرمى صغير بحارس؟",
-    "options": [
-      "كرة القدم",
-      "كرة اليد",
-      "البيسبول",
-      "كرة الطائرة"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 87
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة السعودية؟",
-    "options": [
-      "بوخارست",
-      "كوالالمبور",
-      "الرياض",
-      "الرباط"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 88
-  },
-  {
-    "type": "MCQ",
-    "question": "ما امتداد ملف الصور الشائع للصور الفوتوغرافية؟",
-    "options": [
-      "EXE",
-      "MP3",
-      "TXT",
-      "JPG"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 89
-  },
-  {
-    "type": "MCQ",
-    "question": "من أول إنسان مشى على سطح القمر؟",
-    "options": [
-      "نيل آرمسترونغ",
-      "يوري غاغارين",
-      "باز ألدرين",
-      "مايكل كولينز"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 90
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هو أكبر محيط على سطح الأرض؟",
-    "options": [
-      "المحيط الهندي",
-      "المحيط المتجمد الشمالي",
-      "المحيط الأطلسي",
-      "المحيط الهادئ"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 91
-  },
-  {
-    "type": "MCQ",
-    "question": "ما المقصود بـVPN؟",
-    "options": [
-      "مضاد فيروسات",
-      "نظام ملفات",
-      "شبكة افتراضية خاصة",
-      "ذاكرة افتراضية"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 92
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة الأردن؟",
-    "options": [
-      "بانكوك",
-      "مكسيكو سيتي",
-      "روما",
-      "عمّان"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 93
-  },
-  {
-    "type": "MCQ",
-    "question": "أي مما يلي يُعد لغة برمجة؟",
-    "options": [
-      "Android",
-      "Windows",
-      "Python",
-      "Wi‑Fi"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 94
-  },
-  {
-    "type": "MCQ",
-    "question": "من مؤلف 'الأوديسة'؟",
-    "options": [
-      "سوفوكليس",
-      "هوميروس",
-      "أرسطو",
-      "أفلاطون"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 95
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة ألمانيا؟",
-    "options": [
-      "كانبرا",
-      "برن",
-      "برلين",
-      "سنغافورة"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 96
-  },
-  {
-    "type": "MCQ",
-    "question": "ما المقصود بـMalware؟",
-    "options": [
-      "نظام تشغيل",
-      "محرر صور",
-      "لغة برمجة",
-      "برمجيات خبيثة"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 97
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة مصر؟",
-    "options": [
-      "القاهرة",
-      "أكرا",
-      "الجزائر",
-      "برلين"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 98
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة نيوزيلندا؟",
-    "options": [
-      "برازيليا",
-      "ويلينغتون",
-      "داكار",
-      "سانتياغو"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 99
-  },
-  {
-    "type": "MCQ",
-    "question": "في كرة القدم، ما اسم المنطقة التي يُسمح فيها للحارس بمسك الكرة بيده؟",
-    "options": [
-      "دائرة الوسط",
-      "منطقة الجزاء",
-      "المنطقة الفنية",
-      "منطقة التسلل"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 100
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هو المقصود بـDNA؟",
-    "options": [
-      "غاز في الغلاف الجوي",
-      "المادة الوراثية",
-      "نوع من الفيتامينات",
-      "السكر في الدم"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 101
-  },
-  {
-    "type": "MCQ",
-    "question": "من مؤلف 'الحرب والسلام'؟",
-    "options": [
-      "هوغو",
-      "ليو تولستوي",
-      "دوستويفسكي",
-      "أورويل"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 102
-  },
-  {
-    "type": "MCQ",
-    "question": "كم نقطة تُحسب للتسديدة الثلاثية في كرة السلة؟",
-    "options": [
-      "1",
-      "4",
-      "2",
-      "3"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 103
-  },
-  {
-    "type": "MCQ",
-    "question": "أي فن يُعرف بتشكيل الحجر أو الخشب؟",
-    "options": [
-      "الغناء",
-      "التصوير الفوتوغرافي",
-      "النحت",
-      "الشعر"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 104
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة المغرب؟",
-    "options": [
-      "أكرا",
-      "الرباط",
-      "فيينا",
-      "كاراكاس"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 105
-  },
-  {
-    "type": "MCQ",
-    "question": "ما فائدة المصادقة الثنائية (2FA)؟",
-    "options": [
-      "زيادة أمان تسجيل الدخول",
-      "تقليل استهلاك البيانات",
-      "رفع دقة الصور",
-      "تسريع الألعاب"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 106
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الرياضة التي تعتمد على السباحة وركوب الدراجات والجري معًا؟",
-    "options": [
-      "الديكاثلون",
-      "الترياثلون",
-      "البولونغ",
-      "البنتاثلون"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 107
-  },
-  {
-    "type": "MCQ",
-    "question": "أي رياضة تُعرف باستخدام الحلقات والعقلة والمتوازي؟",
-    "options": [
-      "رفع الأثقال",
-      "الرماية",
-      "الفروسية",
-      "الجمباز"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 108
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الكوكب الذي يمتلك حلقات واضحة جدًا؟",
-    "options": [
-      "المريخ",
-      "عطارد",
-      "زحل",
-      "الزهرة"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 109
-  },
-  {
-    "type": "MCQ",
-    "question": "ما وظيفة DNS الأساسية؟",
-    "options": [
-      "ضغط الصور",
-      "زيادة سرعة المعالج",
-      "تشفير الملفات",
-      "ترجمة أسماء النطاقات إلى عناوين IP"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 110
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم المصطلح الذي يطلق على رواية قصيرة؟",
-    "options": [
-      "ملحمة",
-      "نوفيلا",
-      "مجلد",
-      "مقامة"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 111
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الكتاب الذي يجمع قصصًا شعبية شهيرة في الثقافة العربية؟",
-    "options": [
-      "ألف ليلة وليلة",
-      "كليلة ودمنة",
-      "المعلقات",
-      "نهج البلاغة"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 112
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هو اسم السفينة التي غرقت عام 1912 في حادثة شهيرة؟",
-    "options": [
-      "بريتانيك",
-      "سانتا ماريا",
-      "تيتانيك",
-      "كوين ماري"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 113
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم العصر الذي سبق العصر البرونزي مباشرةً؟",
-    "options": [
-      "العصر الكلاسيكي",
-      "العصر الحجري الحديث",
-      "العصر الحديدي",
-      "العصر الوسيط"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 114
-  },
-  {
-    "type": "MCQ",
-    "question": "ما معنى 'الادخار'؟",
-    "options": [
-      "إنفاق المال كله",
-      "اقتراض دائم",
-      "توفير جزء من المال للمستقبل",
-      "شراء عشوائي"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 115
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الرياضة التي تعتمد على القفز فوق عارضة؟",
-    "options": [
-      "دفع الجلة",
-      "رمي القرص",
-      "القفز العالي",
-      "سباق التتابع"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 116
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم العملة الرسمية في اليابان؟",
-    "options": [
-      "الين",
-      "الدولار",
-      "الوون",
-      "الروبية"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 117
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هو أكبر عضو في جسم الإنسان؟",
-    "options": [
-      "القلب",
-      "الجلد",
-      "الرئة",
-      "الكبد"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 118
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة العراق؟",
-    "options": [
-      "أنقرة",
-      "الرياض",
-      "جاكرتا",
-      "بغداد"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 119
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة إندونيسيا؟",
-    "options": [
-      "جاكرتا",
-      "واشنطن العاصمة",
-      "تونس",
-      "كييف"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 120
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم مادة تستخدم للكتابة على الورق؟",
-    "options": [
-      "الخشب",
+      "الفلور",
       "الحديد",
-      "الملح",
-      "الحبر"
+      "الفوسفور",
+      "الفرانسيوم"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 121
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.68,
+    "discriminationIndex": 0.42,
+    "id": 3
   },
   {
     "type": "MCQ",
-    "question": "أي مما يلي يُعد قاعدة بيانات؟",
+    "question": "كم عدد العظام في جسم الإنسان البالغ؟",
     "options": [
-      "Canva",
-      "VLC",
-      "MySQL",
-      "Figma"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 122
-  },
-  {
-    "type": "MCQ",
-    "question": "أي مما يلي يُعد من مصادر البروتين؟",
-    "options": [
-      "الملح",
-      "الماء",
-      "السكر",
-      "البيض"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 123
-  },
-  {
-    "type": "MCQ",
-    "question": "أي جزء من الدم مسؤول أساسًا عن نقل الأكسجين؟",
-    "options": [
-      "كريات الدم البيضاء",
-      "البلازما",
-      "الصفائح الدموية",
-      "كريات الدم الحمراء"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 124
-  },
-  {
-    "type": "MCQ",
-    "question": "ما مدة الشوط الواحد في كرة القدم (دون وقت بدل الضائع)؟",
-    "options": [
-      "45 دقيقة",
-      "30 دقيقة",
-      "40 دقيقة",
-      "60 دقيقة"
+      "__(206)__",
+      "__(208)__",
+      "__(204)__",
+      "__(210)__"
     ],
     "correctIndex": 0,
     "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 125
+    "topic": "أحياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.70,
+    "discriminationIndex": 0.44,
+    "id": 4
+  },
+  {
+    "type": "MCQ",
+    "question": "أي كوكب يُلقب بالكوكب الأحمر؟",
+    "options": [
+      "الزهرة",
+      "المريخ",
+      "المشتري",
+      "زحل"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.65,
+    "discriminationIndex": 0.40,
+    "id": 5
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي العاصمة القديمة لليابان قبل طوكيو؟",
+    "options": [
+      "أوساكا",
+      "كيوتو",
+      "ناغويا",
+      "يوكوهاما"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.78,
+    "discriminationIndex": 0.50,
+    "id": 6
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي وحدة قياس شدة التيار الكهربائي؟",
+    "options": [
+      "الفولت",
+      "الأمبير",
+      "الأوم",
+      "الواط"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.67,
+    "discriminationIndex": 0.43,
+    "id": 7
+  },
+  {
+    "type": "MCQ",
+    "question": "أي بحر يُعد الأكثر ملوحة في العالم؟",
+    "options": [
+      "البحر الأحمر",
+      "البحر الميت",
+      "البحر المتوسط",
+      "بحر قزوين"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.71,
+    "discriminationIndex": 0.46,
+    "id": 8
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أصغر عضو في جسم الإنسان؟",
+    "options": [
+      "الركاب",
+      "المطرقة",
+      "السندان",
+      "القوقعة"
+    ],
+    "correctIndex": 0,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.76,
+    "discriminationIndex": 0.49,
+    "id": 9
   },
   {
     "type": "MCQ",
     "question": "في أي عام سقط جدار برلين؟",
     "options": [
-      "1999",
-      "1979",
-      "2009",
-      "1989"
+      "__(1987)__",
+      "__(1989)__",
+      "__(1991)__",
+      "__(1990)__"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "category": "عام",
     "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 126
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.73,
+    "discriminationIndex": 0.47,
+    "id": 10
   },
   {
     "type": "MCQ",
-    "question": "في الملاكمة، ما اسم منطقة القتال؟",
+    "question": "ما هو الحيوان الوحيد الذي لا يستطيع القفز؟",
     "options": [
-      "المدرج",
-      "المضمار",
-      "الحلبة",
-      "الملعب"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 127
-  },
-  {
-    "type": "MCQ",
-    "question": "ما وظيفة جدار الحماية (Firewall) غالبًا؟",
-    "options": [
-      "تصفية/منع الاتصالات غير المرغوبة",
-      "تشغيل الفيديو",
-      "تحويل النص إلى صورة",
-      "زيادة حجم الذاكرة"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 128
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الرياضة التي تُلعب على الجليد بعصا وقرص؟",
-    "options": [
-      "الهوكي",
-      "الكريكيت",
-      "الرجبي",
-      "الاسكواش"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 129
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم العملية التي يتحول فيها الماء إلى بخار؟",
-    "options": [
-      "الترسيب",
-      "التجمد",
-      "التبخر",
-      "الانصهار"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 130
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة أستراليا؟",
-    "options": [
-      "طهران",
-      "القاهرة",
-      "كانبرا",
-      "هلسنكي"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 131
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم القناة التي تربط البحر المتوسط بالبحر الأحمر؟",
-    "options": [
-      "قناة السويس",
-      "قناة كورنث",
-      "قناة كيل",
-      "قناة بنما"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 132
-  },
-  {
-    "type": "MCQ",
-    "question": "أي مما يلي يُعد من مكونات السلم الغذائي الصحي؟",
-    "options": [
-      "الضوضاء",
-      "التدخين",
-      "النفايات",
-      "الخضروات"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 133
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة تونس؟",
-    "options": [
-      "أوسلو",
-      "إسلام آباد",
-      "لشبونة",
-      "تونس"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 134
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم العلم الذي يدرس الكائنات الحية؟",
-    "options": [
-      "علم الأحياء",
-      "علم الفلك",
-      "علم المنطق",
-      "علم الجيولوجيا"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 135
-  },
-  {
-    "type": "MCQ",
-    "question": "من مؤلف 'الشيخ والبحر'؟",
-    "options": [
-      "كامو",
-      "إرنست همنغواي",
-      "ماركيز",
-      "كافكا"
+      "وحيد القرن",
+      "الفيل",
+      "فرس النهر",
+      "الجاموس"
     ],
     "correctIndex": 1,
     "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 136
+    "topic": "حيوانات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.74,
+    "discriminationIndex": 0.48,
+    "id": 11
   },
   {
     "type": "MCQ",
-    "question": "ما هي عاصمة غانا؟",
+    "question": "ما هي أطول سلسلة جبال في العالم؟",
     "options": [
-      "ليما",
-      "أكرا",
-      "بانكوك",
-      "نيروبي"
+      "الهيمالايا",
+      "الأنديز",
+      "روكي",
+      "الألب"
     ],
     "correctIndex": 1,
     "category": "عام",
     "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 137
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.77,
+    "discriminationIndex": 0.51,
+    "id": 12
   },
   {
     "type": "MCQ",
-    "question": "من هو القائد الذي اشتهر بفتح القسطنطينية عام 1453؟",
+    "question": "كم عدد أسنان الإنسان البالغ الطبيعي؟",
     "options": [
-      "هارون الرشيد",
-      "طارق بن زياد",
-      "محمد الفاتح",
-      "صلاح الدين الأيوبي"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 138
-  },
-  {
-    "type": "MCQ",
-    "question": "ما معنى 'التطوع'؟",
-    "options": [
-      "تقديم خدمة دون مقابل",
-      "شراء منتجات",
-      "عمل مدفوع دائمًا",
-      "سفر إجباري"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 139
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الجهاز الذي يقيس الرطوبة؟",
-    "options": [
-      "البارومتر",
-      "السيزمومتر",
-      "الهيجرومتر",
-      "الترمومتر"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 140
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة رومانيا؟",
-    "options": [
-      "بوخارست",
-      "موسكو",
-      "دمشق",
-      "ستوكهولم"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 141
-  },
-  {
-    "type": "MCQ",
-    "question": "من مؤلف 'مئة عام من العزلة'؟",
-    "options": [
-      "ألبير كامو",
-      "باولو كويلو",
-      "غابرييل غارسيا ماركيز",
-      "فرجينيا وولف"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 142
-  },
-  {
-    "type": "MCQ",
-    "question": "في كرة القدم، ما اسم القرار عند لمس الكرة باليد عمدًا داخل المنطقة من لاعب غير الحارس غالبًا؟",
-    "options": [
-      "ركلة مرمى",
-      "ركلة جزاء",
-      "إسقاط الكرة",
-      "رمية تماس"
+      "__(30)__",
+      "__(32)__",
+      "__(28)__",
+      "__(34)__"
     ],
     "correctIndex": 1,
     "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 143
+    "topic": "أحياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.66,
+    "discriminationIndex": 0.41,
+    "id": 13
   },
   {
     "type": "MCQ",
-    "question": "ما هي عاصمة اليونان؟",
+    "question": "أي معدن يُستخدم في صناعة الطائرات لخفته؟",
     "options": [
-      "أثينا",
-      "القاهرة",
-      "براغ",
-      "أبوجا"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 144
-  },
-  {
-    "type": "MCQ",
-    "question": "ما الغاز الأكثر وجودًا في الغلاف الجوي للأرض؟",
-    "options": [
-      "الهيليوم",
-      "الأكسجين",
-      "النيتروجين",
-      "ثاني أكسيد الكربون"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 145
-  },
-  {
-    "type": "MCQ",
-    "question": "في الريشة الطائرة، ماذا يُسمى المقذوف المستخدم؟",
-    "options": [
-      "الريشة (Shuttlecock)",
-      "العصا",
-      "القرص",
-      "الكرة الحديدية"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 146
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هو امتداد ملفات JavaScript؟",
-    "options": [
-      ".png",
-      ".js",
-      ".mp3",
-      ".docx"
+      "التيتانيوم",
+      "الألمنيوم",
+      "المغنيسيوم",
+      "النحاس"
     ],
     "correctIndex": 1,
     "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 147
+    "topic": "صناعة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.72,
+    "discriminationIndex": 0.45,
+    "id": 14
   },
   {
     "type": "MCQ",
-    "question": "أي بحر يقع شمال تركيا؟",
+    "question": "ما هي الدولة التي اخترعت الورق؟",
     "options": [
-      "بحر العرب",
-      "بحر البلطيق",
-      "البحر الأسود",
-      "البحر الأحمر"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 148
-  },
-  {
-    "type": "MCQ",
-    "question": "أي جهاز في جسم الإنسان مسؤول عن تبادل الغازات؟",
-    "options": [
-      "الجهاز التنفسي",
-      "الجهاز الهضمي",
-      "الجهاز العضلي",
-      "الجهاز العصبي"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 149
-  },
-  {
-    "type": "MCQ",
-    "question": "أي دولة تشتهر بوجود سور الصين العظيم؟",
-    "options": [
-      "الصين",
-      "كوريا الجنوبية",
       "اليابان",
+      "الصين",
+      "مصر",
       "الهند"
     ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 150
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة السنغال؟",
-    "options": [
-      "الرياض",
-      "داكار",
-      "لندن",
-      "بريتوريا"
-    ],
     "correctIndex": 1,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 151
-  },
-  {
-    "type": "MCQ",
-    "question": "أي قارة هي الأكبر مساحة؟",
-    "options": [
-      "آسيا",
-      "أمريكا الجنوبية",
-      "أوروبا",
-      "أفريقيا"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 152
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم صبغة النبات الخضراء المسؤولة عن امتصاص الضوء؟",
-    "options": [
-      "الكيراتين",
-      "الأنسولين",
-      "الكلوروفيل",
-      "الهيموغلوبين"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 153
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم السلسلة الجبلية الشهيرة في أوروبا؟",
-    "options": [
-      "جبال الأنديز",
-      "جبال الألب",
-      "جبال روكي",
-      "جبال الهيمالايا"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 154
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة كولومبيا؟",
-    "options": [
-      "لندن",
-      "بوغوتا",
-      "مدريد",
-      "كانبرا"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 155
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الوثيقة التي تُثبت هوية الشخص غالبًا؟",
-    "options": [
-      "تذكرة سفر",
-      "إيصال",
-      "فاتورة",
-      "بطاقة الهوية"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 156
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم أداة التحكيم التي تُستخدم أحيانًا في بعض الألعاب للإشارة؟",
-    "options": [
-      "المسطرة",
-      "الصافرة",
-      "المطرقة",
-      "الميزان"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 157
-  },
-  {
-    "type": "MCQ",
-    "question": "أي فيتامين يرتبط غالبًا بتقوية العظام مع الكالسيوم؟",
-    "options": [
-      "فيتامين B12",
-      "فيتامين K",
-      "فيتامين D",
-      "فيتامين A"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 158
-  },
-  {
-    "type": "MCQ",
-    "question": "أي رياضة تُستخدم فيها عصا لضرب كرة صغيرة إلى حفرة؟",
-    "options": [
-      "الهوكي",
-      "التنس",
-      "الاسكواش",
-      "الغولف"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 159
-  },
-  {
-    "type": "MCQ",
-    "question": "أي نوع أدبي يروي حياة شخص حقيقية؟",
-    "options": [
-      "الخيال العلمي",
-      "القصيدة الغنائية",
-      "المسرحية",
-      "السيرة الذاتية"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 160
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة أوكرانيا؟",
-    "options": [
-      "طهران",
-      "كييف",
-      "سيول",
-      "سانتياغو"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 161
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم المعلم الشهير في الهند المبني من الرخام الأبيض؟",
-    "options": [
-      "تاج محل",
-      "برج إيفل",
-      "سور الصين العظيم",
-      "الكرملين"
-    ],
-    "correctIndex": 0,
     "category": "عام",
     "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 162
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.69,
+    "discriminationIndex": 0.44,
+    "id": 15
   },
   {
     "type": "MCQ",
-    "question": "ما معنى URL؟",
+    "question": "ما هي سرعة الضوء تقريباً بالكيلومتر في الثانية؟",
     "options": [
-      "كلمة المرور",
-      "اسم المستخدم",
-      "عنوان مورد على الإنترنت",
-      "نوع من المعالجات"
+      "__(200,000)__",
+      "__(300,000)__",
+      "__(400,000)__",
+      "__(250,000)__"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.75,
+    "discriminationIndex": 0.48,
+    "id": 16
+  },
+  {
+    "type": "MCQ",
+    "question": "أي فيتامين يُنتجه الجسم عند التعرض لأشعة الشمس؟",
+    "options": [
+      "فيتامين أ",
+      "فيتامين د",
+      "فيتامين ج",
+      "فيتامين هـ"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "صحة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.68,
+    "discriminationIndex": 0.43,
+    "id": 17
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أكبر محيط في العالم؟",
+    "options": [
+      "الأطلسي",
+      "الهادئ",
+      "الهندي",
+      "المتجمد الشمالي"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.64,
+    "discriminationIndex": 0.40,
+    "id": 18
+  },
+  {
+    "type": "MCQ",
+    "question": "من هو مؤسس شركة مايكروسوفت؟",
+    "options": [
+      "ستيف جوبز",
+      "بيل غيتس",
+      "مارك زوكربيرغ",
+      "جيف بيزوس"
+    ],
+    "correctIndex": 1,
     "category": "عام",
     "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 163
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.67,
+    "discriminationIndex": 0.42,
+    "id": 19
   },
   {
     "type": "MCQ",
-    "question": "ما اسم الوثيقة التي أنهت الحرب العالمية الأولى عام 1918؟",
+    "question": "ما هي العملة الرسمية لسويسرا؟",
     "options": [
-      "الهدنة",
-      "البيان",
-      "الانقلاب",
-      "الميثاق"
+      "اليورو",
+      "الفرنك السويسري",
+      "الدولار",
+      "الجنيه"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
+    "topic": "اقتصاد",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.71,
+    "discriminationIndex": 0.46,
+    "id": 20
+  },
+  {
+    "type": "MCQ",
+    "question": "كم يبلغ عدد كروموسومات الإنسان؟",
+    "options": [
+      "__(44)__",
+      "__(46)__",
+      "__(48)__",
+      "__(42)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.73,
+    "discriminationIndex": 0.47,
+    "id": 21
+  },
+  {
+    "type": "MCQ",
+    "question": "أي دولة تُعد أكبر منتج للقهوة في العالم؟",
+    "options": [
+      "كولومبيا",
+      "البرازيل",
+      "فيتنام",
+      "إثيوبيا"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "زراعة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.70,
+    "discriminationIndex": 0.45,
+    "id": 22
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الغاز المستخدم في إطفاء الحرائق؟",
+    "options": [
+      "الأكسجين",
+      "ثاني أكسيد الكربون",
+      "النيتروجين",
+      "الهيليوم"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.69,
+    "discriminationIndex": 0.44,
+    "id": 23
+  },
+  {
+    "type": "MCQ",
+    "question": "ما اسم أول رائد فضاء في التاريخ؟",
+    "options": [
+      "نيل أرمسترونغ",
+      "يوري غاغارين",
+      "باز ألدرين",
+      "جون غلين"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فضاء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.74,
+    "discriminationIndex": 0.48,
+    "id": 24
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد أضلاع المثلث؟",
+    "options": [
+      "اثنان",
+      "ثلاثة",
+      "أربعة",
+      "خمسة"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "صعب",
     "difficultyIndex": 0.55,
     "discriminationIndex": 0.35,
-    "id": 164
+    "id": 25
+  },
+  {
+    "type": "MCQ",
+    "question": "أي عضو في جسم الإنسان مسؤول عن تنقية الدم؟",
+    "options": [
+      "القلب",
+      "الكلى",
+      "الكبد",
+      "الرئتين"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.72,
+    "discriminationIndex": 0.46,
+    "id": 26
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أصغر قارة في العالم؟",
+    "options": [
+      "أوروبا",
+      "أستراليا",
+      "أنتاركتيكا",
+      "أمريكا الجنوبية"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.76,
+    "discriminationIndex": 0.49,
+    "id": 27
+  },
+  {
+    "type": "MCQ",
+    "question": "من رسم لوحة الموناليزا؟",
+    "options": [
+      "مايكل أنجلو",
+      "ليوناردو دافنشي",
+      "رافائيل",
+      "بيكاسو"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فن",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.65,
+    "discriminationIndex": 0.41,
+    "id": 28
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أثقل عنصر طبيعي في الجدول الدوري؟",
+    "options": [
+      "الرصاص",
+      "اليورانيوم",
+      "البلوتونيوم",
+      "الذهب"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.78,
+    "discriminationIndex": 0.52,
+    "id": 29
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد اللاعبين في فريق كرة السلة؟",
+    "options": [
+      "__(4)__",
+      "__(5)__",
+      "__(6)__",
+      "__(7)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.68,
+    "discriminationIndex": 0.43,
+    "id": 30
+  },
+  {
+    "type": "MCQ",
+    "question": "أي مدينة تُلقب بمدينة الضباب؟",
+    "options": [
+      "باريس",
+      "لندن",
+      "نيويورك",
+      "طوكيو"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.71,
+    "discriminationIndex": 0.45,
+    "id": 31
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو العنصر الأكثر وفرة في الكون؟",
+    "options": [
+      "الأكسجين",
+      "الهيدروجين",
+      "الكربون",
+      "الهيليوم"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.73,
+    "discriminationIndex": 0.47,
+    "id": 32
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد الألوان في قوس قزح؟",
+    "options": [
+      "__(5)__",
+      "__(7)__",
+      "__(6)__",
+      "__(8)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.66,
+    "discriminationIndex": 0.42,
+    "id": 33
+  },
+  {
+    "type": "MCQ",
+    "question": "أي حضارة بنت الأهرامات في مصر؟",
+    "options": [
+      "الرومانية",
+      "الفرعونية",
+      "الإغريقية",
+      "الفينيقية"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.63,
+    "discriminationIndex": 0.39,
+    "id": 34
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الهرمون المسؤول عن تنظيم السكر في الدم؟",
+    "options": [
+      "الأدرينالين",
+      "الأنسولين",
+      "الثيروكسين",
+      "الكورتيزول"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "صحة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.70,
+    "discriminationIndex": 0.44,
+    "id": 35
+  },
+  {
+    "type": "MCQ",
+    "question": "أي دولة لها أكبر عدد سكان في العالم؟",
+    "options": [
+      "الصين",
+      "الهند",
+      "الولايات المتحدة",
+      "إندونيسيا"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.72,
+    "discriminationIndex": 0.46,
+    "id": 36
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي وحدة قياس القوة في النظام الدولي؟",
+    "options": [
+      "الجول",
+      "النيوتن",
+      "الباسكال",
+      "الواط"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.74,
+    "discriminationIndex": 0.48,
+    "id": 37
+  },
+  {
+    "type": "MCQ",
+    "question": "كم يبلغ عدد دول الاتحاد الأوروبي حالياً؟",
+    "options": [
+      "__(25)__",
+      "__(27)__",
+      "__(28)__",
+      "__(30)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "سياسة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.77,
+    "discriminationIndex": 0.50,
+    "id": 38
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أسرع حيوان بري في العالم؟",
+    "options": [
+      "الأسد",
+      "الفهد",
+      "النمر",
+      "الغزال"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "حيوانات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.67,
+    "discriminationIndex": 0.43,
+    "id": 39
+  },
+  {
+    "type": "MCQ",
+    "question": "أي لغة هي الأكثر تحدثاً في العالم كلغة أم؟",
+    "options": [
+      "الإنجليزية",
+      "الماندرين",
+      "الإسبانية",
+      "الهندية"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "لغات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.75,
+    "discriminationIndex": 0.49,
+    "id": 40
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الكوكب الأقرب إلى الشمس؟",
+    "options": [
+      "الزهرة",
+      "عطارد",
+      "الأرض",
+      "المريخ"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.69,
+    "discriminationIndex": 0.44,
+    "id": 41
   },
   {
     "type": "MCQ",
     "question": "كم عدد حروف اللغة العربية؟",
     "options": [
-      "29",
-      "26",
-      "28",
-      "30"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 165
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة اليابان؟",
-    "options": [
-      "دمشق",
-      "دبلن",
-      "طوكيو",
-      "كاراكاس"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 166
-  },
-  {
-    "type": "MCQ",
-    "question": "أي مما يلي يُعد متصفح ويب؟",
-    "options": [
-      "Google Chrome",
-      "MySQL",
-      "Windows",
-      "Python"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 167
-  },
-  {
-    "type": "MCQ",
-    "question": "ما معنى RAM؟",
-    "options": [
-      "ذاكرة وصول عشوائي",
-      "لوحة أم",
-      "وحدة معالجة مركزية",
-      "قرص صلب"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 168
-  },
-  {
-    "type": "MCQ",
-    "question": "كم عدد لاعبي كرة القدم لكل فريق داخل الملعب؟",
-    "options": [
-      "12",
-      "11",
-      "10",
-      "9"
+      "__(26)__",
+      "__(28)__",
+      "__(30)__",
+      "__(29)__"
     ],
     "correctIndex": 1,
     "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 169
+    "topic": "لغة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.64,
+    "discriminationIndex": 0.40,
+    "id": 42
   },
   {
     "type": "MCQ",
-    "question": "ما اسم الرياضة التي تستخدم المضرب والكرة وتُقام على ملاعب عشبية/صلبة؟",
-    "options": [
-      "الريشة الطائرة",
-      "الغولف",
-      "التنس",
-      "الاسكواش"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 170
-  },
-  {
-    "type": "MCQ",
-    "question": "أي رياضة تُمارَس في ماء وتستخدم كرة ومرمى؟",
-    "options": [
-      "كرة الماء",
-      "الكريكيت",
-      "الرجبي",
-      "كرة اليد"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 171
-  },
-  {
-    "type": "MCQ",
-    "question": "أي مما يلي يُعد من وسائل النقل الجوية؟",
-    "options": [
-      "القطار",
-      "الحافلة",
-      "السفينة",
-      "الطائرة"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 172
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة التشيك؟",
-    "options": [
-      "سنغافورة",
-      "براغ",
-      "بيروت",
-      "هافانا"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 173
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم فن تنظيم الكلمات على أوزان وقوافٍ؟",
-    "options": [
-      "البرمجة",
-      "الرسم",
-      "الشعر",
-      "النحت"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 174
-  },
-  {
-    "type": "MCQ",
-    "question": "أي قارة تقع فيها أستراليا؟",
-    "options": [
-      "آسيا",
-      "أوروبا",
-      "أفريقيا",
-      "أستراليا"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 175
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة البرازيل؟",
-    "options": [
-      "تونس",
-      "هانوي",
-      "لندن",
-      "برازيليا"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 176
-  },
-  {
-    "type": "MCQ",
-    "question": "أي رياضة تُعد من رياضات القتال؟",
-    "options": [
-      "الكاراتيه",
-      "السباحة",
-      "الركض",
-      "التنس"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 177
-  },
-  {
-    "type": "MCQ",
-    "question": "من مؤلف 'دون كيشوت'؟",
-    "options": [
-      "موليير",
-      "دانتي",
-      "شكسبير",
-      "ميغيل دي ثيربانتس"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 178
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة إثيوبيا؟",
-    "options": [
-      "أديس أبابا",
-      "بروكسل",
-      "بيروت",
-      "تونس"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 179
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم التحول من الحالة الصلبة إلى السائلة؟",
-    "options": [
-      "التكاثف",
-      "الانصهار",
-      "التسامي",
-      "التبخر"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 180
-  },
-  {
-    "type": "MCQ",
-    "question": "ما امتداد ملف المستندات الشائع من مايكروسوفت وورد؟",
-    "options": [
-      "PPTX",
-      "MP4",
-      "DOCX",
-      "PNG"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 181
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة سوريا؟",
-    "options": [
-      "دبلن",
-      "دمشق",
-      "بريتوريا",
-      "أديس أبابا"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 182
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم التحول من الحالة الغازية إلى السائلة؟",
-    "options": [
-      "التجمد",
-      "التكاثف",
-      "الانصهار",
-      "التبخر"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 183
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الجهاز الذي ينبه من الحريق غالبًا؟",
-    "options": [
-      "مضخة الماء",
-      "مبرد الهواء",
-      "كاشف الدخان",
-      "مزيل الرطوبة"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 184
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة إيطاليا؟",
-    "options": [
-      "بوغوتا",
-      "القاهرة",
-      "روما",
-      "كاراكاس"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 185
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الحضارة القديمة التي نشأت بين نهري دجلة والفرات؟",
-    "options": [
-      "الحضارة الرومانية",
-      "حضارة بلاد الرافدين",
-      "الحضارة الإغريقية",
-      "حضارة المايا"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 186
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم أقدم جامعة في العالم ما زالت تعمل وتقع في المغرب؟",
-    "options": [
-      "السوربون",
-      "أكسفورد",
-      "جامعة القرويين",
-      "الأزهر"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 187
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم المادة الشفافة المستخدمة في النوافذ؟",
-    "options": [
-      "الورق",
-      "الخشب",
-      "القماش",
-      "الزجاج"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 188
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة الأرجنتين؟",
-    "options": [
-      "كوالالمبور",
-      "بوينس آيرس",
-      "دمشق",
-      "نيودلهي"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 189
-  },
-  {
-    "type": "MCQ",
-    "question": "أي منفذ (Port) يُستخدم غالبًا مع HTTPS؟",
-    "options": [
-      "21",
-      "80",
-      "443",
-      "25"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 190
-  },
-  {
-    "type": "MCQ",
-    "question": "أي مما يلي يُعد نظام تشغيل؟",
-    "options": [
-      "Chrome",
-      "Linux",
-      "Excel",
-      "Photoshop"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 191
-  },
-  {
-    "type": "MCQ",
-    "question": "كم عدد حجرات قلب الإنسان؟",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "2"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 192
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة البرتغال؟",
-    "options": [
-      "بريتوريا",
-      "نيودلهي",
-      "لشبونة",
-      "داكار"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 193
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة المجر؟",
-    "options": [
-      "نيودلهي",
-      "بودابست",
-      "سانتياغو",
-      "بوغوتا"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 194
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الجهاز الذي يقيس سرعة الرياح؟",
-    "options": [
-      "الهيجرومتر",
-      "الأنيمومتر",
-      "السيزمومتر",
-      "البارومتر"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 195
-  },
-  {
-    "type": "MCQ",
-    "question": "أي مما يلي يُعد من مهارات التواصل؟",
-    "options": [
-      "الكسل",
-      "التجاهل",
-      "الاستماع الجيد",
-      "الانفعال الدائم"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 196
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الجهاز المستخدم لقياس درجة الحرارة؟",
-    "options": [
-      "الترمومتر",
-      "الهيجرومتر",
-      "البارومتر",
-      "الأنيمومتر"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 197
-  },
-  {
-    "type": "MCQ",
-    "question": "أي من التالي يُعد من مصادر الدخل؟",
-    "options": [
-      "الراتب",
-      "الديون",
-      "الخسارة",
-      "الغرامة"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 198
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم المحيط الواقع بين أفريقيا وأستراليا؟",
-    "options": [
-      "المحيط الأطلسي",
-      "المحيط المتجمد الجنوبي",
-      "المحيط الهندي",
-      "المحيط الهادئ"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 199
-  },
-  {
-    "type": "MCQ",
-    "question": "ما المقصود بـOpen Source؟",
-    "options": [
-      "كود متاح للتعديل والمشاركة",
-      "نوع من الشبكات",
-      "جهاز مادي",
-      "برنامج مدفوع دائمًا"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 200
-  },
-  {
-    "type": "MCQ",
-    "question": "أي مدينة تُعرف بـ'مدينة الضباب'؟",
-    "options": [
-      "لندن",
-      "روما",
-      "مدريد",
-      "باريس"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 201
-  },
-  {
-    "type": "MCQ",
-    "question": "ما وحدة قياس القوة في النظام الدولي؟",
-    "options": [
-      "جول",
-      "فولت",
-      "باسكال",
-      "نيوتن"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 202
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة المملكة المتحدة؟",
-    "options": [
-      "صوفيا",
-      "دودوما",
-      "لندن",
-      "دبلن"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 203
-  },
-  {
-    "type": "MCQ",
-    "question": "أي إمبراطورية اشتهرت ببناء الكولوسيوم؟",
-    "options": [
-      "إمبراطورية المغول",
-      "الإمبراطورية الرومانية",
-      "الإمبراطورية الفارسية",
-      "الإمبراطورية العثمانية"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 204
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة الدنمارك؟",
-    "options": [
-      "موسكو",
-      "ليما",
-      "كوبنهاغن",
-      "باريس"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 205
-  },
-  {
-    "type": "MCQ",
-    "question": "ما المقصود بـCloud Computing؟",
-    "options": [
-      "تشغيل دون كهرباء",
-      "ضغط الهواء",
-      "استخدام موارد حاسوبية عبر الإنترنت",
-      "تخزين على ورق"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 206
-  },
-  {
-    "type": "MCQ",
-    "question": "أي إمبراطورية حكمت أجزاء واسعة من الشرق الأوسط وشمال أفريقيا لقرون؟",
-    "options": [
-      "الإمبراطورية اليابانية",
-      "الإمبراطورية العثمانية",
-      "إمبراطورية الإنكا",
-      "الإمبراطورية الرومانية"
-    ],
-    "correctIndex": 1,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 207
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم اللوحة الشهيرة لليوناردو دافنشي؟",
-    "options": [
-      "الموناليزا",
-      "الصرخة",
-      "غيرنيكا",
-      "ليلة النجوم"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 208
-  },
-  {
-    "type": "MCQ",
-    "question": "أي عضو مسؤول أساسًا عن تنقية الدم من الفضلات؟",
+    "question": "ما هو العضو المسؤول عن إنتاج الصفراء؟",
     "options": [
       "المعدة",
-      "الطحال",
-      "الكلى",
-      "الرئة"
+      "الكبد",
+      "البنكرياس",
+      "الطحال"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 209
+    "topic": "أحياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.73,
+    "discriminationIndex": 0.47,
+    "id": 43
   },
   {
     "type": "MCQ",
-    "question": "ما وحدة قياس شدة التيار الكهربائي؟",
+    "question": "أي مضيق يفصل بين أوروبا وأفريقيا؟",
     "options": [
-      "فولت",
-      "واط",
-      "أمبير",
-      "أوم"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 210
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هو النسخ الاحتياطي (Backup)؟",
-    "options": [
-      "حفظ نسخة من البيانات لاستعادتها",
-      "تغيير خلفية الشاشة",
-      "حذف الملفات المؤقتة",
-      "ترقية المعالج"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 211
-  },
-  {
-    "type": "MCQ",
-    "question": "في كرة القدم، ماذا تُسمى ركلة تُنفذ من زاوية الملعب؟",
-    "options": [
-      "ركلة ركنية",
-      "رمية تماس",
-      "ركلة مرمى",
-      "ركلة جزاء"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 212
-  },
-  {
-    "type": "MCQ",
-    "question": "أي مما يلي يُعد من أدوات المطبخ؟",
-    "options": [
-      "المفك",
-      "المطرقة",
-      "المقلاة",
-      "المنشار"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 213
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم مدينة في إيطاليا ارتبطت بعصر النهضة بشكل كبير؟",
-    "options": [
-      "فلورنسا",
-      "تورينو",
-      "بولونيا",
-      "نابولي"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 214
-  },
-  {
-    "type": "MCQ",
-    "question": "أي مدينة تُعرف بـ'عاصمة النور'؟",
-    "options": [
-      "باريس",
-      "فيينا",
-      "برلين",
-      "براغ"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 215
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة كوبا؟",
-    "options": [
-      "هافانا",
-      "نيودلهي",
-      "روما",
-      "بكين"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 216
-  },
-  {
-    "type": "MCQ",
-    "question": "ما معنى CPU؟",
-    "options": [
-      "وحدة معالجة مركزية",
-      "بطاقة رسومية",
-      "ذاكرة مؤقتة",
-      "وحدة تخزين"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 217
-  },
-  {
-    "type": "MCQ",
-    "question": "من مؤلف 'الأمير'؟",
-    "options": [
-      "روسو",
-      "جون لوك",
-      "توماس هوبز",
-      "نيكولو مكيافيلي"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 218
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم النظام الذي استخدمته بعض الحضارات لكتابة الرموز على الطين؟",
-    "options": [
-      "السيريلية",
-      "الهيروغليفية",
-      "الكتابة المسمارية",
-      "اللاتينية"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 219
-  },
-  {
-    "type": "MCQ",
-    "question": "أي خدمة تُستخدم غالبًا لإدارة نسخ المشاريع البرمجية؟",
-    "options": [
-      "Git",
-      "PowerPoint",
-      "Notepad",
-      "Paint"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 220
-  },
-  {
-    "type": "MCQ",
-    "question": "ما علامة الاستفهام في اللغة العربية؟",
-    "options": [
-      "؟",
-      "؛",
-      ":",
-      "!"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 221
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة الولايات المتحدة؟",
-    "options": [
-      "واشنطن العاصمة",
-      "كاراكاس",
-      "أثينا",
-      "أنقرة"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 222
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة كوريا الجنوبية؟",
-    "options": [
-      "سيول",
-      "لندن",
-      "جاكرتا",
-      "هانوي"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 223
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم النهر الذي يمر بمدينة لندن؟",
-    "options": [
-      "الدانوب",
-      "نهر التايمز",
-      "السين",
-      "الراين"
+      "هرمز",
+      "جبل طارق",
+      "البوسفور",
+      "ماجلان"
     ],
     "correctIndex": 1,
     "category": "عام",
     "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 224
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.71,
+    "discriminationIndex": 0.46,
+    "id": 44
   },
   {
     "type": "MCQ",
-    "question": "أي مما يلي يُعد برمجية خبيثة؟",
+    "question": "ما هو أطول نهر في أفريقيا؟",
     "options": [
-      "محرر نصوص",
-      "متصفح",
-      "فيروس",
-      "حاسبة"
+      "الكونغو",
+      "النيل",
+      "النيجر",
+      "الزامبيزي"
     ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 225
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة الهند؟",
-    "options": [
-      "لشبونة",
-      "مكسيكو سيتي",
-      "نيودلهي",
-      "موسكو"
-    ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "category": "عام",
     "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 226
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.66,
+    "discriminationIndex": 0.42,
+    "id": 45
   },
   {
     "type": "MCQ",
-    "question": "ما اسم المدينة التي تُعرف تاريخيًا بـ'مدينة السلام'؟",
+    "question": "من هو مخترع المصباح الكهربائي؟",
     "options": [
-      "روما",
-      "بغداد",
-      "أثينا",
-      "قرطاج"
+      "نيكولا تسلا",
+      "توماس إديسون",
+      "ألكسندر بيل",
+      "مايكل فاراداي"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "اختراعات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.68,
+    "discriminationIndex": 0.43,
+    "id": 46
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد الكواكب في المجموعة الشمسية؟",
+    "options": [
+      "__(7)__",
+      "__(8)__",
+      "__(9)__",
+      "__(10)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.65,
+    "discriminationIndex": 0.41,
+    "id": 47
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي الدولة التي لم تُستعمر أبداً في أفريقيا؟",
+    "options": [
+      "مصر",
+      "إثيوبيا",
+      "المغرب",
+      "الجزائر"
     ],
     "correctIndex": 1,
     "category": "عام",
     "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 227
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.78,
+    "discriminationIndex": 0.51,
+    "id": 48
   },
   {
     "type": "MCQ",
-    "question": "أي من التالي يُعد من حالات المادة؟",
+    "question": "أي غدة تُسمى الغدة الرئيسية في الجسم؟",
     "options": [
-      "الضوء",
-      "الصوت",
-      "الزمن",
-      "الغاز"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 228
-  },
-  {
-    "type": "MCQ",
-    "question": "ما الكوكب الأكبر في المجموعة الشمسية؟",
-    "options": [
-      "زحل",
-      "الأرض",
-      "المشتري",
-      "أورانوس"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 229
-  },
-  {
-    "type": "MCQ",
-    "question": "أي لغة تُستخدم غالبًا لتنسيق صفحات الويب؟",
-    "options": [
-      "CSS",
-      "FTP",
-      "HTTP",
-      "JSON"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 230
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هو JSON؟",
-    "options": [
-      "بروتوكول بريد",
-      "نوع من الصور",
-      "صيغة لتبادل البيانات",
-      "نظام تشغيل"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 231
-  },
-  {
-    "type": "MCQ",
-    "question": "أي لغة تُستخدم عادةً لبناء هيكل صفحات الويب؟",
-    "options": [
-      "HTML",
-      "SQL",
-      "MATLAB",
-      "C++"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 232
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الرياضة التي تعتمد على رمي الكرة داخل سلة مرتفعة؟",
-    "options": [
-      "كرة اليد",
-      "كرة الطائرة",
-      "كرة القدم",
-      "كرة السلة"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 233
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم البحر الواقع بين اليونان وتركيا؟",
-    "options": [
-      "بحر الشمال",
-      "بحر العرب",
-      "بحر البلطيق",
-      "بحر إيجه"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 234
-  },
-  {
-    "type": "MCQ",
-    "question": "أي حضارة اشتهرت بمدينة أثينا؟",
-    "options": [
-      "الحضارة الفارسية",
-      "الحضارة المصرية",
-      "الحضارة الإغريقية",
-      "الحضارة الصينية"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 235
-  },
-  {
-    "type": "MCQ",
-    "question": "من مؤلف 'كليلة ودمنة' بصيغته العربية المشهورة؟",
-    "options": [
-      "ابن خلدون",
-      "ابن المقفع",
-      "الجاحظ",
-      "المتنبي"
+      "الدرقية",
+      "النخامية",
+      "الكظرية",
+      "الصنوبرية"
     ],
     "correctIndex": 1,
     "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 236
+    "topic": "أحياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.76,
+    "discriminationIndex": 0.50,
+    "id": 49
   },
   {
     "type": "MCQ",
-    "question": "ما هي عاصمة جنوب أفريقيا؟",
+    "question": "ما هي عاصمة كندا؟",
     "options": [
-      "هلسنكي",
-      "بغداد",
-      "بريتوريا",
-      "أمستردام"
+      "تورنتو",
+      "أوتاوا",
+      "فانكوفر",
+      "مونتريال"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "category": "عام",
     "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 237
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.74,
+    "discriminationIndex": 0.48,
+    "id": 50
+  },
+  {
+    "type": "MCQ",
+    "question": "كم يستغرق ضوء الشمس للوصول إلى الأرض؟",
+    "options": [
+      "4 دقائق",
+      "8 دقائق",
+      "12 دقيقة",
+      "6 دقائق"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.77,
+    "discriminationIndex": 0.50,
+    "id": 51
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أكبر عضو داخلي في جسم الإنسان؟",
+    "options": [
+      "القلب",
+      "الكبد",
+      "الرئتين",
+      "المعدة"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.70,
+    "discriminationIndex": 0.45,
+    "id": 52
+  },
+  {
+    "type": "MCQ",
+    "question": "أي بلد يُنتج أكبر كمية من الشوكولاتة؟",
+    "options": [
+      "بلجيكا",
+      "ساحل العاج",
+      "سويسرا",
+      "غانا"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "صناعة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.79,
+    "discriminationIndex": 0.52,
+    "id": 53
   },
   {
     "type": "MCQ",
     "question": "ما هو الرمز الكيميائي للذهب؟",
     "options": [
-      "Cu",
       "Ag",
-      "Fe",
-      "Au"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 238
-  },
-  {
-    "type": "MCQ",
-    "question": "من مؤلف 'الغريب'؟",
-    "options": [
-      "ألبير كامو",
-      "سارتر",
-      "دوستويفسكي",
-      "ديكنز"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 239
-  },
-  {
-    "type": "MCQ",
-    "question": "ما وحدة قياس الضغط في النظام الدولي؟",
-    "options": [
-      "باسكال",
-      "جول",
-      "واط",
-      "أمبير"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 240
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هو اسم الجهاز الذي يقيس الضغط الجوي؟",
-    "options": [
-      "السيزمومتر",
-      "الأنيمومتر",
-      "البارومتر",
-      "الترمومتر"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 241
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة تنزانيا؟",
-    "options": [
-      "دودوما",
-      "كوبنهاغن",
-      "هلسنكي",
-      "كييف"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 242
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الجهاز الذي يضخم الأجسام الصغيرة لرؤيتها؟",
-    "options": [
-      "البارومتر",
-      "البوصلة",
-      "المنظار",
-      "المجهر"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "علوم",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 243
-  },
-  {
-    "type": "MCQ",
-    "question": "ما هي عاصمة فنزويلا؟",
-    "options": [
-      "وارسو",
-      "الدوحة",
-      "كاراكاس",
-      "نيروبي"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "جغرافيا",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 244
-  },
-  {
-    "type": "MCQ",
-    "question": "ما معنى 'Phishing'؟",
-    "options": [
-      "ضغط ملفات",
-      "ترميز فيديو",
-      "تحديث نظام",
-      "احتيال للحصول على بيانات حساسة"
-    ],
-    "correctIndex": 3,
-    "category": "عام",
-    "topic": "تقنية",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 245
-  },
-  {
-    "type": "MCQ",
-    "question": "ما اسم الرياضة التي تعتمد على إسقاط الخصم على بساط؟",
-    "options": [
-      "التنس",
-      "السباحة",
-      "المصارعة",
-      "كرة القدم"
-    ],
-    "correctIndex": 2,
-    "category": "عام",
-    "topic": "رياضة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 246
-  },
-  {
-    "type": "MCQ",
-    "question": "أي مما يلي يُعد مثالًا على ترشيد استهلاك الطاقة؟",
-    "options": [
-      "إطفاء الأنوار غير الضرورية",
-      "زيادة الإضاءة دون حاجة",
-      "فتح الثلاجة طويلاً",
-      "ترك الأجهزة تعمل دائمًا"
-    ],
-    "correctIndex": 0,
-    "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 247
-  },
-  {
-    "type": "MCQ",
-    "question": "أي من التالي يُعد من فنون المسرح؟",
-    "options": [
-      "التسلق",
-      "التمثيل",
-      "الرماية",
-      "السباحة"
+      "Au",
+      "Go",
+      "Gd"
     ],
     "correctIndex": 1,
     "category": "عام",
-    "topic": "أدب وفنون",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 248
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.72,
+    "discriminationIndex": 0.46,
+    "id": 54
   },
   {
     "type": "MCQ",
-    "question": "أي مدينة تُعد عاصمة الدولة الأموية تاريخيًا؟",
+    "question": "كم عدد القلوب لدى الأخطبوط؟",
     "options": [
-      "دمشق",
-      "الرباط",
-      "بغداد",
-      "القاهرة"
+      "اثنان",
+      "ثلاثة",
+      "أربعة",
+      "واحد"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "حيوانات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.75,
+    "discriminationIndex": 0.49,
+    "id": 55
+  },
+  {
+    "type": "MCQ",
+    "question": "أي دولة أقامت أول أولمبياد في العصر الحديث؟",
+    "options": [
+      "فرنسا",
+      "اليونان",
+      "إيطاليا",
+      "بريطانيا"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.71,
+    "discriminationIndex": 0.46,
+    "id": 56
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أصلب معدن طبيعي على الأرض؟",
+    "options": [
+      "التيتانيوم",
+      "الألماس",
+      "الكوارتز",
+      "الياقوت"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جيولوجيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.69,
+    "discriminationIndex": 0.44,
+    "id": 57
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد أرجل العنكبوت؟",
+    "options": [
+      "__(6)__",
+      "__(8)__",
+      "__(10)__",
+      "__(12)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "حيوانات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.64,
+    "discriminationIndex": 0.40,
+    "id": 58
+  },
+  {
+    "type": "MCQ",
+    "question": "أي مدينة تُعرف بمدينة الحب؟",
+    "options": [
+      "روما",
+      "باريس",
+      "البندقية",
+      "فيينا"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "ثقافة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.66,
+    "discriminationIndex": 0.42,
+    "id": 59
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو العنصر الأساسي في الفولاذ؟",
+    "options": [
+      "النحاس",
+      "الحديد",
+      "الألمنيوم",
+      "الزنك"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "صناعة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.68,
+    "discriminationIndex": 0.43,
+    "id": 60
+  },
+  {
+    "type": "MCQ",
+    "question": "كم يوماً في السنة الكبيسة؟",
+    "options": [
+      "__(364)__",
+      "__(366)__",
+      "__(365)__",
+      "__(367)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "معلومات عامة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.63,
+    "discriminationIndex": 0.39,
+    "id": 61
+  },
+  {
+    "type": "MCQ",
+    "question": "أي حيوان يُعرف بأنه أذكى الحيوانات البحرية؟",
+    "options": [
+      "الحوت",
+      "الدلفين",
+      "القرش",
+      "الأخطبوط"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "حيوانات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.67,
+    "discriminationIndex": 0.43,
+    "id": 62
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أكبر جزيرة في العالم؟",
+    "options": [
+      "مدغشقر",
+      "غرينلاند",
+      "بورنيو",
+      "سومطرة"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.73,
+    "discriminationIndex": 0.47,
+    "id": 63
+  },
+  {
+    "type": "MCQ",
+    "question": "من كتب مسرحية هاملت؟",
+    "options": [
+      "تشارلز ديكنز",
+      "وليم شكسبير",
+      "جين أوستن",
+      "أوسكار وايلد"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أدب",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.65,
+    "discriminationIndex": 0.41,
+    "id": 64
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي درجة غليان الماء بالمئوية عند مستوى سطح البحر؟",
+    "options": [
+      "__(90)__",
+      "__(100)__",
+      "__(110)__",
+      "__(95)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.62,
+    "discriminationIndex": 0.38,
+    "id": 65
+  },
+  {
+    "type": "MCQ",
+    "question": "أي جهاز يُستخدم لقياس الزلازل؟",
+    "options": [
+      "البارومتر",
+      "السيسموغراف",
+      "الثيرمومتر",
+      "الهيغرومتر"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جيولوجيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.74,
+    "discriminationIndex": 0.48,
+    "id": 66
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي العاصمة الاقتصادية لجنوب أفريقيا؟",
+    "options": [
+      "بريتوريا",
+      "جوهانسبرغ",
+      "كيب تاون",
+      "ديربان"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.79,
+    "discriminationIndex": 0.52,
+    "id": 67
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد أوتار الجيتار الكلاسيكي؟",
+    "options": [
+      "__(4)__",
+      "__(6)__",
+      "__(8)__",
+      "__(5)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "موسيقى",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.70,
+    "discriminationIndex": 0.45,
+    "id": 68
+  },
+  {
+    "type": "MCQ",
+    "question": "أي غاز يُستخدم في ملء البالونات الطائرة؟",
+    "options": [
+      "الأكسجين",
+      "الهيليوم",
+      "النيتروجين",
+      "الأرجون"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.66,
+    "discriminationIndex": 0.42,
+    "id": 69
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أطول حيوان في العالم؟",
+    "options": [
+      "الفيل",
+      "الزرافة",
+      "الحوت الأزرق",
+      "التمساح"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "حيوانات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.72,
+    "discriminationIndex": 0.46,
+    "id": 70
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي عام اندلعت الحرب العالمية الأولى؟",
+    "options": [
+      "__(1912)__",
+      "__(1914)__",
+      "__(1916)__",
+      "__(1918)__"
+    ],
+    "correctIndex": 1,
     "category": "عام",
     "topic": "تاريخ",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 249
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.71,
+    "discriminationIndex": 0.46,
+    "id": 71
   },
   {
     "type": "MCQ",
-    "question": "ما المقصود بـ'المكتبة'؟",
+    "question": "ما هو الاسم العلمي للماء؟",
     "options": [
-      "مكان لصيانة السيارات",
-      "نوع من الأغذية",
-      "منطقة صناعية",
-      "مكان لحفظ الكتب واستعارتها"
+      "CO2",
+      "H2O",
+      "NaCl",
+      "O2"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "category": "عام",
-    "topic": "ثقافة عامة",
-    "difficultyLevel": "متوسط",
-    "difficultyIndex": 0.55,
-    "discriminationIndex": 0.35,
-    "id": 250
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.60,
+    "discriminationIndex": 0.37,
+    "id": 72
+  },
+  {
+    "type": "MCQ",
+    "question": "أي دولة اخترعت البوصلة؟",
+    "options": [
+      "اليونان",
+      "الصين",
+      "مصر",
+      "الهند"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "اختراعات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.75,
+    "discriminationIndex": 0.49,
+    "id": 73
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو متوسط نبضات قلب الإنسان البالغ في الدقيقة؟",
+    "options": [
+      "__(60)__",
+      "__(72)__",
+      "__(80)__",
+      "__(90)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "صحة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.73,
+    "discriminationIndex": 0.47,
+    "id": 74
+  },
+  {
+    "type": "MCQ",
+    "question": "أي كوكب له أكبر عدد من الأقمار؟",
+    "options": [
+      "المشتري",
+      "زحل",
+      "أورانوس",
+      "نبتون"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.78,
+    "discriminationIndex": 0.51,
+    "id": 75
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي وحدة قياس الطاقة؟",
+    "options": [
+      "النيوتن",
+      "الجول",
+      "الواط",
+      "الأمبير"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فيزياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.74,
+    "discriminationIndex": 0.48,
+    "id": 76
+  },
+  {
+    "type": "MCQ",
+    "question": "أي دولة عربية تُعد الأكبر مساحة؟",
+    "options": [
+      "السعودية",
+      "الجزائر",
+      "السودان",
+      "ليبيا"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.76,
+    "discriminationIndex": 0.50,
+    "id": 77
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو اسم أول قمر صناعي أُطلق إلى الفضاء؟",
+    "options": [
+      "أبولو",
+      "سبوتنيك",
+      "فوستوك",
+      "جيميني"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فضاء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.72,
+    "discriminationIndex": 0.46,
+    "id": 78
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد فقرات العمود الفقري للإنسان؟",
+    "options": [
+      "__(30)__",
+      "__(33)__",
+      "__(36)__",
+      "__(28)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.77,
+    "discriminationIndex": 0.50,
+    "id": 79
+  },
+  {
+    "type": "MCQ",
+    "question": "أي محيط يقع بين أمريكا وأوروبا؟",
+    "options": [
+      "الهادئ",
+      "الأطلسي",
+      "الهندي",
+      "المتجمد"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.65,
+    "discriminationIndex": 0.41,
+    "id": 80
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أكبر طائر في العالم؟",
+    "options": [
+      "البطريق الإمبراطور",
+      "النعامة",
+      "النسر",
+      "الكندور"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "حيوانات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.68,
+    "discriminationIndex": 0.43,
+    "id": 81
+  },
+  {
+    "type": "MCQ",
+    "question": "من اكتشف قانون الجاذبية؟",
+    "options": [
+      "أينشتاين",
+      "نيوتن",
+      "غاليليو",
+      "كوبرنيكوس"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.64,
+    "discriminationIndex": 0.40,
+    "id": 82
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أقدم جامعة في العالم لا تزال تعمل؟",
+    "options": [
+      "أكسفورد",
+      "القرويين",
+      "الأزهر",
+      "بولونيا"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تعليم",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.80,
+    "discriminationIndex": 0.53,
+    "id": 83
+  },
+  {
+    "type": "MCQ",
+    "question": "كم ساعة في الأسبوع؟",
+    "options": [
+      "__(156)__",
+      "__(168)__",
+      "__(172)__",
+      "__(160)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.69,
+    "discriminationIndex": 0.44,
+    "id": 84
+  },
+  {
+    "type": "MCQ",
+    "question": "أي فيلسوف يوناني كان تلميذ أفلاطون؟",
+    "options": [
+      "سقراط",
+      "أرسطو",
+      "فيثاغورس",
+      "ديمقريطس"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلسفة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.75,
+    "discriminationIndex": 0.49,
+    "id": 85
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو لون الدم الغني بالأكسجين؟",
+    "options": [
+      "أزرق داكن",
+      "أحمر فاتح",
+      "أحمر داكن",
+      "بنفسجي"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.71,
+    "discriminationIndex": 0.46,
+    "id": 86
+  },
+  {
+    "type": "MCQ",
+    "question": "أي دولة تُنتج أكبر كمية من الأرز؟",
+    "options": [
+      "الهند",
+      "الصين",
+      "إندونيسيا",
+      "فيتنام"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "زراعة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.76,
+    "discriminationIndex": 0.50,
+    "id": 87
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الحيوان الذي ينام واقفاً؟",
+    "options": [
+      "البقرة",
+      "الحصان",
+      "الفيل",
+      "الجمل"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "حيوانات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.73,
+    "discriminationIndex": 0.47,
+    "id": 88
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد المجرات في الكون المرصود تقريباً؟",
+    "options": [
+      "مليون",
+      "مليارين",
+      "مائة مليون",
+      "تريليون"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.81,
+    "discriminationIndex": 0.54,
+    "id": 89
+  },
+  {
+    "type": "MCQ",
+    "question": "أي عالم طور نظرية التطور؟",
+    "options": [
+      "مندل",
+      "داروين",
+      "لامارك",
+      "والاس"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "علوم",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.67,
+    "discriminationIndex": 0.43,
+    "id": 90
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي الدولة الوحيدة التي تقع في قارتين؟",
+    "options": [
+      "روسيا",
+      "تركيا",
+      "مصر",
+      "كازاخستان"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.78,
+    "discriminationIndex": 0.51,
+    "id": 91
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد العضلات في جسم الإنسان تقريباً؟",
+    "options": [
+      "__(500)__",
+      "__(640)__",
+      "__(750)__",
+      "__(400)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.79,
+    "discriminationIndex": 0.52,
+    "id": 92
+  },
+  {
+    "type": "MCQ",
+    "question": "أي مادة تُستخدم في صناعة الإطارات؟",
+    "options": [
+      "البلاستيك",
+      "المطاط",
+      "السيليكون",
+      "اللاتكس"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "صناعة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.66,
+    "discriminationIndex": 0.42,
+    "id": 93
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي المدة التي تستغرقها الأرض لإكمال دورة حول الشمس؟",
+    "options": [
+      "360 يوم",
+      "365 يوم",
+      "370 يوم",
+      "355 يوم"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.64,
+    "discriminationIndex": 0.40,
+    "id": 94
+  },
+  {
+    "type": "MCQ",
+    "question": "أي عنصر يُشكل معظم كتلة الشمس؟",
+    "options": [
+      "الهيليوم",
+      "الهيدروجين",
+      "الكربون",
+      "الأكسجين"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.74,
+    "discriminationIndex": 0.48,
+    "id": 95
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي عاصمة البرازيل؟",
+    "options": [
+      "ريو دي جانيرو",
+      "برازيليا",
+      "ساو باولو",
+      "سلفادور"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.75,
+    "discriminationIndex": 0.49,
+    "id": 96
+  },
+  {
+    "type": "MCQ",
+    "question": "كم بوصة في القدم؟",
+    "options": [
+      "__(10)__",
+      "__(12)__",
+      "__(14)__",
+      "__(8)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "قياسات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.70,
+    "discriminationIndex": 0.45,
+    "id": 97
+  },
+  {
+    "type": "MCQ",
+    "question": "أي حيوان له أطول فترة حمل؟",
+    "options": [
+      "الحوت",
+      "الفيل",
+      "الزرافة",
+      "وحيد القرن"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "حيوانات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.72,
+    "discriminationIndex": 0.46,
+    "id": 98
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو البحر الذي يفصل بين أوروبا وآسيا؟",
+    "options": [
+      "الأبيض المتوسط",
+      "الأسود",
+      "قزوين",
+      "إيجة"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.77,
+    "discriminationIndex": 0.50,
+    "id": 99
+  },
+  {
+    "type": "MCQ",
+    "question": "من اخترع الهاتف؟",
+    "options": [
+      "توماس إديسون",
+      "ألكسندر غراهام بيل",
+      "نيكولا تسلا",
+      "غوليلمو ماركوني"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "اختراعات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.68,
+    "discriminationIndex": 0.43,
+    "id": 100
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد السعرات الحرارية في غرام واحد من البروتين؟",
+    "options": [
+      "__(2)__",
+      "__(4)__",
+      "__(7)__",
+      "__(9)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "صحة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.76,
+    "discriminationIndex": 0.50,
+    "id": 101
+  },
+  {
+    "type": "MCQ",
+    "question": "أي دولة تُعرف ببلاد الشمس المشرقة؟",
+    "options": [
+      "الصين",
+      "اليابان",
+      "كوريا",
+      "تايلاند"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "ثقافة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.67,
+    "discriminationIndex": 0.43,
+    "id": 102
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أصغر كوكب في المجموعة الشمسية؟",
+    "options": [
+      "المريخ",
+      "عطارد",
+      "الزهرة",
+      "بلوتو"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.71,
+    "discriminationIndex": 0.46,
+    "id": 103
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد أجنحة النحلة؟",
+    "options": [
+      "__(2)__",
+      "__(4)__",
+      "__(6)__",
+      "__(8)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "حشرات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.74,
+    "discriminationIndex": 0.48,
+    "id": 104
+  },
+  {
+    "type": "MCQ",
+    "question": "أي مدينة تُعرف بالمدينة التي لا تنام؟",
+    "options": [
+      "لاس فيغاس",
+      "نيويورك",
+      "طوكيو",
+      "لندن"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "ثقافة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.69,
+    "discriminationIndex": 0.44,
+    "id": 105
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو المعدن الأكثر توصيلاً للكهرباء؟",
+    "options": [
+      "النحاس",
+      "الفضة",
+      "الذهب",
+      "الألمنيوم"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.78,
+    "discriminationIndex": 0.51,
+    "id": 106
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي عام تأسست الأمم المتحدة؟",
+    "options": [
+      "__(1943)__",
+      "__(1945)__",
+      "__(1947)__",
+      "__(1950)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.73,
+    "discriminationIndex": 0.47,
+    "id": 107
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أكبر صحراء في العالم؟",
+    "options": [
+      "الربع الخالي",
+      "الصحراء الكبرى",
+      "صحراء جوبي",
+      "صحراء أتاكاما"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.70,
+    "discriminationIndex": 0.45,
+    "id": 108
+  },
+  {
+    "type": "MCQ",
+    "question": "أي حمض موجود في المعدة؟",
+    "options": [
+      "الكبريتيك",
+      "الهيدروكلوريك",
+      "النيتريك",
+      "الفوسفوريك"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.75,
+    "discriminationIndex": 0.49,
+    "id": 109
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد النجوم على علم الولايات المتحدة؟",
+    "options": [
+      "__(48)__",
+      "__(50)__",
+      "__(52)__",
+      "__(45)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "ثقافة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.68,
+    "discriminationIndex": 0.43,
+    "id": 110
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أكبر بحيرة للمياه العذبة في العالم؟",
+    "options": [
+      "فيكتوريا",
+      "سوبيريور",
+      "بايكال",
+      "هورون"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.77,
+    "discriminationIndex": 0.50,
+    "id": 111
+  },
+  {
+    "type": "MCQ",
+    "question": "أي عالم وضع الجدول الدوري للعناصر؟",
+    "options": [
+      "دالتون",
+      "مندليف",
+      "أفوغادرو",
+      "بويل"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "كيمياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.74,
+    "discriminationIndex": 0.48,
+    "id": 112
+  },
+  {
+    "type": "MCQ",
+    "question": "كم سنتيمتر في المتر؟",
+    "options": [
+      "__(10)__",
+      "__(100)__",
+      "__(1000)__",
+      "__(50)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "قياسات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.60,
+    "discriminationIndex": 0.37,
+    "id": 113
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الطائر الوحيد الذي يستطيع الطيران للخلف؟",
+    "options": [
+      "العصفور",
+      "الطنان",
+      "النسر",
+      "البجعة"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "حيوانات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.76,
+    "discriminationIndex": 0.50,
+    "id": 114
+  },
+  {
+    "type": "MCQ",
+    "question": "أي دولة لها أطول خط ساحلي في العالم؟",
+    "options": [
+      "روسيا",
+      "كندا",
+      "الولايات المتحدة",
+      "أستراليا"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.79,
+    "discriminationIndex": 0.52,
+    "id": 115
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو العصر الذي عاشت فيه الديناصورات؟",
+    "options": [
+      "الحجري",
+      "الميزوزوي",
+      "الباليوزوي",
+      "السينوزوي"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جيولوجيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.80,
+    "discriminationIndex": 0.53,
+    "id": 116
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد أسابيع الحمل الطبيعي تقريباً؟",
+    "options": [
+      "__(36)__",
+      "__(40)__",
+      "__(42)__",
+      "__(38)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "صحة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.71,
+    "discriminationIndex": 0.46,
+    "id": 117
+  },
+  {
+    "type": "MCQ",
+    "question": "أي معدن يُستخدم في صناعة البطاريات القابلة للشحن؟",
+    "options": [
+      "النحاس",
+      "الليثيوم",
+      "الزنك",
+      "النيكل"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تقنية",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.72,
+    "discriminationIndex": 0.46,
+    "id": 118
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي المسافة بين الأرض والقمر تقريباً؟",
+    "options": [
+      "250,000 كم",
+      "384,000 كم",
+      "450,000 كم",
+      "300,000 كم"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.78,
+    "discriminationIndex": 0.51,
+    "id": 119
+  },
+  {
+    "type": "MCQ",
+    "question": "أي دولة تُنتج أكبر كمية من زيت الزيتون؟",
+    "options": [
+      "اليونان",
+      "إسبانيا",
+      "إيطاليا",
+      "تونس"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "زراعة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.77,
+    "discriminationIndex": 0.50,
+    "id": 120
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أكثر العناصر شيوعاً في القشرة الأرضية؟",
+    "options": [
+      "السيليكون",
+      "الأكسجين",
+      "الحديد",
+      "الألمنيوم"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جيولوجيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.79,
+    "discriminationIndex": 0.52,
+    "id": 121
+  },
+  {
+    "type": "MCQ",
+    "question": "كم غراماً في الكيلوغرام؟",
+    "options": [
+      "__(100)__",
+      "__(1000)__",
+      "__(500)__",
+      "__(10000)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "قياسات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.58,
+    "discriminationIndex": 0.36,
+    "id": 122
+  },
+  {
+    "type": "MCQ",
+    "question": "أي كائن حي يُنتج الأكسجين أثناء البناء الضوئي؟",
+    "options": [
+      "الفطريات",
+      "النباتات",
+      "البكتيريا",
+      "الفيروسات"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.65,
+    "discriminationIndex": 0.41,
+    "id": 123
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أعلى قمة في العالم؟",
+    "options": [
+      "كي 2",
+      "إيفرست",
+      "كانغشينجونغا",
+      "لوتسي"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.64,
+    "discriminationIndex": 0.40,
+    "id": 124
+  },
+  {
+    "type": "MCQ",
+    "question": "من اخترع الديناميت؟",
+    "options": [
+      "أينشتاين",
+      "ألفريد نوبل",
+      "ماري كوري",
+      "روبرت أوبنهايمر"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "اختراعات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.73,
+    "discriminationIndex": 0.47,
+    "id": 125
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد الأسنان اللبنية عند الأطفال؟",
+    "options": [
+      "__(16)__",
+      "__(20)__",
+      "__(24)__",
+      "__(18)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "صحة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.72,
+    "discriminationIndex": 0.46,
+    "id": 126
+  },
+  {
+    "type": "MCQ",
+    "question": "أي بلد يُعرف بأرض الألف بحيرة؟",
+    "options": [
+      "السويد",
+      "فنلندا",
+      "النرويج",
+      "كندا"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.78,
+    "discriminationIndex": 0.51,
+    "id": 127
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الغاز الذي يُستخدم في اللحام؟",
+    "options": [
+      "النيتروجين",
+      "الأسيتيلين",
+      "الأكسجين",
+      "الميثان"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "صناعة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.76,
+    "discriminationIndex": 0.50,
+    "id": 128
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد الأميال في الماراثون؟",
+    "options": [
+      "__(24.2)__",
+      "__(26.2)__",
+      "__(28.2)__",
+      "__(25.2)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.75,
+    "discriminationIndex": 0.49,
+    "id": 129
+  },
+  {
+    "type": "MCQ",
+    "question": "أي نهر يمر عبر باريس؟",
+    "options": [
+      "الراين",
+      "السين",
+      "الدانوب",
+      "التايمز"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.70,
+    "discriminationIndex": 0.45,
+    "id": 130
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو أكبر حيوان ثديي على اليابسة؟",
+    "options": [
+      "وحيد القرن",
+      "الفيل الأفريقي",
+      "فرس النهر",
+      "الجاموس"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "حيوانات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.69,
+    "discriminationIndex": 0.44,
+    "id": 131
+  },
+  {
+    "type": "MCQ",
+    "question": "في أي قرن حدثت الثورة الفرنسية؟",
+    "options": [
+      "السابع عشر",
+      "الثامن عشر",
+      "التاسع عشر",
+      "السادس عشر"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.74,
+    "discriminationIndex": 0.48,
+    "id": 132
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو العضو المسؤول عن توازن الجسم؟",
+    "options": [
+      "العين",
+      "الأذن الداخلية",
+      "المخيخ",
+      "الحبل الشوكي"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.77,
+    "discriminationIndex": 0.50,
+    "id": 133
+  },
+  {
+    "type": "MCQ",
+    "question": "كم ثانية في الساعة؟",
+    "options": [
+      "__(3000)__",
+      "__(3600)__",
+      "__(4200)__",
+      "__(3200)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "رياضيات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.68,
+    "discriminationIndex": 0.43,
+    "id": 134
+  },
+  {
+    "type": "MCQ",
+    "question": "أي فنان رسم سقف كنيسة سيستينا؟",
+    "options": [
+      "رافائيل",
+      "مايكل أنجلو",
+      "دافنشي",
+      "كارافاجيو"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فن",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.73,
+    "discriminationIndex": 0.47,
+    "id": 135
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي أقدم حضارة معروفة في التاريخ؟",
+    "options": [
+      "المصرية",
+      "السومرية",
+      "الصينية",
+      "الهندية"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.79,
+    "discriminationIndex": 0.52,
+    "id": 136
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد العيون لدى النحلة؟",
+    "options": [
+      "__(3)__",
+      "__(5)__",
+      "__(2)__",
+      "__(4)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "حشرات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.81,
+    "discriminationIndex": 0.54,
+    "id": 137
+  },
+  {
+    "type": "MCQ",
+    "question": "أي مادة تُغطي الأسنان من الخارج؟",
+    "options": [
+      "العاج",
+      "المينا",
+      "اللب",
+      "الملاط"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "صحة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.71,
+    "discriminationIndex": 0.46,
+    "id": 138
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو البلد الأكثر زيارة في العالم؟",
+    "options": [
+      "إسبانيا",
+      "فرنسا",
+      "إيطاليا",
+      "الولايات المتحدة"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "سياحة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.74,
+    "discriminationIndex": 0.48,
+    "id": 139
+  },
+  {
+    "type": "MCQ",
+    "question": "كم لتراً من الدم في جسم الإنسان البالغ تقريباً؟",
+    "options": [
+      "__(3)__",
+      "__(5)__",
+      "__(7)__",
+      "__(4)__"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.73,
+    "discriminationIndex": 0.47,
+    "id": 140
+  },
+  {
+    "type": "MCQ",
+    "question": "أي دولة اخترعت الديمقراطية؟",
+    "options": [
+      "روما",
+      "اليونان",
+      "مصر",
+      "فارس"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.70,
+    "discriminationIndex": 0.45,
+    "id": 141
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الحيوان الذي له أقوى عضة؟",
+    "options": [
+      "الأسد",
+      "التمساح",
+      "القرش",
+      "الضبع"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "حيوانات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.76,
+    "discriminationIndex": 0.50,
+    "id": 142
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد خلايا الدم الحمراء التي يُنتجها الجسم في الثانية؟",
+    "options": [
+      "مئات",
+      "ملايين",
+      "آلاف",
+      "مليارات"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.80,
+    "discriminationIndex": 0.53,
+    "id": 143
+  },
+{
+    "type": "MCQ",
+    "question": "أي مدينة كانت عاصمة الإمبراطورية الرومانية الشرقية؟",
+    "options": [
+      "روما",
+      "القسطنطينية",
+      "أثينا",
+      "الإسكندرية"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "تاريخ",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.75,
+    "discriminationIndex": 0.49,
+    "id": 144
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هو الغاز المسبب للاحتباس الحراري الرئيسي؟",
+    "options": [
+      "الأكسجين",
+      "ثاني أكسيد الكربون",
+      "النيتروجين",
+      "الهيليوم"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "بيئة",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.69,
+    "discriminationIndex": 0.44,
+    "id": 145
+  },
+  {
+    "type": "MCQ",
+    "question": "كم ميلاً في الكيلومتر الواحد تقريباً؟",
+    "options": [
+      "0.5",
+      "0.62",
+      "0.75",
+      "0.8"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "قياسات",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.77,
+    "discriminationIndex": 0.50,
+    "id": 146
+  },
+  {
+    "type": "MCQ",
+    "question": "أي كوكب يدور حول محوره بشكل عكسي؟",
+    "options": [
+      "المريخ",
+      "الزهرة",
+      "أورانوس",
+      "نبتون"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "فلك",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.82,
+    "discriminationIndex": 0.55,
+    "id": 147
+  },
+  {
+    "type": "MCQ",
+    "question": "ما هي الدولة التي لها أكثر مناطق زمنية؟",
+    "options": [
+      "روسيا",
+      "فرنسا",
+      "الولايات المتحدة",
+      "الصين"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "جغرافيا",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.83,
+    "discriminationIndex": 0.56,
+    "id": 148
+  },
+  {
+    "type": "MCQ",
+    "question": "كم عدد الحواس الأساسية لدى الإنسان؟",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "أحياء",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.62,
+    "discriminationIndex": 0.38,
+    "id": 149
+  },
+  {
+    "type": "MCQ",
+    "question": "أي عالم اكتشف البنسلين؟",
+    "options": [
+      "لويس باستور",
+      "ألكسندر فليمنج",
+      "روبرت كوخ",
+      "إدوارد جينر"
+    ],
+    "correctIndex": 1,
+    "category": "عام",
+    "topic": "طب",
+    "difficultyLevel": "صعب",
+    "difficultyIndex": 0.74,
+    "discriminationIndex": 0.48,
+    "id": 150
   }
 ]
