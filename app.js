@@ -21,6 +21,13 @@ const AUTO_SCORE_ON_SELECT = true; // إذا تريدها يدوي لاحقًا 
   const btnReset = $("#btnReset");
   const btnAddQuestion = $("#btnAddQuestion");
 
+
+  // TEAM NAME INPUTS
+  const teamATitle = $("#teamATitle");
+  const teamBTitle = $("#teamBTitle");
+  const teamANameInput = $("#teamAName");
+  const teamBNameInput = $("#teamBName");
+
   // Dialogs
   const settingsDialog = $("#settingsDialog");
   const endDialog = $("#endDialog");
@@ -91,14 +98,17 @@ const AUTO_SCORE_ON_SELECT = true; // إذا تريدها يدوي لاحقًا 
 
   // ---------- App State ----------
   const DEFAULTS = {
-    questionsPerGame: 20,
-    secondsPerQuestion: 30,
-    pointsCorrect: 1,
-    pointsWrong: 0,
-    enableMCQ: true,
-    enableTF: true,
-    category: "general",
-  };
+  questionsPerGame: 20,
+  secondsPerQuestion: 30,
+  pointsCorrect: 1,
+  pointsWrong: 0,
+  enableMCQ: true,
+  enableTF: true,
+  category: "general",
+  teamAName: "الفريق A",
+  teamBName: "الفريق B",
+};
+
 
   let settings = { ...DEFAULTS };
 
@@ -548,9 +558,24 @@ const AUTO_SCORE_ON_SELECT = true; // إذا تريدها يدوي لاحقًا 
     endScoreB.textContent = String(b);
 
     let msg = "";
-    if (a > b) msg = "🏆 الفائز: الفريق A";
-    else if (b > a) msg = "🏆 الفائز: الفريق B";
-    else msg = "🤝 تعادل بين الفريقين";
+
+const nameA = (settings.teamAName && settings.teamAName.trim())
+  ? settings.teamAName.trim()
+  : "الفريق A";
+
+const nameB = (settings.teamBName && settings.teamBName.trim())
+  ? settings.teamBName.trim()
+  : "الفريق B";
+
+// ✅ حدّث أسماء المربعات داخل نافذة النهاية
+if (endNameA) endNameA.textContent = nameA;
+if (endNameB) endNameB.textContent = nameB;
+
+if (a > b) msg = `🏆 الفائز: ${nameA}`;
+else if (b > a) msg = `🏆 الفائز: ${nameB}`;
+else msg = `🤝 تعادل بين ${nameA} و ${nameB}`;
+
+
 
     if (ranOut) msg += " (انتهت الأسئلة المتاحة)";
 
@@ -581,6 +606,7 @@ const AUTO_SCORE_ON_SELECT = true; // إذا تريدها يدوي لاحقًا 
     turn = "A";
     updateScoresUI();
     updateTurnUI();
+    updateTeamNamesUI();
 
     questionTextEl.textContent = "اضغط \"ابدأ\" لبدء اللعبة وتحميل الأسئلة.";
     questionTypeEl.textContent = "—";
@@ -649,25 +675,39 @@ const AUTO_SCORE_ON_SELECT = true; // إذا تريدها يدوي لاحقًا 
   }
 
   // ---------- Settings ----------
-  function loadSettingsToUI() {
-    questionsPerGameInput.value = String(settings.questionsPerGame);
-    secondsPerQuestionInput.value = String(settings.secondsPerQuestion);
-    pointsCorrectInput.value = String(settings.pointsCorrect);
-    pointsWrongInput.value = String(settings.pointsWrong);
-    enableMCQInput.checked = settings.enableMCQ;
-    enableTFInput.checked = settings.enableTF;
-    gameCategory.value = settings.category;
-  }
+function loadSettingsToUI() {
+  questionsPerGameInput.value = settings.questionsPerGame;
+  secondsPerQuestionInput.value = settings.secondsPerQuestion;
+  pointsCorrectInput.value = settings.pointsCorrect;
+  pointsWrongInput.value = settings.pointsWrong;
+  enableMCQInput.checked = settings.enableMCQ;
+  enableTFInput.checked = settings.enableTF;
+  gameCategory.value = settings.category;
 
-  function readSettingsFromUI() {
-    settings.questionsPerGame = safeNumberFromInput(questionsPerGameInput, DEFAULTS.questionsPerGame, 5, 100);
-    settings.secondsPerQuestion = safeNumberFromInput(secondsPerQuestionInput, DEFAULTS.secondsPerQuestion, 5, 120);
-    settings.pointsCorrect = safeNumberFromInput(pointsCorrectInput, DEFAULTS.pointsCorrect, 1, 50);
-    settings.pointsWrong = safeNumberFromInput(pointsWrongInput, DEFAULTS.pointsWrong, 0, 50);
-    settings.enableMCQ = !!enableMCQInput.checked;
-    settings.enableTF = !!enableTFInput.checked;
-    settings.category = (gameCategory.value || "general").toLowerCase();
-  }
+  teamANameInput.value = settings.teamAName;
+  teamBNameInput.value = settings.teamBName;
+}
+
+
+function readSettingsFromUI() {
+  settings.questionsPerGame = safeNumberFromInput(questionsPerGameInput, DEFAULTS.questionsPerGame, 5, 100);
+  settings.secondsPerQuestion = safeNumberFromInput(secondsPerQuestionInput, DEFAULTS.secondsPerQuestion, 5, 120);
+  settings.pointsCorrect = safeNumberFromInput(pointsCorrectInput, DEFAULTS.pointsCorrect, 1, 50);
+  settings.pointsWrong = safeNumberFromInput(pointsWrongInput, DEFAULTS.pointsWrong, 0, 50);
+  settings.enableMCQ = enableMCQInput.checked;
+  settings.enableTF = enableTFInput.checked;
+  settings.category = gameCategory.value || "general";
+
+  settings.teamAName = teamANameInput.value.trim() || "الفريق A";
+  settings.teamBName = teamBNameInput.value.trim() || "الفريق B";
+
+  updateTeamNamesUI(); // ✅
+}
+
+function updateTeamNamesUI() {
+  teamATitle.textContent = settings.teamAName;
+  teamBTitle.textContent = settings.teamBName;
+}
 
   function openSettings() {
     loadSettingsToUI();
