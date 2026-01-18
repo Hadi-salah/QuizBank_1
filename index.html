@@ -13,15 +13,6 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 
-<!-- أضف هذا الكود قبل </body> -->
-<div class="floating-shapes" aria-hidden="true">
-  <div class="shape">؟</div>
-  <div class="shape">★</div>
-  <div class="shape">📚</div>
-  <div class="shape">✓</div>
-  <div class="shape">◆</div>
-  <div class="shape">؟</div>
-</div>
 <body>
   <a class="skip-link" href="#main">تخطي إلى المحتوى</a>
 
@@ -55,7 +46,8 @@
     <aside class="panel teams-panel" aria-label="لوحة الفرق">
       <section class="card team-card" aria-label="الفريق A">
         <header class="card-header">
-          <h2 class="card-title">الفريق A</h2>
+          <!-- ✅ FIX: add id -->
+          <h2 id="teamATitle" class="card-title">الفريق A</h2>
           <span id="badgeTurnA" class="badge" hidden>الدور الآن</span>
         </header>
 
@@ -72,7 +64,8 @@
 
       <section class="card team-card" aria-label="الفريق B">
         <header class="card-header">
-          <h2 class="card-title">الفريق B</h2>
+          <!-- ✅ FIX: add id -->
+          <h2 id="teamBTitle" class="card-title">الفريق B</h2>
           <span id="badgeTurnB" class="badge" hidden>الدور الآن</span>
         </header>
 
@@ -185,14 +178,25 @@
           <small class="help">ضع 0 إذا لا تريد خصم.</small>
         </div>
 
+        <!-- Team Names -->
+        <div class="field">
+          <label for="teamAName">اسم الفريق الأول</label>
+          <input id="teamAName" name="teamAName" type="text" placeholder="مثال: النسور" />
+        </div>
+
+        <div class="field">
+          <label for="teamBName">اسم الفريق الثاني</label>
+          <input id="teamBName" name="teamBName" type="text" placeholder="مثال: الصقور" />
+        </div>
+
         <div class="field">
           <label for="gameCategory">فئة الأسئلة</label>
-          <select id="gameCategory">
+          <select id="gameCategory" name="gameCategory">
             <option value="general">عامة</option>
             <option value="sports">رياضة</option>
             <option value="technology">تكنولوجيا</option>
             <option value="history">تاريخ</option>
-            <option value="medical">اخرى</option>
+            <option value="medical">طبية</option>
           </select>
         </div>
 
@@ -240,7 +244,7 @@
             <option value="sports">رياضة</option>
             <option value="technology">تكنولوجيا</option>
             <option value="history">تاريخ</option>
-            <option value="medical">اخرى</option>
+            <option value="medical">طبية</option>
           </select>
         </div>
 
@@ -249,7 +253,6 @@
           <textarea id="aqQuestion" rows="3" placeholder="اكتب السؤال هنا..."></textarea>
         </div>
 
-        <!-- MCQ Fields -->
         <div id="mcqFields">
           <div class="field">
             <label>الخيارات (4)</label>
@@ -270,7 +273,6 @@
           </div>
         </div>
 
-        <!-- TF Fields -->
         <div id="tfFields" hidden>
           <div class="field">
             <label for="aqCorrectTf">الإجابة الصحيحة</label>
@@ -302,16 +304,16 @@
         <p id="winnerText" class="winner-text">—</p>
 
         <div class="end-scores">
-          <div class="end-score">
-            <span>الفريق A</span>
-            <strong id="endScoreA">0</strong>
-          </div>
-          <div class="end-score">
-            <span>الفريق B</span>
-            <strong id="endScoreB">0</strong>
-          </div>
+         <div class="end-score">
+          <span id="endNameA">الفريق A</span>
+          <strong id="endScoreA">0</strong>
+        </div>
+        <div class="end-score">
+          <span id="endNameB">الفريق B</span>
+          <strong id="endScoreB">0</strong>
         </div>
       </div>
+    </div>
 
       <footer class="dialog-footer">
         <button id="btnPlayAgain" class="btn btn-primary" value="default" type="submit">العب مرة أخرى</button>
@@ -320,7 +322,16 @@
     </form>
   </dialog>
 
+  <!-- ✅ FIX: move floating shapes inside body (before closing body) -->
+  <div class="floating-shapes" aria-hidden="true">
+    <div class="shape">؟</div>
+    <div class="shape">★</div>
+    <div class="shape">📚</div>
+    <div class="shape">✓</div>
+    <div class="shape">◆</div>
+    <div class="shape">؟</div>
+  </div>
+
   <script src="app.js" defer></script>
 </body>
 </html>
-
