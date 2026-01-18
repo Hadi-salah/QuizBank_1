@@ -2163,3 +2163,29 @@ select:hover, textarea:hover{
     border: 1px solid #ccc !important;
   }
 }
+
+/* ✅ Settings dialog scroll */
+#settingsDialog .dialog-content {
+  max-height: 85vh;        /* ارتفاع النافذة كحد أعلى */
+  overflow: hidden;        /* نخلي السكرول داخل الجسم فقط */
+  display: flex;
+  flex-direction: column;
+}
+
+#settingsDialog .dialog-body {
+  overflow-y: auto;        /* ✅ السكرول هنا */
+  max-height: 60vh;        /* تقدر تزود/تنقص حسب التصميم */
+  padding-right: 8px;      /* حتى ما يلصق السكرول بالنص */
+}
+
+/* اختياري: تحسين شكل السكرول (Chrome/Edge) */
+#settingsDialog .dialog-body::-webkit-scrollbar {
+  width: 10px;
+}
+#settingsDialog .dialog-body::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: rgba(255,255,255,.18);
+}
+#settingsDialog .dialog-body::-webkit-scrollbar-track {
+  background: rgba(255,255,255,.06);
+}
