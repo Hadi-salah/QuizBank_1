@@ -1,541 +1,449 @@
 [
 {
 "type": "MCQ",
-"question": "ما هو الحد الأقصى لقيمة Light Level التي تمنع Spawn للموبات المعادية (Java الحديثة)؟",
-"options": ["0 فقط", "7", "1", "15"],
-"correctIndex": 0,
+"question": "ما هو ترتيب تنفيذ الـ game loop في Minecraft Java (بشكل مبسط)؟",
+"options": [
+"Render → Tick → Input",
+"Input → Tick → Render",
+"Tick → Render → Input",
+"Input → Render → Tick"
+],
+"correctIndex": 1,
 "category": "Minecraft",
-"topic": "Spawning Mechanics",
-"difficultyLevel": "مستحيل",
-"difficultyIndex": 0.01,
-"discriminationIndex": 0.95,
+"topic": "Engine Loop",
+"difficultyLevel": "Developer",
+"difficultyIndex": 0.005,
+"discriminationIndex": 0.98,
 "id": 1
 },
 {
 "type": "MCQ",
-"question": "كم مدة Game Tick بالثواني؟",
-"options": ["0.1", "0.05", "0.02", "0.5"],
-"correctIndex": 1,
-"category": "Minecraft",
-"topic": "Engine",
-"difficultyLevel": "مستحيل",
-"difficultyIndex": 0.01,
-"discriminationIndex": 0.94,
+"question": "ما هو مصدر العشوائية (RNG) الأساسي في Minecraft Java؟",
+"options": [
+"Math.random()",
+"ThreadLocalRandom",
+"Java.util.Random seeded per world",
+"C++ RNG engine"
+],
+"correctIndex": 2,
 "id": 2
 },
 {
 "type": "MCQ",
-"question": "ما هو أقصى Block Update Delay ممكن باستخدام Redstone فقط؟",
-"options": ["4 ticks", "8 ticks", "16 ticks", "غير محدود نظرياً"],
-"correctIndex": 3,
-"id": 3,
-"category": "Minecraft",
-"topic": "Redstone",
-"difficultyLevel": "مستحيل",
-"difficultyIndex": 0.02,
-"discriminationIndex": 0.93
-},
-{
-"type": "MCQ",
-"question": "أي Mob لديه أعلى Natural Armor Value؟",
-"options": ["Zombie", "Iron Golem", "Wither", "Ender Dragon"],
-"correctIndex": 1,
-"id": 4,
-"category": "Minecraft",
-"topic": "Combat",
-"difficultyLevel": "مستحيل",
-"difficultyIndex": 0.02,
-"discriminationIndex": 0.92
-},
-{
-"type": "MCQ",
-"question": "ما هو أقصى Distance للـ Mob Spawning حول اللاعب؟",
-"options": ["64", "96", "128", "256"],
+"question": "كم عدد Random Ticks الافتراضية لكل chunk في tick واحد؟",
+"options": ["1", "2", "3", "5"],
 "correctIndex": 2,
-"id": 5,
-"category": "Minecraft",
-"topic": "Spawning",
-"difficultyLevel": "مستحيل",
-"difficultyIndex": 0.02,
-"discriminationIndex": 0.92
-},
-
-{
-"type": "MCQ",
-"question": "ما هو أقصى Chunk Border Load بدون Player (Simulation Distance default)؟",
-"options": ["5", "10", "12", "يعتمد على الإعدادات"],
-"correctIndex": 3,
-"id": 6,
-"category": "Minecraft",
-"topic": "Chunks",
-"difficultyLevel": "مستحيل"
+"id": 3
 },
 {
 "type": "MCQ",
-"question": "أي Block يمكنه تحديث BUD Switch بدون Signal مباشر؟",
-"options": ["Dirt", "Observer", "Glass", "Cobblestone"],
-"correctIndex": 1,
-"id": 7,
-"category": "Minecraft",
-"topic": "Redstone"
-},
-{
-"type": "MCQ",
-"question": "كم عدد Gameticks اللازمة لفتح باب باستخدام Redstone؟",
-"options": ["1", "2", "0", "4"],
-"correctIndex": 1,
-"id": 8,
-"category": "Minecraft",
-"topic": "Redstone"
-},
-{
-"type": "MCQ",
-"question": "ما هو أقصى Damage Fall بدون Armor قبل الموت؟",
-"options": ["20 block", "23 block", "25 block", "غير ثابت"],
-"correctIndex": 1,
-"id": 9,
-"category": "Minecraft",
-"topic": "Physics"
-},
-{
-"type": "MCQ",
-"question": "أي Biome يعطي أعلى Spawn Rate للـ Endermen؟",
-"options": ["Forest", "Desert", "Warped Forest", "End"],
-"correctIndex": 2,
-"id": 10,
-"category": "Minecraft",
-"topic": "Biomes"
-},
-
-{
-"type": "MCQ",
-"question": "ما هو الحد الأقصى لسرعة Minecart؟",
-"options": ["8 m/s", "12 m/s", "20 m/s", "24 m/s"],
+"question": "ما هو الحد الأدنى لـ light level المطلوب لspawn mobs في الإصدارات الحديثة؟",
+"options": ["0", "1", "7", "15"],
 "correctIndex": 0,
+"id": 4
+},
+{
+"type": "MCQ",
+"question": "كيف يتم حساب Mob Cap بشكل أساسي؟",
+"options": [
+"عدد اللاعبين فقط",
+"عدد chunks المحملة",
+"عدد اللاعبين × عدد chunks",
+"يعتمد على simulation distance"
+],
+"correctIndex": 2,
+"id": 5
+},
+
+{
+"type": "MCQ",
+"question": "ما هو ترتيب تحديث Redstone في نفس tick؟",
+"options": [
+"Random",
+"حسب الاتجاه",
+"حسب priority queue داخلي",
+"من الأعلى للأسفل"
+],
+"correctIndex": 2,
+"id": 6
+},
+{
+"type": "MCQ",
+"question": "ما هو زمن hopper cooldown بالـ ticks؟",
+"options": ["4", "8", "16", "1"],
+"correctIndex": 1,
+"id": 7
+},
+{
+"type": "MCQ",
+"question": "ما هو الحد الأقصى لقيمة gamerule randomTickSpeed؟",
+"options": ["4096", "65535", "Integer Max", "255"],
+"correctIndex": 2,
+"id": 8
+},
+{
+"type": "MCQ",
+"question": "كيف يتم حساب chunk loading في Java؟",
+"options": [
+"Radius مربع",
+"Radius دائري",
+"Square grid centered on player",
+"Random chunks"
+],
+"correctIndex": 2,
+"id": 9
+},
+{
+"type": "MCQ",
+"question": "ما هو الحد الأقصى لعدد block updates الممكن جدولتها في tick واحد؟",
+"options": [
+"1024",
+"4096",
+"غير محدود نظرياً (مقيد بالأداء)",
+"65535"
+],
+"correctIndex": 2,
+"id": 10
+},
+
+{
+"type": "MCQ",
+"question": "كيف يتم تحديد اتجاه propagation لإشارة Redstone؟",
+"options": [
+"Clockwise",
+"Random",
+"حسب ترتيب الupdate الداخلي",
+"حسب اللاعب"
+],
+"correctIndex": 2,
 "id": 11
 },
 {
 "type": "MCQ",
-"question": "ما هو الحد الأقصى لسرعة Boat على Ice؟",
-"options": ["20 m/s", "40 m/s", "72 m/s", "100 m/s"],
+"question": "ما هو أساس حساب fall damage؟",
+"options": [
+"السرعة فقط",
+"عدد blocks الساقطة",
+"distance - 3",
+"الوقت بالسقوط"
+],
 "correctIndex": 2,
 "id": 12
 },
 {
 "type": "MCQ",
-"question": "ما هو أقصى Height للـ Nether؟",
-"options": ["128", "256", "320", "512"],
-"correctIndex": 0,
+"question": "ما هو internal unit لقياس الوقت في Minecraft؟",
+"options": ["Seconds", "Ticks", "Frames", "Milliseconds"],
+"correctIndex": 1,
 "id": 13
 },
 {
 "type": "MCQ",
-"question": "أي Block يمنع تماماً Mob Pathfinding؟",
-"options": ["Glass", "Leaves", "Fence", "Barrier"],
-"correctIndex": 3,
+"question": "ما هو أقصى عدد scheduled ticks في block tick queue؟",
+"options": [
+"1000",
+"10000",
+"غير محدود عملياً",
+"4096"
+],
+"correctIndex": 2,
 "id": 14
 },
 {
 "type": "MCQ",
-"question": "كم Tick يستغرق نمو Wheat؟",
-"options": ["1000+", "Random ticks", "20", "5"],
+"question": "كيف يتم حساب explosion exposure؟",
+"options": [
+"distance فقط",
+"raycasting sampling",
+"random",
+"block hardness"
+],
 "correctIndex": 1,
 "id": 15
 },
 
 {
 "type": "MCQ",
-"question": "ما هو أقصى Stack Limit غير طبيعي في اللعبة؟",
-"options": ["64", "16", "1", "يعتمد على العنصر"],
-"correctIndex": 3,
+"question": "ما هو الحد الأقصى لقيمة entity id في العالم؟",
+"options": [
+"65535",
+"Integer max",
+"UUID system",
+"4096"
+],
+"correctIndex": 2,
 "id": 16
 },
 {
 "type": "MCQ",
-"question": "أي Mob لا يتأثر بـ Knockback؟",
-"options": ["Zombie", "Iron Golem", "Wither", "Skeleton"],
-"correctIndex": 2,
+"question": "كيف يتم تحديث AI للموبات؟",
+"options": [
+"كل tick",
+"كل 2 ticks",
+"Random interval",
+"حسب load"
+],
+"correctIndex": 0,
 "id": 17
 },
 {
 "type": "MCQ",
-"question": "ما هو الحد الأقصى لعدد Villagers في Iron Farm فعال؟",
-"options": ["3", "5", "10", "غير محدود نظرياً"],
-"correctIndex": 3,
+"question": "ما هو internal pathfinding algorithm للموبات؟",
+"options": [
+"Dijkstra",
+"A*",
+"BFS",
+"DFS"
+],
+"correctIndex": 1,
 "id": 18
 },
 {
 "type": "MCQ",
-"question": "أي Block يعطي أقوى Blast Resistance؟",
-"options": ["Obsidian", "Netherite Block", "Bedrock", "End Stone"],
+"question": "ما هو الحد الأقصى لقيمة velocity entity؟",
+"options": [
+"10",
+"20",
+"3.9 تقريباً",
+"Unlimited"
+],
 "correctIndex": 2,
 "id": 19
 },
 {
 "type": "MCQ",
-"question": "كم Tick يحتاج Hopper لنقل Item؟",
-"options": ["1", "4", "8", "20"],
-"correctIndex": 2,
+"question": "كيف يتم حساب mob despawn؟",
+"options": [
+"distance فقط",
+"random + distance",
+"time only",
+"health"
+],
+"correctIndex": 1,
 "id": 20
 },
 
 {
 "type": "MCQ",
-"question": "ما هو الحد الأقصى لـ Enchant Level باستخدام Anvil قبل Too Expensive؟",
-"options": ["30", "39", "40", "Unlimited"],
-"correctIndex": 2,
+"question": "ما هو ترتيب collision detection؟",
+"options": [
+"Block → Entity",
+"Entity → Block",
+"Parallel",
+"Random"
+],
+"correctIndex": 0,
 "id": 21
 },
 {
 "type": "MCQ",
-"question": "أي Dimension لا يحتوي Weather؟",
-"options": ["Overworld", "Nether", "End", "Nether و End"],
-"correctIndex": 3,
+"question": "ما هو أساس chunk ticking؟",
+"options": [
+"render distance",
+"simulation distance",
+"entity count",
+"random"
+],
+"correctIndex": 1,
 "id": 22
 },
 {
 "type": "MCQ",
-"question": "ما هو أقصى عدد Entities في Chunk قبل Mob Cap؟",
-"options": ["70", "90", "100", "يعتمد"],
-"correctIndex": 3,
+"question": "كيف يتم حساب saturation؟",
+"options": [
+"food فقط",
+"hidden stat",
+"random",
+"health"
+],
+"correctIndex": 1,
 "id": 23
 },
 {
 "type": "MCQ",
-"question": "أي Mob يسبب Fear للـ Villagers؟",
-"options": ["Zombie", "Creeper", "Spider", "Skeleton"],
-"correctIndex": 0,
+"question": "ما هو internal coordinate precision؟",
+"options": [
+"float",
+"double",
+"int",
+"short"
+],
+"correctIndex": 1,
 "id": 24
 },
 {
 "type": "MCQ",
-"question": "ما هو أقصى Range لـ Beacon Level 4؟",
-"options": ["20", "30", "50", "64"],
-"correctIndex": 2,
+"question": "ما هو الحد الأقصى لمستوى potion effect (engine-wise)؟",
+"options": ["127", "255", "1024", "Unlimited"],
+"correctIndex": 1,
 "id": 25
 },
 
 {
 "type": "MCQ",
-"question": "ما هو أقصى Distance للـ TNT Chain Reaction؟",
-"options": ["4", "7", "10", "يعتمد"],
+"question": "كيف يتم تنفيذ block breaking؟",
+"options": [
+"instant check",
+"tick-based progress",
+"random",
+"frame based"
+],
 "correctIndex": 1,
 "id": 26
 },
 {
 "type": "MCQ",
-"question": "أي Mob لا يمكن أن يمر عبر Trapdoor؟",
-"options": ["Zombie", "Villager", "Spider", "Enderman"],
-"correctIndex": 3,
+"question": "ما هو internal representation للchunk؟",
+"options": [
+"2D grid",
+"3D array sections",
+"linked list",
+"graph"
+],
+"correctIndex": 1,
 "id": 27
 },
 {
 "type": "MCQ",
-"question": "كم Tick يستغرق Comparator؟",
-"options": ["1", "2", "3", "4"],
+"question": "كم ارتفاع section chunk؟",
+"options": ["8", "16", "32", "64"],
 "correctIndex": 1,
 "id": 28
 },
 {
 "type": "MCQ",
-"question": "ما هو أقصى Damage من TNT؟",
-"options": ["49", "97", "100+", "يعتمد"],
-"correctIndex": 3,
+"question": "كيف يتم حفظ world seed؟",
+"options": [
+"32-bit",
+"64-bit long",
+"UUID",
+"string"
+],
+"correctIndex": 1,
 "id": 29
 },
 {
 "type": "MCQ",
-"question": "أي Block لا يسمح Mob Spawn فوقه؟",
-"options": ["Slab Bottom", "Carpet", "Glass", "كل ما سبق"],
-"correctIndex": 3,
+"question": "ما هو internal time cycle (day)؟",
+"options": ["12000", "24000", "48000", "6000"],
+"correctIndex": 1,
 "id": 30
 },
 
 {
 "type": "MCQ",
-"question": "ما هو أقصى عدد Strongholds في العالم؟",
-"options": ["1", "3", "128", "Infinite"],
-"correctIndex": 2,
+"question": "كيف يتم حساب beacon range؟",
+"options": [
+"linear",
+"level based formula",
+"random",
+"distance squared"
+],
+"correctIndex": 1,
 "id": 31
 },
 {
 "type": "MCQ",
-"question": "ما هو أقصى عدد Biomes في Chunk واحد؟",
-"options": ["1", "4", "16", "يعتمد"],
-"correctIndex": 3,
+"question": "ما هو أساس liquid flow update؟",
+"options": [
+"tick-based BFS",
+"DFS",
+"random",
+"instant"
+],
+"correctIndex": 0,
 "id": 32
 },
 {
 "type": "MCQ",
-"question": "ما هو أقصى عدد Items في Drop Stack؟",
-"options": ["64", "128", "256", "Unlimited"],
-"correctIndex": 3,
+"question": "ما هو الحد الأقصى لـ block id legacy؟",
+"options": ["255", "4096", "32767", "Unlimited"],
+"correctIndex": 0,
 "id": 33
 },
 {
 "type": "MCQ",
-"question": "أي Mob لا يمكن أن يتحرك على Ice بسهولة؟",
-"options": ["Zombie", "Spider", "Skeleton", "Villager"],
+"question": "كيف يتم حساب entity collision box؟",
+"options": [
+"2D",
+"AABB",
+"Sphere",
+"Capsule"
+],
 "correctIndex": 1,
 "id": 34
 },
 {
 "type": "MCQ",
-"question": "ما هو أقصى Range لصوت Sculk Sensor؟",
-"options": ["8", "16", "32", "64"],
+"question": "ما هو internal update order بين entities؟",
+"options": [
+"random",
+"insertion order",
+"sorted list",
+"distance"
+],
 "correctIndex": 1,
 "id": 35
 },
 
 {
 "type": "MCQ",
-"question": "أي Tool يكسر Sponge أسرع؟",
-"options": ["Axe", "Pickaxe", "Shovel", "Hand"],
-"correctIndex": 0,
+"question": "ما هو أساس damage calculation النهائي؟",
+"options": [
+"armor only",
+"armor + toughness + enchant",
+"health",
+"random"
+],
+"correctIndex": 1,
 "id": 36
 },
 {
 "type": "MCQ",
-"question": "ما هو أقصى Damage من Wither Explosion؟",
-"options": ["20", "40", "60", "يعتمد"],
-"correctIndex": 3,
+"question": "كيف يتم حساب knockback؟",
+"options": [
+"velocity vector",
+"random",
+"health based",
+"armor"
+],
+"correctIndex": 0,
 "id": 37
 },
 {
 "type": "MCQ",
-"question": "كم Chunk يتم تحميلها بـ Simulation Distance 4؟",
-"options": ["49", "81", "121", "169"],
-"correctIndex": 0,
+"question": "ما هو internal cap للNBT size؟",
+"options": [
+"2KB",
+"32KB",
+"2MB تقريباً",
+"Unlimited"
+],
+"correctIndex": 2,
 "id": 38
 },
 {
 "type": "MCQ",
-"question": "ما هو أقصى عدد Beacon Effects مع Full Pyramid؟",
-"options": ["1", "2", "3", "4"],
-"correctIndex": 2,
+"question": "كيف يتم تحميل structures؟",
+"options": [
+"pre-generated",
+"seed + noise",
+"random",
+"player based"
+],
+"correctIndex": 1,
 "id": 39
 },
 {
 "type": "MCQ",
-"question": "أي Mob يتجاهل Light Level؟",
-"options": ["Enderman", "Phantom", "Slime", "كلهم"],
-"correctIndex": 2,
+"question": "ما هو internal lighting engine؟",
+"options": [
+"ray tracing",
+"flood fill",
+"random",
+"AI"
+],
+"correctIndex": 1,
 "id": 40
-},
-
-{
-"type": "MCQ",
-"question": "ما هو أقصى Range لBow Fully Charged؟",
-"options": ["100 block", "150 block", "200+ block", "Unlimited"],
-"correctIndex": 3,
-"id": 41
-},
-{
-"type": "MCQ",
-"question": "أي Mob لديه أعلى HP؟",
-"options": ["Wither", "Warden", "Dragon", "Iron Golem"],
-"correctIndex": 1,
-"id": 42
-},
-{
-"type": "MCQ",
-"question": "ما هو أقصى عدد Redstone Dust متصلة بدون ضعف؟",
-"options": ["10", "15", "16", "20"],
-"correctIndex": 1,
-"id": 43
-},
-{
-"type": "MCQ",
-"question": "أي Block ينقل Signal عمودياً؟",
-"options": ["Glass", "Slab", "Solid Block", "Water"],
-"correctIndex": 2,
-"id": 44
-},
-{
-"type": "MCQ",
-"question": "ما هو أقصى Speed Effect Level؟",
-"options": ["2", "5", "10", "255"],
-"correctIndex": 3,
-"id": 45
-},
-
-{
-"type": "MCQ",
-"question": "أي Mob لا يمكن Leash له؟",
-"options": ["Cow", "Villager", "Enderman", "Wolf"],
-"correctIndex": 2,
-"id": 46
-},
-{
-"type": "MCQ",
-"question": "ما هو أقصى Size للSlime؟",
-"options": ["4", "8", "16", "32"],
-"correctIndex": 2,
-"id": 47
-},
-{
-"type": "MCQ",
-"question": "ما هو أقصى عدد Frames في Map؟",
-"options": ["128x128", "256x256", "512x512", "Unlimited"],
-"correctIndex": 3,
-"id": 48
-},
-{
-"type": "MCQ",
-"question": "أي Mob لا يتأثر بالماء؟",
-"options": ["Zombie", "Enderman", "Skeleton", "Drowned"],
-"correctIndex": 3,
-"id": 49
-},
-{
-"type": "MCQ",
-"question": "ما هو أقصى Enchant Combine Cost؟",
-"options": ["39", "40", "41+", "Unlimited"],
-"correctIndex": 2,
-"id": 50
-},
-
-{
-"type": "MCQ",
-"question": "ما هو أقصى Tick Delay باستخدام Chain؟",
-"options": ["4", "8", "16", "Unlimited"],
-"correctIndex": 3,
-"id": 51
-},
-{
-"type": "MCQ",
-"question": "أي Mob يمكنه كسر Door؟",
-"options": ["Zombie Hard", "Skeleton", "Creeper", "Spider"],
-"correctIndex": 0,
-"id": 52
-},
-{
-"type": "MCQ",
-"question": "ما هو أقصى Build Height Overworld؟",
-"options": ["256", "320", "384", "512"],
-"correctIndex": 1,
-"id": 53
-},
-{
-"type": "MCQ",
-"question": "أي Block يوقف Fall Damage؟",
-"options": ["Slime", "Hay Bale", "Water", "كلهم"],
-"correctIndex": 3,
-"id": 54
-},
-{
-"type": "MCQ",
-"question": "ما هو أقصى Speed Elytra؟",
-"options": ["40", "60", "100+", "Unlimited"],
-"correctIndex": 2,
-"id": 55
-},
-
-{
-"type": "MCQ",
-"question": "أي Mob يسبب Blindness؟",
-"options": ["Warden", "Wither", "Skeleton", "Spider"],
-"correctIndex": 0,
-"id": 56
-},
-{
-"type": "MCQ",
-"question": "ما هو أقصى Looting Level؟",
-"options": ["3", "5", "10", "255"],
-"correctIndex": 0,
-"id": 57
-},
-{
-"type": "MCQ",
-"question": "أي Dimension فيه Void Damage؟",
-"options": ["Overworld", "Nether", "End", "كلهم"],
-"correctIndex": 3,
-"id": 58
-},
-{
-"type": "MCQ",
-"question": "ما هو أقصى عدد Shulker Boxes يمكن حملها داخل بعضها؟",
-"options": ["1", "27", "Infinite", "لا يمكن"],
-"correctIndex": 3,
-"id": 59
-},
-{
-"type": "MCQ",
-"question": "ما هو أقصى Level Experience طبيعي؟",
-"options": ["100", "1000", "Unlimited", "255"],
-"correctIndex": 2,
-"id": 60
-},
-
-{
-"type": "MCQ",
-"question": "أي Mob يسبب Mining Fatigue؟",
-"options": ["Guardian", "Elder Guardian", "Warden", "Wither"],
-"correctIndex": 1,
-"id": 61
-},
-{
-"type": "MCQ",
-"question": "ما هو أقصى عدد Enchantments على Sword؟",
-"options": ["5", "6", "7", "Depends"],
-"correctIndex": 3,
-"id": 62
-},
-{
-"type": "MCQ",
-"question": "أي Mob يمكنه Teleport؟",
-"options": ["Enderman", "Shulker", "Chorus Fruit Player", "كلهم"],
-"correctIndex": 3,
-"id": 63
-},
-{
-"type": "MCQ",
-"question": "ما هو أقصى Damage Critical؟",
-"options": ["+50%", "+100%", "+150%", "Random"],
-"correctIndex": 0,
-"id": 64
-},
-{
-"type": "MCQ",
-"question": "أي Block لا يمكن كسره نهائياً؟",
-"options": ["Obsidian", "Bedrock", "Barrier", "Command Block"],
-"correctIndex": 1,
-"id": 65
-},
-
-{
-"type": "MCQ",
-"question": "ما هو أقصى Distance للMob Despawn؟",
-"options": ["32", "64", "128", "256"],
-"correctIndex": 2,
-"id": 66
-},
-{
-"type": "MCQ",
-"question": "أي Mob يسبب Wither Effect؟",
-"options": ["Wither Skeleton", "Witch", "Zombie", "Enderman"],
-"correctIndex": 0,
-"id": 67
-},
-{
-"type": "MCQ",
-"question": "ما هو أقصى Armor Points؟",
-"options": ["20", "30", "40", "50"],
-"correctIndex": 0,
-"id": 68
-},
-{
-"type": "MCQ",
-"question": "أي Tool أسرع في Netherite؟",
-"options": ["Pickaxe", "Axe", "Shovel", "Sword"],
-"correctIndex": 1,
-"id": 69
-},
-{
-"type": "MCQ",
-"question": "ما هو أقصى Tick Speed ممكن؟",
-"options": ["3", "10", "100", "Unlimited (command)"],
-"correctIndex": 3,
-"id": 70
 }
 ]
